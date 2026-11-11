@@ -1,0 +1,198 @@
+{
+  "framework": "Western Australian Curriculum Years 7–10 and SCSA senior secondary courses Years 11–12",
+  "note": "Broad organisational categories; not an exhaustive verified list of year-specific curriculum codes or language offerings.",
+  "learningAreas": {
+    "English": {
+      "English": [
+        "Language",
+        "Literature",
+        "Literacy"
+      ]
+    },
+    "Mathematics": {
+      "Mathematics": [
+        "Number",
+        "Algebra",
+        "Measurement",
+        "Space",
+        "Statistics",
+        "Probability"
+      ]
+    },
+    "Science": {
+      "Science": [
+        "Biological Sciences",
+        "Chemical Sciences",
+        "Earth and Space Sciences",
+        "Physical Sciences",
+        "Science Inquiry"
+      ]
+    },
+    "Humanities and Social Sciences": {
+      "History": [
+        "Historical Knowledge",
+        "Historical Inquiry"
+      ],
+      "Geography": [
+        "Geographical Knowledge",
+        "Geographical Inquiry"
+      ],
+      "Civics and Citizenship": [
+        "Government and Democracy",
+        "Laws and Citizens",
+        "Citizenship"
+      ],
+      "Economics and Business": [
+        "Economics",
+        "Business"
+      ]
+    },
+    "Health and Physical Education": {
+      "Health Education": [
+        "Personal Social and Community Health"
+      ],
+      "Physical Education": [
+        "Movement and Physical Activity"
+      ]
+    },
+    "Technologies": {
+      "Design and Technologies": [
+        "Engineering Principles and Systems",
+        "Food and Fibre Production",
+        "Food Specialisations",
+        "Materials and Technologies Specialisations"
+      ],
+      "Digital Technologies": [
+        "Digital Systems",
+        "Data",
+        "Algorithms and Programming"
+      ]
+    },
+    "The Arts": {
+      "Dance": [
+        "Making",
+        "Responding"
+      ],
+      "Drama": [
+        "Making",
+        "Responding"
+      ],
+      "Media Arts": [
+        "Making",
+        "Responding"
+      ],
+      "Music": [
+        "Making",
+        "Responding"
+      ],
+      "Visual Arts": [
+        "Making",
+        "Responding"
+      ]
+    },
+    "Languages": {
+      "Chinese": [
+        "Language Learning"
+      ],
+      "French": [
+        "Language Learning"
+      ],
+      "German": [
+        "Language Learning"
+      ],
+      "Indonesian": [
+        "Language Learning"
+      ],
+      "Italian": [
+        "Language Learning"
+      ],
+      "Japanese": [
+        "Language Learning"
+      ],
+      "Korean": [
+        "Language Learning"
+      ],
+      "Auslan": [
+        "Language Learning"
+      ],
+      "Other Languages": [
+        "Language Learning"
+      ]
+    }
+  },
+  "seniorSecondary": {
+    "note": "Course-based placeholders for Years 11–12; ATAR and General are distinct courses. Confirm current SCSA offerings and codes before claiming exhaustive coverage.",
+    "pathConvention": "uploads/senior-secondary/<year>/<course-type>/<learning-area>/<course>/<unit-or-topic>/{worksheets,answer-keys}/",
+    "courseTypes": [
+      "ATAR",
+      "General",
+      "Foundation",
+      "Preliminary",
+      "VET / endorsed programs"
+    ],
+    "learningAreas": {
+      "English": [
+        "English",
+        "Literature",
+        "English as an Additional Language or Dialect"
+      ],
+      "Mathematics": [
+        "Mathematics Applications",
+        "Mathematics Methods",
+        "Mathematics Specialist",
+        "Mathematics Essential",
+        "Mathematics Foundation"
+      ],
+      "Science": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Human Biology",
+        "Earth and Environmental Science",
+        "Integrated Science"
+      ],
+      "Humanities and Social Sciences": [
+        "Economics",
+        "Geography",
+        "Modern History",
+        "Ancient History",
+        "Politics and Law",
+        "Accounting and Finance",
+        "Business Management and Enterprise"
+      ],
+      "Health and Physical Education": [
+        "Health Studies",
+        "Physical Education Studies"
+      ],
+      "Technologies": [
+        "Applied Information Technology",
+        "Computer Science",
+        "Design",
+        "Engineering Studies",
+        "Food Science and Technology",
+        "Materials Design and Technology"
+      ],
+      "The Arts": [
+        "Visual Arts",
+        "Drama",
+        "Dance",
+        "Music",
+        "Media Production and Analysis"
+      ],
+      "Languages": [
+        "Chinese",
+        "French",
+        "German",
+        "Indonesian",
+        "Italian",
+        "Japanese",
+        "Other SCSA languages"
+      ]
+    }
+  },
+  "folderHierarchy": {
+    "years7to10": "learning-area / subject / year / strand / topic / worksheets-or-answer-keys",
+    "years11to12": "year / pathway / learning-area / course / unit / strand / topic / worksheets-or-answer-keys"
+  },
+  "strandNote": "Existing Years 7–10 categories are initial strand/grouping labels; validate against current SCSA course documentation. Senior secondary strand labels depend on individual courses and units."
+}
