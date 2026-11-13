@@ -1,0 +1,373 @@
+{
+  "reviewDate": "2026-11-13",
+  "reviewedFiles": 1225,
+  "includedStudentResources": 1014,
+  "excludedFiles": [
+    {
+      "path": "uploads/science/year-7/biological-sciences/characteristics-of-living-things/Year 7 - Biological Sciences - Mrs Gren - koala - Worksheet.png",
+      "title": "Mrs Gren - koala",
+      "reason": "Duplicate of the included koala information poster in PDF format."
+    },
+    {
+      "path": "uploads/science/year-7/biological-sciences/food-chains-food-webs-and-energy-flow/Year 7 - Biological Sciences - Importance of plants in an ecosystem - Worksheet.pdf",
+      "title": "Importance of plants in an ecosystem",
+      "reason": "Exact duplicate: identical file bytes to another included resource."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Multiple Intelligences - Answer Key.docx",
+      "title": "Multiple Intelligences",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Multiple Intelligences - Worksheet.docx",
+      "title": "Multiple Intelligences",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Types of Intelligence - Worksheet.docx",
+      "title": "Types of Intelligence",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Emotions - Answer Key.docx",
+      "title": "Emotions",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Emotions - Worksheet.docx",
+      "title": "Emotions",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Leadership Styles Investigation - Answer Key.docx",
+      "title": "Leadership Styles Investigation",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Leadership Styles Investigation - Worksheet.docx",
+      "title": "Leadership Styles Investigation",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Psychology - Summary - Answer Key.docx",
+      "title": "Psychology - Summary",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Psychology - Summary - Worksheet.docx",
+      "title": "Psychology - Summary",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Psychology - Crossword - Answer Key.docx",
+      "title": "Psychology - Crossword",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Psychology - Crossword - Worksheet.docx",
+      "title": "Psychology - Crossword",
+      "reason": "Outside the purpose of the Years 7–10 Science resource collection; psychology/self-rating or personal-reflection activity without a clear Science curriculum or inquiry learning purpose."
+    },
+    {
+      "path": "uploads/science/year-10/earth-and-space-sciences/stars-galaxies-and-the-universe/Year 10 - Earth and Space Sciences - The expanding universe - Answer Key - Version 01.docx",
+      "title": "The expanding universe",
+      "reason": "File contains website HTML or a publisher access page rather than the worksheet or answer-key content."
+    },
+    {
+      "path": "uploads/science/years-7-10/science-inquiry/science-technology-and-society/Years 7-10 - Science Inquiry - Great ideas and lucky breaks - Answer Key.docx",
+      "title": "Great ideas and lucky breaks",
+      "reason": "File contains website HTML or a publisher access page rather than the worksheet or answer-key content."
+    },
+    {
+      "path": "uploads/science/19236-laboratory-equipment (2).doc",
+      "title": "Laboratory equipment",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/19236-laboratory-equipment.doc",
+      "title": "Laboratory equipment",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/19480-energy-flow-in-an-ecosystem.doc",
+      "title": "Energy flow in an ecosystem",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/19583-comparing-elements-compounds-and-mixtures.doc",
+      "title": "Comparing elements compounds and mixtures",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/19991-predator-prey-and-populations.doc",
+      "title": "Predator prey and populations",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/20343-energy-in-energy-out.doc",
+      "title": "Energy in energy out",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/22037-science-in-the-news-the-abominable-snowman-s-dna.doc",
+      "title": "Science in the news the abominable snowman s dna",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/24347-investigating-enzymes.docx",
+      "title": "Investigating enzymes",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/25369-the-water-cycle.docx",
+      "title": "The water cycle",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/25968-keyword-traffic-lights-template.docx",
+      "title": "Keyword traffic lights template",
+      "reason": "Generic template or decorative activity without enough substantive Science learning content for this collection."
+    },
+    {
+      "path": "uploads/science/26914-follow-me-cards-cells.docx",
+      "title": "Follow me cards cells",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/26947-cell-organelle-card-sort.docx",
+      "title": "Cell organelle card sort",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/28216-cell-structure-dominoes.docx",
+      "title": "Cell structure dominoes",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/29980-keyword-links-periodic-table.docx",
+      "title": "Keyword links periodic table",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/33945-photosynthesis-word-challenge.docx",
+      "title": "Photosynthesis word challenge",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/T-UG-037-Twinkl-Secondary-Science-User-Guide.pdf",
+      "title": "T UG 037 Twinkl Secondary Science User Guide",
+      "reason": "Publisher product guide and catalogue instructions, rather than a Science teaching resource."
+    },
+    {
+      "path": "uploads/science/T3-Sc-014-KS3-Science-Revision-Colouring-Food-Web.pdf",
+      "title": "KS3 Science Revision Colouring Food Web",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/T3-Sc-015-KS3-Science-Revision-Colouring-Parts-of-a-Flower.pdf",
+      "title": "KS3 Science Revision Colouring Parts of a Flower",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/WK- Food chains and food webs.pdf",
+      "title": "Food chains and food webs",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK- Food webs.pdf",
+      "title": "Food webs",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK- Photosynthesis.pdf",
+      "title": "Photosynthesis",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK- Table activity on Classes of Organisms.docx",
+      "title": "Table activity on Classes of Organisms",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-(Achieve) Importance of plants in an ecosystem.pdf",
+      "title": "(Achieve) Importance of plants in an ecosystem",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-(Science By doing) water scaffold extra.docx",
+      "title": "(Science By doing) water scaffold extra",
+      "reason": "Requires specific external Science By Doing notebook activities not supplied with this file; not a self-contained resource."
+    },
+    {
+      "path": "uploads/science/WK-(Science By doing) water scaffold.docx",
+      "title": "(Science By doing) water scaffold",
+      "reason": "Requires specific external Science By Doing notebook activities not supplied with this file; not a self-contained resource."
+    },
+    {
+      "path": "uploads/science/WK-Blank chatterbox.docx",
+      "title": "Blank chatterbox",
+      "reason": "Generic template or decorative activity without enough substantive Science learning content for this collection."
+    },
+    {
+      "path": "uploads/science/WK-Changes to ecosystem - living and nonliving.pdf",
+      "title": "Changes to ecosystem living and nonliving",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-Circular Keys (editable).doc",
+      "title": "Circular Keys (editable)",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-Classification outline activity.docx",
+      "title": "Classification outline activity",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/WK-Classifying Animals Pictures- cut and paste.docx",
+      "title": "Classifying Animals Pictures cut and paste",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/WK-Creating a Food Web.doc",
+      "title": "Creating a Food Web",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-Dichotomous key activity.docx",
+      "title": "Dichotomous key activity",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/WK-IN MY TREE HOUSE.pdf",
+      "title": "IN MY TREE HOUSE",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-Kingdoms Cut and Paste.doc",
+      "title": "Kingdoms Cut and Paste",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-Numbered Key.doc",
+      "title": "Numbered Key",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-Predator and Prey (Cut and Paste).pdf",
+      "title": "Predator and Prey (Cut and Paste)",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-Sub-classes of mammals table activity.docx",
+      "title": "Sub classes of mammals table activity",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WK-Using Dichotomous keys.pdf",
+      "title": "Using Dichotomous keys",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WS Animals with backbones.pdf",
+      "title": "WS Animals with backbones",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WS Animals without backbones.pdf",
+      "title": "WS Animals without backbones",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WS Life Processes.pdf",
+      "title": "WS Life Processes",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WS Types of consumers.doc",
+      "title": "WS Types of consumers",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/WS2 Food Webs.pdf",
+      "title": "WS2 Food Webs",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/t3-sc-239-chemical-reactions-word-mat.pdf",
+      "title": "Chemical reactions word mat",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/t3-sc-303-causes-of-rusting-investigation-help-sheet-printout.pdf",
+      "title": "Causes of rusting investigation help sheet printout",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/t3-sc-325-ks3-carbon-cycle-homework-activity-sheet.pdf",
+      "title": "Ks3 carbon cycle homework activity sheet",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/t3-sc-510-female-reproductive-system-picture-hotspot.pdf",
+      "title": "Female reproductive system picture hotspot",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/t3-sc-513-respiratory-system-picture-hotspot_ver_1.pdf",
+      "title": "Respiratory system picture hotspot",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/t3-sc-515-the-structure-of-the-earth-picture-hotspot.pdf",
+      "title": "The structure of the earth picture hotspot",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/t3-sc-516-balanced-and-unbalanced-forces-homework-activity-sheet.pdf",
+      "title": "Balanced and unbalanced forces homework activity sheet",
+      "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/t3-sc-716-science-homework-food-web-colouring-page.pdf",
+      "title": "Science homework food web colouring page",
+      "reason": "Generic template or decorative activity without enough substantive Science learning content for this collection."
+    },
+    {
+      "path": "uploads/science/t3-sc-952-human-body-outline-worksheet-english.pdf",
+      "title": "Human body outline worksheet english",
+      "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    }
+  ],
+  "resourceTypes": {
+    "Information Sheet": 37,
+    "Worksheet": 745,
+    "Activity": 146,
+    "Revision Booklet": 31,
+    "Experiment": 48,
+    "Teaching Guide": 7
+  },
+  "publishers": {
+    "Uncredited source": 420,
+    "Learning Essentials": 8,
+    "Wiley / Jacaranda": 195,
+    "Education Services Australia": 2,
+    "Pearson": 35,
+    "Emerald City Books": 1,
+    "BIOZONE": 1,
+    "Creative Learning Exchange": 1,
+    "3P Learning / IntoScience": 2,
+    "Beaver Educational Resources": 5,
+    "Iman’s Homeschool": 1,
+    "Outstanding Science / Minerva Education": 1,
+    "Twinkl": 96,
+    "Laboratory Safety Institute": 1,
+    "Keep It Simple Science": 18,
+    "Teachit": 219,
+    "Wildscreen / ARKive": 2,
+    "Exploring Nature / Sheri Amsel": 3,
+    "ESWA / WASP": 3
+  },
+  "pendingNewUploads": 1940,
+  "note": "Unreviewed uploads are withheld from the public catalogue. Original files are retained."
+}

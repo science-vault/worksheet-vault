@@ -27,14 +27,17 @@ def document_assets(p,h):
  if not image.exists():subprocess.run(['pdftoppm','-f','1','-singlefile','-scale-to','700','-png',str(pdf),str(image.with_suffix(''))],check=True,capture_output=True,timeout=90)
  return dict(thumbnail=url(image),previewUrl=url(pdf))
 def main():
- entries=[];failures=[]
+ entries=[];failures=[];withheld=[]
  for p in sorted(UPLOADS.rglob('*'),key=lambda p:str(p).lower()):
   if not p.is_file()or p.suffix.lower()not in EXTENSIONS:continue
   path=p.relative_to(ROOT).as_posix();h=digest(p);m=META.get(path,{})
   valid=m.get('hash')==h
+  if valid and m.get('included') is False:
+   withheld.append(dict(path=path,reason=m.get('qualityNote','Excluded after review')))
+   continue
   if not valid:
-   # A new or changed file needs content review; folder or chapter numbers do not prove its year.
-   m=dict(title=p.stem,year='7–10',years=['7','8','9','10'],area='Science' if 'science'in p.parts else 'Other',subject='Science' if 'science'in p.parts else 'Other',strand='Extra Worksheets',topic='Extra Worksheets',collection='extra',keywords=[],description='New upload awaiting content and curriculum review.',isAnswer=bool(re.search(r'(?i)answer|solution|marking',p.stem)),pairId='unreviewed:'+path)
+   withheld.append(dict(path=path,reason='New or changed upload awaiting content, usefulness and curriculum review.'))
+   continue
   entries.append(dict(path=path,p=p,h=h,meta=m))
  groups=collections.defaultdict(list)
  for e in entries:groups[e['meta'].get('pairId',e['path'])].append(e)
@@ -52,7 +55,7 @@ def main():
   text=m.get('searchText','')
   words=[w for w,c in collections.Counter(re.findall(r'[a-z]{4,}',text.lower())).most_common(120)if w not in STOP][:14]
   kws=list(dict.fromkeys(m.get('keywords',[])+words))[:32]
-  rows.append(dict(id='github:'+e['path'],title=m['title']+(' - Answer Key'if m.get('isAnswer')else ''),year=m.get('year','7–10'),years=m.get('years',[m.get('year','')]),area=m.get('area','Science'),subject=m.get('subject','Science'),pathway='',strand=m.get('strand','Extra Worksheets'),topic=m.get('topic','Extra Worksheets'),supportingTopic=m.get('supportingTopic',''),collection=m.get('collection','extra'),description=m.get('description',''),keywords=kws,searchText=text[:60000],curriculumSource=m.get('curriculumSource',''),classificationNote=m.get('classificationNote',''),originalFilename=Path(m.get('originalPath',e['path'])).name,resourceType='answer-key'if m.get('isAnswer')else 'worksheet',worksheet=dict(name=e['p'].name,url=url(e['p'])),answer=dict(name=answer['p'].name,url=url(answer['p']))if answer else None,source='github',_entry=e))
+  rows.append(dict(id='github:'+e['path'],title=m['title']+(' - Answer Key'if m.get('isAnswer')else ''),publisher=m.get('publisher','Uncredited source'),publisherCategory=m.get('publisherCategory','Uncredited source'),resourceTypes=m.get('resourceTypes',['Worksheet']),reviewStatus=m.get('reviewStatus','Reviewed'),year=m.get('year','7–10'),years=m.get('years',[m.get('year','')]),area=m.get('area','Science'),subject=m.get('subject','Science'),pathway='',strand=m.get('strand','Extra Worksheets'),topic=m.get('topic','Extra Worksheets'),supportingTopic=m.get('supportingTopic',''),collection=m.get('collection','extra'),description=m.get('description',''),keywords=kws,searchText=text[:60000],curriculumSource=m.get('curriculumSource',''),classificationNote=m.get('classificationNote',''),originalFilename=Path(m.get('originalPath',e['path'])).name,resourceType=m.get('resourceType','Worksheet'),worksheet=dict(name=m.get('downloadName',e['p'].name),url=url(e['p'])),answer=dict(name=answer['meta'].get('downloadName',answer['p'].name),url=url(answer['p']))if answer else None,source='github',_entry=e))
  def render(row):
   e=row.pop('_entry')
   try:row.update(document_assets(e['p'],e['h']))
@@ -62,8 +65,10 @@ def main():
   return row
  # Separate office profiles permit parallel conversion without locking a shared process.
  with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:rows=list(pool.map(render,rows))
+ rows.sort(key=lambda r:(r['collection']=='extra',int(r['year'])if r['year'].isdigit()else 99,r['strand'],r['title'].lower()))
  OUTPUT.parent.mkdir(exist_ok=True,parents=True);OUTPUT.write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n')
- (ROOT/'catalogue/preview-status.json').write_text(json.dumps(dict(worksheets=len(rows),linkedAnswerKeys=len(matched),failures=failures),indent=2)+'\n')
+ (ROOT/'catalogue/preview-status.json').write_text(json.dumps(dict(worksheets=len(rows),linkedAnswerKeys=len(matched),failures=failures,withheldFiles=len(withheld)),indent=2)+'\n')
+ (ROOT/'catalogue/withheld-resources.json').write_text(json.dumps(dict(files=withheld),ensure_ascii=False,indent=2)+'\n')
  print(f'Indexed {len(rows)} resources; linked {len(matched)} answer files; {len(failures)} preview failures')
  if failures:raise SystemExit('Preview failures recorded in catalogue/preview-status.json; fix before publishing')
 if __name__=='__main__':main()
