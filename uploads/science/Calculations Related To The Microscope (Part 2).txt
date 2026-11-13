@@ -1,0 +1,83 @@
+Calculations Related To The Microscope (Part 2)Unit 1:  Introduction to 
+      Biology
+      Module 2:  The Microscope 
+      Learning Objective(s): 2.4, 2.5
+      Lesson 4:  Estimating the Size of an Object (Calculations – Part 2) and 
+      Preparing Biological Drawings 
+      Lesson Objective(s):
+        To become familiar with the procedure used for estimating the size of 
+        objects observed. 
+        To become familiar with the methods and components of a biological 
+        drawing. 
+      Evaluation:  Assignment: [15 marks]
+        Microscope Calculation – Worksheet One [5 marks] 
+        Microscope Calculation – Worksheet Two [10 marks] 
+
+
+
+
+      Once you have completed the calculations used in Lessons 2 and  3 
+      (Microscope Calculations #1-3), it is possible to estimate the size of any 
+      object that you are viewing on the microscope that you used for the above 
+      calculations.
+      Microscope Calculations (continued)
+       
+      4)       Estimating the size of an object:
+        You must first calculate the diameter of the field of view for the power 
+        of magnification you are using. 
+        Looking through the eyepiece, estimate how many times the object will 
+        fit across the field of view. 
+        Calculate the size of the object using the formula below. 
+        Remember to use um 
+
+
+      Example:
+      The image of the amoeba to the left is seen under medium power (100X 
+      magnification).
+      If the diameter of the field of view on low power (40X) for this 
+      microscope is 4000 µm, first calculate the diameter of the field of view 
+      for medium power as follows:
+
+
+      Second, estimate the number of times the object (amoeba) fits across the 
+      field of view. Unless otherwise instructed, estimate using the longest 
+      dimension of the object. In the image to the left, the amoeba would fit 
+      across the field of view approximately 2 times. Because the diameter of 
+      the field of view for medium power was calculated as 1600 µm, the size of 
+      the object would be calculated as follows:
+
+      Therefore, the approximate length of the amoeba is 800 µm or 0.8mm.
+
+
+
+      The final calculation you will need to use when using the microscope is to 
+      calculate the magnification of your drawing.  (This is a way of 
+      calculating how many times larger your drawing is in relation to the 
+      estimated size of the object.)
+      Before calculating the magnification of a drawing, you need to review the 
+      proper methods and components used in a biological drawing. See 
+      "Biological Drawings" for further instruction.
+      5)       Calculating the magnification of your drawing:
+        First calculate the size of the object using the procedure outlined 
+        above. 
+        Using a ruler, measure the size of your drawing and convert units to um. 
+        (In the diagram below a ruler has been superimposed on the drawing to 
+        illustrate how to measure. The image in this particular example is 
+        13.7cm or 137mm, which converts to 137 000 µm.) 
+        Calculate the magnification of your drawing using the formula below the 
+        diagram. 
+
+
+
+
+      This number indicates how many times larger your drawing is relative to 
+      the actual size of the object.
+      This number should appear at the bottom of your drawing.
+      Now put all of your skills together and complete the following worksheets, 
+      which are to be submitted for evaluation.
+                                          Microscope Calculations – Worksheet 
+one
+                                          Microscope Calculations – Worksheet 
+two
+      Back to Unit 1, Module 2
+
