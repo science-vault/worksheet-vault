@@ -1,6 +1,6 @@
 {
   "reviewDate": "2026-11-13",
-  "reviewedFiles": 1225,
+  "reviewedFiles": 1231,
   "includedStudentResources": 1014,
   "excludedFiles": [
     {
@@ -337,6 +337,36 @@
       "path": "uploads/science/t3-sc-952-human-body-outline-worksheet-english.pdf",
       "title": "Human body outline worksheet english",
       "reason": "Insufficient readable content to verify usefulness and classify confidently; withheld for visual review."
+    },
+    {
+      "path": "uploads/science/Food chains and webs.doc",
+      "title": "Food chains and webs Habitat",
+      "reason": "Byte-identical duplicate of reviewed resource: uploads/science/WK-Food chains and webs- Habitat.doc"
+    },
+    {
+      "path": "uploads/science/IT-Physical and chemical changes webquest.doc",
+      "title": "Physical and chemical changes",
+      "reason": "Byte-identical duplicate of reviewed resource: uploads/science/IT-Physical and chemical changes.doc"
+    },
+    {
+      "path": "uploads/science/WK-(BW)The particle model.docx",
+      "title": "The particle model boardworks",
+      "reason": "Byte-identical duplicate of reviewed resource: uploads/science/WK-The particle model boardworks.docx"
+    },
+    {
+      "path": "uploads/science/Wk-phys_and_chem_properites (Cut and sort).pdf",
+      "title": "Chemical Physical Properties (cut and sort)",
+      "reason": "Byte-identical duplicate of reviewed resource: uploads/science/WK- Chemical Physical Properties (cut and sort).pdf"
+    },
+    {
+      "path": "uploads/science/microscope_worksheets_09(1).pdf",
+      "title": "Microscope worksheets",
+      "reason": "Byte-identical duplicate of reviewed resource: uploads/science/microscope_worksheets_09.pdf"
+    },
+    {
+      "path": "uploads/science/1 Inherited Characteristics.docx",
+      "title": "Inherited Characteristics",
+      "reason": "Information sheet requires scientific correction: presents tongue rolling as a simple inherited yes/no characteristic and treats eye colour as a continuous measurement; also labels variation as discreet rather than discrete. Withheld to avoid teaching these misconceptions."
     }
   ],
   "resourceTypes": {
@@ -368,6 +398,6 @@
     "Exploring Nature / Sheri Amsel": 3,
     "ESWA / WASP": 3
   },
-  "pendingNewUploads": 1940,
+  "pendingNewUploads": 1934,
   "note": "Unreviewed uploads are withheld from the public catalogue. Original files are retained."
 }
