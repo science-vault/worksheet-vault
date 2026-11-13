@@ -5,6 +5,7 @@ on:
     paths:
       - 'uploads/**'
       - 'scripts/build_catalogue.py'
+      - 'catalogue/resource-metadata.json'
       - '.github/workflows/update-catalogue.yml'
   workflow_dispatch:
 permissions:
@@ -21,6 +22,8 @@ jobs:
           python-version: '3.12'
       - name: Install document preview tools
         run: sudo apt-get update && sudo apt-get install -y libreoffice-writer poppler-utils
+      - name: Install image preview support
+        run: python -m pip install Pillow
       - name: Generate catalogue
         run: python scripts/build_catalogue.py
       - name: Commit updated catalogue

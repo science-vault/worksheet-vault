@@ -1,117 +1,69 @@
 #!/usr/bin/env python3
-"""Build the public Worksheet Vault catalogue from committed files."""
-import hashlib
-import subprocess
-import tempfile
-import collections
-import json
-import re
+"""Index committed worksheets, retaining reviewed SCSA placements and cached previews."""
+import collections,concurrent.futures,hashlib,json,re,subprocess,tempfile
 from pathlib import Path
 from urllib.parse import quote
-
-ROOT = Path(__file__).resolve().parents[1]
-UPLOADS = ROOT / "uploads"
-OUTPUT = ROOT / "catalogue" / "worksheets.json"
-EXTENSIONS = {".pdf", ".doc", ".docx", ".txt", ".rtf", ".odt"}
-KEY_WORDS = re.compile(r"(?i)(?:^|[\s_.-])(answer(?:s)?|answer[\s_-]*key|marking[\s_-]*key|solutions?|memo)(?:$|[\s_.-])")
-KEY_FOLDERS = {"answer-keys", "answer_keys", "answers", "marking-keys", "solutions"}
-IGNORE = {"worksheets", "answer-keys", "answer_keys", "answers", "marking-keys", "solutions"}
-
-def human(s):
-    return re.sub(r"[-_]+", " ", s).strip().title()
-
-def clean_stem(s):
-    s = re.sub(r"(?i)\b(answer(?:s)?|key|marking|solution(?:s)?|memo|teacher|student|worksheet|ws)\b", " ", s)
-    return re.sub(r"[^a-z0-9]+", "", s.lower())
-
-def url(path):
-    return "/".join(quote(part, safe="") for part in path.relative_to(ROOT).parts)
-
-def classify(path):
-    parts = path.relative_to(UPLOADS).parts
-    dirs = list(parts[:-1])
-    year = next((m.group(1) for d in dirs if (m := re.fullmatch(r"year-(7|8|9|10|11|12)", d.lower()))), "")
-    senior = "senior-secondary" in dirs
-    if senior:
-        i = dirs.index("senior-secondary")
-        pathway = human(dirs[i+2]) if len(dirs)>i+2 else ""
-        area = human(dirs[i+3]) if len(dirs)>i+3 else ""
-        subject = human(dirs[i+4]) if len(dirs)>i+4 else area
-        tail = dirs[i+5:]
-    else:
-        i = next((j for j,d in enumerate(dirs) if re.fullmatch(r"year-(7|8|9|10)",d.lower())), -1)
-        if i >= 0:
-            area = human(dirs[0]) if i >= 1 else ""
-            subject = human(dirs[i-1]) if i >= 2 else area
-            tail = dirs[i+1:]
-        else:
-            area = human(dirs[0]) if dirs else ""
-            subject = area
-            tail = dirs[1:]
-        pathway = ""
-    tail = [x for x in tail if x.lower() not in IGNORE]
-    strand = human(tail[0]) if tail else "General"
-    topic = human(tail[-1]) if len(tail)>1 else strand
-    return dict(year=year, area=area, subject=subject, pathway=pathway, strand=strand, topic=topic)
-
-def document_assets(path):
-    asset_dir = ROOT / "catalogue" / "previews"
-    asset_dir.mkdir(parents=True, exist_ok=True)
-    stem = hashlib.sha256(path.relative_to(ROOT).as_posix().encode()).hexdigest()[:20]
-    pdf = path if path.suffix.lower() == ".pdf" else asset_dir / (stem + ".pdf")
-    if path.suffix.lower() != ".pdf":
-        with tempfile.TemporaryDirectory() as temp:
-            subprocess.run(["soffice", "-env:UserInstallation=file://"+temp+"/profile", "--headless", "--convert-to", "pdf", "--outdir", temp, str(path)], check=True, capture_output=True, timeout=90)
-            converted = Path(temp) / (path.stem + ".pdf")
-            if not converted.exists(): raise RuntimeError("No converted PDF: " + str(path))
-            pdf.write_bytes(converted.read_bytes())
-    image = asset_dir / (stem + ".png")
-    subprocess.run(["pdftoppm", "-f", "1", "-singlefile", "-scale-to", "700", "-png", str(pdf), str(image.with_suffix(""))], check=True, capture_output=True, timeout=60)
-    text = subprocess.run(["pdftotext", str(pdf), "-"], check=True, capture_output=True, text=True, timeout=30).stdout
-    stop = set("the and for are with this that from your you name date class worksheet what which how when where these they have will into using their each write answer answers students student page year science biological sciences question questions following below above activity sheet not can all has was were its use one two three www com https http org pdf doc school label labels".split())
-    words = re.findall(r"[a-z]{4,}", text.lower())
-    keywords = [w for w, count in collections.Counter(words).most_common(100) if w not in stop][:18]
-    titlewords = re.findall(r"[a-z]{3,}", path.stem.lower())
-    keywords = list(dict.fromkeys([w for w in titlewords if w not in stop] + keywords))[:24]
-    # Useful curriculum synonyms are added only when the document supports the topic.
-    groups = [(r"food|ecosystem|habitat", ["ecology", "food chains", "food webs"]), (r"classif|dichotom|circular.key|organism|chordat", ["classification", "taxonomy", "identification"])]
-    for pattern, tags in groups:
-        if re.search(pattern, path.stem.lower()): keywords += [t for t in tags if t not in keywords]
-    return {"thumbnail": url(image), "previewUrl": url(pdf), "keywords": keywords, "searchText": text[:60000]}
-
+ROOT=Path(__file__).resolve().parents[1]
+UPLOADS=ROOT/'uploads'; OUTPUT=ROOT/'catalogue/worksheets.json'
+EXTENSIONS={'.pdf','.doc','.docx','.txt','.rtf','.odt','.png','.jpg','.jpeg'}
+META_FILE=ROOT/'catalogue/resource-metadata.json'
+META=json.loads(META_FILE.read_text()) if META_FILE.exists() else {}
+STOP=set('the and for are with this that from your you name date class worksheet what which how when where these they have will into using their each write answer answers students student page year science biological sciences question questions following below above activity sheet not can all has was were its use one two three www com https http org pdf doc school label labels john wiley sons australia workbook chapter copyright'.split())
+def url(p):return '/'.join(quote(s,safe='') for s in p.relative_to(ROOT).parts)
+def digest(p):return hashlib.sha256(p.read_bytes()).hexdigest()[:20]
+def document_assets(p,h):
+ assets=ROOT/'catalogue/previews';assets.mkdir(parents=True,exist_ok=True)
+ pdf=p if p.suffix.lower()=='.pdf' else assets/(h+'.pdf');image=assets/(h+'.png')
+ if p.suffix.lower() in {'.png','.jpg','.jpeg'}:
+  if not pdf.exists():
+   from PIL import Image
+   Image.open(p).convert('RGB').save(pdf,'PDF',resolution=100)
+ elif p.suffix.lower()!='.pdf' and not pdf.exists():
+  with tempfile.TemporaryDirectory() as td:
+   subprocess.run(['soffice','-env:UserInstallation=file://'+td+'/profile','--headless','--convert-to','pdf','--outdir',td,str(p)],check=True,capture_output=True,timeout=120)
+   converted=Path(td)/(p.stem+'.pdf')
+   if not converted.exists():raise RuntimeError('No PDF produced')
+   pdf.write_bytes(converted.read_bytes())
+ if not image.exists():subprocess.run(['pdftoppm','-f','1','-singlefile','-scale-to','700','-png',str(pdf),str(image.with_suffix(''))],check=True,capture_output=True,timeout=90)
+ return dict(thumbnail=url(image),previewUrl=url(pdf))
 def main():
-    files = sorted((p for p in UPLOADS.rglob("*") if p.is_file() and p.suffix.lower() in EXTENSIONS), key=lambda p: str(p).lower())
-    keys, worksheets = [], []
-    for p in files:
-        is_key = any(d.lower() in KEY_FOLDERS for d in p.parts) or bool(KEY_WORDS.search(p.stem))
-        (keys if is_key else worksheets).append(p)
-    matched = set()
-    rows = []
-    for p in worksheets:
-        meta = classify(p)
-        candidates = []
-        for k in keys:
-            if k in matched: continue
-            km = classify(k)
-            if (meta["year"],meta["subject"],meta["strand"]) != (km["year"],km["subject"],km["strand"]): continue
-            if clean_stem(p.stem) and clean_stem(p.stem)==clean_stem(k.stem):
-                candidates.append(k)
-        answer = candidates[0] if len(candidates)==1 else None
-        if answer: matched.add(answer)
-        rows.append({
-            "id": "github:" + p.relative_to(ROOT).as_posix(),
-            "title": p.stem.replace("_"," ").strip(),
-            **meta,
-            "description": "",
-            **document_assets(p),
-            "worksheet": {"name":p.name, "url":url(p)},
-            "answer": {"name":answer.name,"url":url(answer)} if answer else None,
-            "source": "github"
-        })
-    # Standalone answer keys remain unlinked until a confident match is found.
-    OUTPUT.parent.mkdir(parents=True,exist_ok=True)
-    OUTPUT.write_text(json.dumps(rows,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print(f"Indexed {len(rows)} worksheets; matched {len(matched)} answer keys; {len(keys)-len(matched)} unmatched keys")
-
-if __name__ == "__main__":
-    main()
+ entries=[];failures=[]
+ for p in sorted(UPLOADS.rglob('*'),key=lambda p:str(p).lower()):
+  if not p.is_file()or p.suffix.lower()not in EXTENSIONS:continue
+  path=p.relative_to(ROOT).as_posix();h=digest(p);m=META.get(path,{})
+  valid=m.get('hash')==h
+  if not valid:
+   # A new or changed file needs content review; folder or chapter numbers do not prove its year.
+   m=dict(title=p.stem,year='7–10',years=['7','8','9','10'],area='Science' if 'science'in p.parts else 'Other',subject='Science' if 'science'in p.parts else 'Other',strand='Extra Worksheets',topic='Extra Worksheets',collection='extra',keywords=[],description='New upload awaiting content and curriculum review.',isAnswer=bool(re.search(r'(?i)answer|solution|marking',p.stem)),pairId='unreviewed:'+path)
+  entries.append(dict(path=path,p=p,h=h,meta=m))
+ groups=collections.defaultdict(list)
+ for e in entries:groups[e['meta'].get('pairId',e['path'])].append(e)
+ rows=[];matched=set()
+ for e in entries:
+  m=e['meta'];group=groups[m.get('pairId',e['path'])]
+  students=[a for a in group if not a['meta'].get('isAnswer')]
+  if m.get('isAnswer') and students:continue
+  keys=[a for a in group if a['meta'].get('isAnswer')]
+  answer=None
+  if not m.get('isAnswer')and keys and m.get('answerPath'):
+   preferred=m.get('answerPath')
+   answer=next((k for k in keys if k['path']==preferred),None) or sorted(keys,key=lambda k:(k['p'].suffix.lower()!='.pdf',k['path']))[0]
+   matched.add(answer['path'])
+  text=m.get('searchText','')
+  words=[w for w,c in collections.Counter(re.findall(r'[a-z]{4,}',text.lower())).most_common(120)if w not in STOP][:14]
+  kws=list(dict.fromkeys(m.get('keywords',[])+words))[:32]
+  rows.append(dict(id='github:'+e['path'],title=m['title']+(' - Answer Key'if m.get('isAnswer')else ''),year=m.get('year','7–10'),years=m.get('years',[m.get('year','')]),area=m.get('area','Science'),subject=m.get('subject','Science'),pathway='',strand=m.get('strand','Extra Worksheets'),topic=m.get('topic','Extra Worksheets'),supportingTopic=m.get('supportingTopic',''),collection=m.get('collection','extra'),description=m.get('description',''),keywords=kws,searchText=text[:60000],curriculumSource=m.get('curriculumSource',''),classificationNote=m.get('classificationNote',''),originalFilename=Path(m.get('originalPath',e['path'])).name,resourceType='answer-key'if m.get('isAnswer')else 'worksheet',worksheet=dict(name=e['p'].name,url=url(e['p'])),answer=dict(name=answer['p'].name,url=url(answer['p']))if answer else None,source='github',_entry=e))
+ def render(row):
+  e=row.pop('_entry')
+  try:row.update(document_assets(e['p'],e['h']))
+  except Exception as exc:
+   failures.append(dict(path=e['path'],error=str(exc)))
+   row['previewError']='Preview unavailable; the original document can still be downloaded.'
+  return row
+ # Separate office profiles permit parallel conversion without locking a shared process.
+ with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:rows=list(pool.map(render,rows))
+ OUTPUT.parent.mkdir(exist_ok=True,parents=True);OUTPUT.write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n')
+ (ROOT/'catalogue/preview-status.json').write_text(json.dumps(dict(worksheets=len(rows),linkedAnswerKeys=len(matched),failures=failures),indent=2)+'\n')
+ print(f'Indexed {len(rows)} resources; linked {len(matched)} answer files; {len(failures)} preview failures')
+ if failures:raise SystemExit('Preview failures recorded in catalogue/preview-status.json; fix before publishing')
+if __name__=='__main__':main()
