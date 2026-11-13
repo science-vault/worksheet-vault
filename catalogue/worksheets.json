@@ -19247,6 +19247,50 @@
     "previewUrl": "catalogue/previews/7fe190e600ffd9ea79ed.pdf"
   },
   {
+    "title": "Cells and Organelles - Word Search",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Activity"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "8",
+    "years": [
+      "8"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "Cells and Microscopy",
+    "supportingTopic": "Cells and Microscopy",
+    "collection": "curriculum",
+    "description": "Cell-biology vocabulary word search including microscopy, organelles and biological organisation.",
+    "keywords": [
+      "cells",
+      "organelles",
+      "microscope",
+      "nucleus",
+      "chloroplast",
+      "mitochondria",
+      "word search"
+    ],
+    "searchText": "CELLS E P B X W A H G C H L O R O P L A S T S N N L D P S P O Z I C E L L T H E O R Y P U D A N M I C R O S C O P E L E M Q Y A X O O N A C Z L L C Y T O P L A S M A A J R V P T V G W L Y S O S O M E S N G Z D G F G L N A R I B O S O M E Y R L S V Y A R U D A U C F I Q A X B K L A I S B A N R V I H S C U N R I B K L M S I O C M S T F F V V M L O L W Q E I O S Q R E I Y S Z F N R Q I E L V C N T E G U G L T S C O U U F N H C U E A I H N L M A L O T H R S C A X L D R S M T M X T R N M C E R G I L C J V N N E N T C W D C I E H M O A O E X O J A S Y T U I I H B S M O X M N N O A P G I S C C I D S A I M B N T O E I L H R S O Z C H S C S S O A R D T S L V U O O T S J U W P X U M U J A R E O L A S M O I W Y D W F N L L M E N I U M E J S H F Y C E L L W A L L U Q E A J E S O P G O L G I B O D Y Y B K M",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Activity",
+    "id": "github:uploads/science/year-8/biological-sciences/cells-and-microscopy/Year 8 - Biological Sciences - Cells and Organelles - Word Search - Activity.docx",
+    "pathway": "",
+    "originalFilename": "2014 CELLS WORDFIND.docx",
+    "worksheet": {
+      "name": "Year 8 - Biological Sciences - Cells and Organelles - Word Search - Activity.docx",
+      "url": "uploads/science/year-8/biological-sciences/cells-and-microscopy/Year%208%20-%20Biological%20Sciences%20-%20Cells%20and%20Organelles%20-%20Word%20Search%20-%20Activity.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/a521d363ee3550e30c3c.png",
+    "previewUrl": "catalogue/previews/a521d363ee3550e30c3c.pdf"
+  },
+  {
     "id": "github:uploads/science/t3-sc-884-cells-and-organisation-unit-overview-english_ver_1.pdf",
     "title": "Cells and organisation unit overview english",
     "publisher": "Twinkl",
@@ -19467,6 +19511,48 @@
     "source": "github",
     "thumbnail": "catalogue/previews/ee1c16b245dd10d46c88.png",
     "previewUrl": "uploads/science/t3-sc-494-cells-word-search_ver_1.pdf"
+  },
+  {
+    "title": "Cells, Tissues, Organs and Body Systems - Quick Questions",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "8",
+    "years": [
+      "8"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "Plant and Animal Systems",
+    "supportingTopic": "Plant and Animal Systems",
+    "collection": "curriculum",
+    "description": "Short-answer review of biological organisation, human tissues, body systems and digestive organs.",
+    "keywords": [
+      "cells",
+      "tissues",
+      "organs",
+      "organ systems",
+      "digestion"
+    ],
+    "searchText": "Quick Questions Name: ___________ What is the difference between a cell and a tissue? What is the difference between an organ and an organism? Give an example of each one. What are the names of the four different tissue types that humans have? Construct a table (use a ruler) to l ist five systems in the human body and describe the function of each one. On the back of this sheet construct a table  (use a ruler)   that describes five organs in the digestive system as follows: Column 1: Organ name Column 2: Main job of the organ Column 3: A disease or disorder that can be a problem for this organ",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Worksheet",
+    "id": "github:uploads/science/year-8/biological-sciences/plant-and-animal-systems/Year 8 - Biological Sciences - Cells, Tissues, Organs and Body Systems - Quick Questions - Worksheet.docx",
+    "pathway": "",
+    "originalFilename": "2.4 quick questions.docx",
+    "worksheet": {
+      "name": "Year 8 - Biological Sciences - Cells, Tissues, Organs and Body Systems - Quick Questions - Worksheet.docx",
+      "url": "uploads/science/year-8/biological-sciences/plant-and-animal-systems/Year%208%20-%20Biological%20Sciences%20-%20Cells%2C%20Tissues%2C%20Organs%20and%20Body%20Systems%20-%20Quick%20Questions%20-%20Worksheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/9809b08be060c7a87b7b.png",
+    "previewUrl": "catalogue/previews/9809b08be060c7a87b7b.pdf"
   },
   {
     "id": "github:uploads/science/20002-circulatory-system-peer-assessment.doc",
@@ -29457,6 +29543,134 @@
     "previewUrl": "catalogue/previews/a9817df636e69cb6d3e5.pdf"
   },
   {
+    "title": "Continental Drift and Plate Tectonics",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Information Sheet",
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "8",
+    "years": [
+      "8"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Earth and Space Sciences",
+    "topic": "Plate Tectonics and Geological Activity",
+    "supportingTopic": "Plate Tectonics and Geological Activity",
+    "collection": "curriculum",
+    "description": "Brief continental-drift and seafloor-spreading notes with a vocabulary table on plate tectonics.",
+    "keywords": [
+      "continental drift",
+      "Wegener",
+      "seafloor spreading",
+      "magnetic stripes",
+      "subduction"
+    ],
+    "searchText": "Continental Drift  Continent=One of the Large landmasses on the Earth.   E.g.  Africa Continental drift=the Earths continents are moving . Wegener first  suggested this. He based his ideas on the following.  The continents fit together like parts of a jigsaw puzzle, so perhaps  they  were once joined. Fossils of long dead animals  were  fo und on continents that are  far apart. Later evidence.  Ocean ridges and rifts suggest that the seafloor may be spreading in some places(ridges) and sinking in other places(trenches) Magnetic striping.   Symmetrical  magnetic  patterns form along the ocean ridges Sediment thickness.  As you move away from an ocean ridge the sedimentary rock layers become thicker, suggesting that they are older.  So the ridges show new rock forming. So what does the theory of plate tectonics suggest? Plate tectonics=  the  Earth's surface is broken in to a number of shifting  plates   Key Words Word Meaning  Continent Ocean ridge Ocean trench Subduction Sediment M atter that s ettles to the bottom of a river, ocean or lake. Sedimentary rock  Rock  that  has formed through  sediment falling to the bottom of an ocean or lake or sea. The sediment builds up in layers and turns to solid rock over time.  ",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Information Sheet",
+    "id": "github:uploads/science/year-8/earth-and-space-sciences/plate-tectonics-and-geological-activity/Year 8 - Earth and Space Sciences - Continental Drift and Plate Tectonics - Information Sheet.docx",
+    "pathway": "",
+    "originalFilename": "2012 Continental Drift.docx",
+    "worksheet": {
+      "name": "Year 8 - Earth and Space Sciences - Continental Drift and Plate Tectonics - Information Sheet.docx",
+      "url": "uploads/science/year-8/earth-and-space-sciences/plate-tectonics-and-geological-activity/Year%208%20-%20Earth%20and%20Space%20Sciences%20-%20Continental%20Drift%20and%20Plate%20Tectonics%20-%20Information%20Sheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/e12b21bd1680efa3ae99.png",
+    "previewUrl": "catalogue/previews/e12b21bd1680efa3ae99.pdf"
+  },
+  {
+    "title": "Earthquake Vocabulary - Word Search",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Activity"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "8",
+    "years": [
+      "8"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Earth and Space Sciences",
+    "topic": "Plate Tectonics and Geological Activity",
+    "supportingTopic": "Plate Tectonics and Geological Activity",
+    "collection": "curriculum",
+    "description": "Earthquake vocabulary word search. Teacher note: the supplied word list misspells seismometer as SIESMOMETER.",
+    "keywords": [
+      "earthquake",
+      "epicentre",
+      "focus",
+      "fault",
+      "seismic waves",
+      "word search"
+    ],
+    "searchText": "Earthquake D F R R E T H C I R R Y T F S Q I P W L E O A G E D L S A M G E L S G L B F T J G E U U A Z H W A L R P E L A C S N L D Z E W A F O M N M V C R A T R Y E P O V O L W R S Z E M I O S S C L M E W X O J B V I Y Q E U W S A E S X F G V S S W G S Z E K X N C Y E L S N J Y Q T I U N O S D A D Y B A F P G S O I X B H F S F L Z R D A H A R O Q A K D A L R B T X S X N K W L U H H G B I U L F M M E P I C E N T R E Y D S K U Y N R A P I D X B K S Y E C Y K COLLAPSE DAMS DEFORM EPICENTRE FAULT FOCUS LANDSLIDE LOOT RAPID RICHTER SCALE SEWAGE SIESMOMETER SURFACE TRANSVERSELY TSUNAMIS WAVES",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Activity",
+    "id": "github:uploads/science/year-8/earth-and-space-sciences/plate-tectonics-and-geological-activity/Year 8 - Earth and Space Sciences - Earthquake Vocabulary - Word Search - Activity.docx",
+    "pathway": "",
+    "originalFilename": "2012 Earthquake sleuth.docx",
+    "worksheet": {
+      "name": "Year 8 - Earth and Space Sciences - Earthquake Vocabulary - Word Search - Activity.docx",
+      "url": "uploads/science/year-8/earth-and-space-sciences/plate-tectonics-and-geological-activity/Year%208%20-%20Earth%20and%20Space%20Sciences%20-%20Earthquake%20Vocabulary%20-%20Word%20Search%20-%20Activity.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/676df7e7c24023d677a1.png",
+    "previewUrl": "catalogue/previews/676df7e7c24023d677a1.pdf"
+  },
+  {
+    "title": "Earthquake-Resistant Buildings - Word Search",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Activity"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "8",
+    "years": [
+      "8"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Earth and Space Sciences",
+    "topic": "Plate Tectonics and Geological Activity",
+    "supportingTopic": "Plate Tectonics and Geological Activity",
+    "collection": "curriculum",
+    "description": "Vocabulary word search about earthquake-resistant construction and engineering; use alongside an explanatory lesson.",
+    "keywords": [
+      "earthquakes",
+      "base isolation",
+      "dampers",
+      "engineering",
+      "word search"
+    ],
+    "searchText": "Earthquake Proof Buildings S H O C K S P W K U E L D K R S C H N Q A R R I C M S A S P I E E B D L O E S R T H M G R M D S D I W L W E A V G P T K N N E S E B Y A B N Q K E O I P D X M A G E I B E I O R L S V B A O R M L A A U F G S L R C R T E U I R R R R O F N O E F I N M Z F L E X I B L E E D C E W I Y A W S V G N L Y B N L R N O T S I P N N C G A Y I X G A V L E L V X O X S S G L T D M S H S L A F R E H U G Y A N K R H I I E W T H X C G C N O I T A L O S I S V O Y Y R BALL BASE BEARINGS CRASH CYLINDERS DAMPERS ENERGY ENGINEERS FLEXIBLE FRAMEWORK ISOLATION MASSES PADDED PISTON SHOCK STABILIZING STRONG SWAY TOLL",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Activity",
+    "id": "github:uploads/science/year-8/earth-and-space-sciences/plate-tectonics-and-geological-activity/Year 8 - Earth and Space Sciences - Earthquake-Resistant Buildings - Word Search - Activity.docx",
+    "pathway": "",
+    "originalFilename": "2012 Earthquake Proof Buildings sleuth.docx",
+    "worksheet": {
+      "name": "Year 8 - Earth and Space Sciences - Earthquake-Resistant Buildings - Word Search - Activity.docx",
+      "url": "uploads/science/year-8/earth-and-space-sciences/plate-tectonics-and-geological-activity/Year%208%20-%20Earth%20and%20Space%20Sciences%20-%20Earthquake-Resistant%20Buildings%20-%20Word%20Search%20-%20Activity.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/da9b5afbbb4b2b36297a.png",
+    "previewUrl": "catalogue/previews/da9b5afbbb4b2b36297a.pdf"
+  },
+  {
     "id": "github:uploads/science/year-8/earth-and-space-sciences/plate-tectonics-and-geological-activity/Year 8 - Earth and Space Sciences - Earthquakes - Worksheet.docx",
     "title": "Earthquakes",
     "publisher": "Wiley / Jacaranda",
@@ -38038,6 +38252,49 @@
     "previewUrl": "catalogue/previews/768ea7990cd0db98b771.pdf"
   },
   {
+    "title": "Cycles in Nature - Carbon, Water and Nitrogen",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "9",
+    "years": [
+      "9"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Earth and Space Sciences",
+    "topic": "Global Systems and Climate Change",
+    "supportingTopic": "Global Systems and Climate Change",
+    "collection": "curriculum",
+    "description": "Questions and diagram tasks on the carbon, water and nitrogen cycles; includes extension beyond the mandated carbon and water cycles.",
+    "keywords": [
+      "carbon cycle",
+      "water cycle",
+      "nitrogen cycle",
+      "photosynthesis",
+      "transpiration",
+      "global systems"
+    ],
+    "searchText": "Cycles in Nature In this topic, we need to investigate 3 important  cycles: water, carbon and nitrogen. 1 In what form does carbon exist in the atmosphere? _________________________________________________________________________ 2 Which group of organisms are responsible for ‘capturing’ the carbon and bringing it  into the biotic world? _________________________________________________________________________ 3 What is the name of the biological process that enables this to happen?  _________________________________________________________________________ 4 How do animals get their carbon? __________________________________________________________________________________________________________________________________________________ 5 In what form do we (animals) get our carbon? _________________________________________________________________________ 6 What do we use this carbon for?   __________________________________________________________________________________________________________________________________________________ 7 Name the three main  processes  involved in this cycle. __________________________________________________________________________________________________________________________________________________ 8 In the water cycle, there are six  processes  that take place.  Name them. ___________________________________________________________________________________________________________________________________________________________________________________________________________________________ 9 Evaporation of water is just about equal to precipitation over the whole globe. Where  is evaporation highest? _________________________________________________________________________ 10  Where is precipitation highest? _________________________________________________________________________ 11 Transpiration of water from leaves amounts to what percentage of the total  evaporation? _________________________________________________________________________ 12  What percentage of  all  water is fresh? _________________________________________________________________________ 13 Where do we find the nitrogen we need?  _________________________________________________________________________ 14 Which organisms are responsible for getting this nitrogen into the biotic system?  _________________________________________________________________________ 15 There are 3 different types of this group of organisms. Name them.  _________________________________________________________________________ 16 You now need to draw a well-labelled diagram of each of these cycles.",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Worksheet",
+    "id": "github:uploads/science/year-9/earth-and-space-sciences/global-systems-and-climate-change/Year 9 - Earth and Space Sciences - Cycles in Nature - Carbon, Water and Nitrogen - Worksheet.docx",
+    "pathway": "",
+    "originalFilename": "1a Worksheet Cycles in Nature.docx",
+    "worksheet": {
+      "name": "Year 9 - Earth and Space Sciences - Cycles in Nature - Carbon, Water and Nitrogen - Worksheet.docx",
+      "url": "uploads/science/year-9/earth-and-space-sciences/global-systems-and-climate-change/Year%209%20-%20Earth%20and%20Space%20Sciences%20-%20Cycles%20in%20Nature%20-%20Carbon%2C%20Water%20and%20Nitrogen%20-%20Worksheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/b2bb79b34ae7e95188e4.png",
+    "previewUrl": "catalogue/previews/b2bb79b34ae7e95188e4.pdf"
+  },
+  {
     "id": "github:uploads/science/year-9/earth-and-space-sciences/global-systems-and-climate-change/Year 9 - Earth and Space Sciences - Global Warming - Worksheet.docx",
     "title": "Global Warming",
     "publisher": "Uncredited source",
@@ -43289,6 +43546,50 @@
     "previewUrl": "catalogue/previews/3404a5b895b621b96194.pdf"
   },
   {
+    "title": "Chromosomes, Genes and DNA - Diagram and Definitions",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "10",
+    "years": [
+      "10"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "DNA, Cell Division and Inheritance",
+    "supportingTopic": "DNA, Cell Division and Inheritance",
+    "collection": "curriculum",
+    "description": "Identify and define chromosome, chromatid, centromere, gene, histone, chromatin and nucleotide. The diagram is readable; title and name boxes extend off the right margin.",
+    "keywords": [
+      "chromosome",
+      "chromatid",
+      "centromere",
+      "DNA",
+      "histone",
+      "chromatin",
+      "nucleotide"
+    ],
+    "searchText": "Name: Name: Chromosomes, Genes & DNA Chromosomes, Genes & DNA Identify  on the diagram above  and write a description for each of the following: Chromosome: Centromere Chromatid Nucleus Gene Histone Chromatin Nucleotide",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Worksheet",
+    "id": "github:uploads/science/year-10/biological-sciences/dna-cell-division-and-inheritance/Year 10 - Biological Sciences - Chromosomes, Genes and DNA - Diagram and Definitions - Worksheet.docx",
+    "pathway": "",
+    "originalFilename": "2014 Chromosomes, Genes & DNA.docx",
+    "worksheet": {
+      "name": "Year 10 - Biological Sciences - Chromosomes, Genes and DNA - Diagram and Definitions - Worksheet.docx",
+      "url": "uploads/science/year-10/biological-sciences/dna-cell-division-and-inheritance/Year%2010%20-%20Biological%20Sciences%20-%20Chromosomes%2C%20Genes%20and%20DNA%20-%20Diagram%20and%20Definitions%20-%20Worksheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/d76e251a59b545cd66c8.png",
+    "previewUrl": "catalogue/previews/d76e251a59b545cd66c8.pdf"
+  },
+  {
     "id": "github:uploads/science/19639-connect-4-genetics-and-inheritance.doc",
     "title": "Connect 4 genetics and inheritance",
     "publisher": "Teachit",
@@ -43569,6 +43870,51 @@
     "previewUrl": "catalogue/previews/d58a0733cc6243227b4d.pdf"
   },
   {
+    "title": "DNA Base Pairing and Nucleotides - Cut and Match",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Activity",
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "10",
+    "years": [
+      "10"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "DNA, Cell Division and Inheritance",
+    "supportingTopic": "DNA, Cell Division and Inheritance",
+    "collection": "curriculum",
+    "description": "Nucleotide cut-and-match activity with questions on complementary bases, sugar and phosphate. The cutouts and instructions are included.",
+    "keywords": [
+      "DNA",
+      "nucleotide",
+      "adenine",
+      "thymine",
+      "cytosine",
+      "guanine",
+      "base pairing"
+    ],
+    "searchText": "DNA Bases DNA is made up of a twisted double strand   (double helix) of special chemicals called nitrogen bases.  The sequence t he se bases come in stores genetic information, like an alphabet with only 4 letters. Instructions. Colour all of the a denines   (A) red. Col o ur all of the  thymines   (T) blue. Colour all of the  cytosines   (C) green. Colour all of the g uanines   (G )orange . Cut out  JUST THE FIRST 4  nucleotides . Match the bases to  second set of nucleotides . Glue  them  in place. A= _____________ and  always join s  to ________ ___ _ _(      ) bases. T = _____________ and  always join s  to _______ _____ _(     ) bases. C = _____________ and  always join s  to _________ _ __ _(      ) bases. G = _____________ and  always join s to ____________ _ (      ) bases. This is called  __________________  base pairing. Which molecule is the base always joined to ?_ _______________ What does P stand for? _____________________ The base, sugar and phosphate joined together  is  called a _______________.\n",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Activity",
+    "id": "github:uploads/science/year-10/biological-sciences/dna-cell-division-and-inheritance/Year 10 - Biological Sciences - DNA Base Pairing and Nucleotides - Cut and Match - Activity.docx",
+    "pathway": "",
+    "originalFilename": "2013 10 DNA WORKSHEET - more difficult version.docx",
+    "worksheet": {
+      "name": "Year 10 - Biological Sciences - DNA Base Pairing and Nucleotides - Cut and Match - Activity.docx",
+      "url": "uploads/science/year-10/biological-sciences/dna-cell-division-and-inheritance/Year%2010%20-%20Biological%20Sciences%20-%20DNA%20Base%20Pairing%20and%20Nucleotides%20-%20Cut%20and%20Match%20-%20Activity.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/33e9d9cd3f1521153db4.png",
+    "previewUrl": "catalogue/previews/33e9d9cd3f1521153db4.pdf"
+  },
+  {
     "id": "github:uploads/science/t3-sc-202-dna-inheritance-and-variation-can-you-guess-cards.pdf",
     "title": "Dna inheritance and variation can you guess cards",
     "publisher": "Twinkl",
@@ -43741,6 +44087,49 @@
     "source": "github",
     "thumbnail": "catalogue/previews/3b277a518a3dab36784f.png",
     "previewUrl": "catalogue/previews/3b277a518a3dab36784f.pdf"
+  },
+  {
+    "title": "Evidence for Evolution - Guided Cloze",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "10",
+    "years": [
+      "10"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "Evolution and Natural Selection",
+    "supportingTopic": "Evolution and Natural Selection",
+    "collection": "curriculum",
+    "description": "Teacher-supported cloze and diagram tasks on fossils, comparative anatomy, DNA, biogeography and embryology. Teach evolutionary relationships as branching rather than a linear progression.",
+    "keywords": [
+      "evolution",
+      "fossils",
+      "homologous structures",
+      "DNA evidence",
+      "biogeography",
+      "embryology"
+    ],
+    "searchText": "Name: _______________________ Evidence for Evolution 1.__________________________ Very old fossils are ________________, newer fossils are ___________________.  This supports the idea of evolution because__________________________________________________________________________ ____________________________________________________________________________ The number of ______________ that live on earth has also increased with time.  Another word for the number of species is ______________________.   This supports evolution because _________________ _____________________ ___________________________ _____________________________________________________________________________________________________ __________________________ are fossils that show species that seem to be a mix of an older and a new species.  This suggests one species changing into another. 2.__________________________ The compares the _______________ of organisms of both living and _______________.   Homologous structures fit into this category.  These suggest a common _____________________ 3._____________________________________________ All living cells have the  same basic _________ structure. 4 .__________________________________   All species use the same _________ ______ to make proteins.   Species that are more closely related have a more similar ___________________________ than species that are less closely related. 5 .____ ________________________ Distribution is ________________________________________________________________________ __________________ Many __________ (not found anywhere else) species are found on isolated islands.  With evolution you would expect this because ______________ is needed before __________________ can occur. 6 .____________________________ This is the study of ________________________________________________________________________________________________. All vertebrates are very similar when in the _____________ stage.  The similarities include ________________________________________________________________________________________________________________________________________________________________. The study of embryology supports the idea that species were formed from pre-existing species  eg  ___________________ evolved into________________  which  evolved into ____________________________.",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Worksheet",
+    "id": "github:uploads/science/year-10/biological-sciences/evolution-and-natural-selection/Year 10 - Biological Sciences - Evidence for Evolution - Guided Cloze - Worksheet.docx",
+    "pathway": "",
+    "originalFilename": "2014 Evidence for Evolution CH 3.1.docx",
+    "worksheet": {
+      "name": "Year 10 - Biological Sciences - Evidence for Evolution - Guided Cloze - Worksheet.docx",
+      "url": "uploads/science/year-10/biological-sciences/evolution-and-natural-selection/Year%2010%20-%20Biological%20Sciences%20-%20Evidence%20for%20Evolution%20-%20Guided%20Cloze%20-%20Worksheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/7486e3fbfe7800fdc6b3.png",
+    "previewUrl": "catalogue/previews/7486e3fbfe7800fdc6b3.pdf"
   },
   {
     "id": "github:uploads/science/18.Evolution.pdf",
@@ -45418,6 +45807,49 @@
     "previewUrl": "catalogue/previews/f97f4d47f1459d5e7c84.pdf"
   },
   {
+    "title": "Meiosis - Diagrams and Questions",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "10",
+    "years": [
+      "10"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "DNA, Cell Division and Inheritance",
+    "supportingTopic": "DNA, Cell Division and Inheritance",
+    "collection": "curriculum",
+    "description": "Labelled-stage response boxes and questions on meiosis, haploid gametes and genetic differences.",
+    "keywords": [
+      "meiosis",
+      "haploid",
+      "diploid",
+      "gametes",
+      "cell division",
+      "chromosomes"
+    ],
+    "searchText": "Meiosis Name :_ ______________ In each of the boxes below describe what is happening in the pictures then answer the questions below. What t ype of cells does meiosis produ e? Are the products of meiosis haploid or diploid? How does meiosis ensure they end up haploid instead of diploid? Why do they need to be haploid? Are  each of the 4 cells produced by meiosis genetically identical?",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Worksheet",
+    "id": "github:uploads/science/year-10/biological-sciences/dna-cell-division-and-inheritance/Year 10 - Biological Sciences - Meiosis - Diagrams and Questions - Worksheet.docx",
+    "pathway": "",
+    "originalFilename": "2013 10 MEIOSIS WORKSHEET.docx",
+    "worksheet": {
+      "name": "Year 10 - Biological Sciences - Meiosis - Diagrams and Questions - Worksheet.docx",
+      "url": "uploads/science/year-10/biological-sciences/dna-cell-division-and-inheritance/Year%2010%20-%20Biological%20Sciences%20-%20Meiosis%20-%20Diagrams%20and%20Questions%20-%20Worksheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/755f8cb3af4250c61de5.png",
+    "previewUrl": "catalogue/previews/755f8cb3af4250c61de5.pdf"
+  },
+  {
     "id": "github:uploads/science/year-10/biological-sciences/dna-cell-division-and-inheritance/Year 10 - Biological Sciences - Meiosis and Mitosis - Worksheet.pdf",
     "title": "Meiosis and Mitosis",
     "publisher": "Pearson",
@@ -45766,6 +46198,48 @@
     "previewUrl": "uploads/science/year-10/biological-sciences/dna-cell-division-and-inheritance/Year%2010%20-%20Biological%20Sciences%20-%20More%20Mitosis%20and%20Meiosis%20-%20Worksheet.pdf"
   },
   {
+    "title": "Natural Selection - Guided Notes",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "10",
+    "years": [
+      "10"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "Evolution and Natural Selection",
+    "supportingTopic": "Evolution and Natural Selection",
+    "collection": "curriculum",
+    "description": "Teacher-led note-taking scaffold on Darwin, selection pressures and natural selection. Insect and bacterial case studies refer to external pages 81–82; provide examples during instruction.",
+    "keywords": [
+      "natural selection",
+      "Darwin",
+      "selection pressure",
+      "peppered moth",
+      "guided notes"
+    ],
+    "searchText": "A quick note about Charles Darwin: Three  observations made by Charles Darwin 1 –  2 –  3 –  Darwin’s Ideas:       Struggle for existence: Survival of the fittest: Define  Natural Selection : Selective agent: Selection pressure: What is sexual selection?  Provide examples. Natural Selection: The main idea… Case study of the Peppered Moth:  Take notes as I talk you through this. Case study of Insects:  (p.81) Case study of bacteria:  (p.82)\nNatural Selection\n[Type the document title]",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Worksheet",
+    "id": "github:uploads/science/year-10/biological-sciences/evolution-and-natural-selection/Year 10 - Biological Sciences - Natural Selection - Guided Notes - Worksheet.docx",
+    "pathway": "",
+    "originalFilename": "1a ws_natural selection.docx",
+    "worksheet": {
+      "name": "Year 10 - Biological Sciences - Natural Selection - Guided Notes - Worksheet.docx",
+      "url": "uploads/science/year-10/biological-sciences/evolution-and-natural-selection/Year%2010%20-%20Biological%20Sciences%20-%20Natural%20Selection%20-%20Guided%20Notes%20-%20Worksheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/904f7c9fb77a3874ceec.png",
+    "previewUrl": "catalogue/previews/904f7c9fb77a3874ceec.pdf"
+  },
+  {
     "id": "github:uploads/science/t3-sc-232-natural-selection-word-mat.pdf",
     "title": "Natural selection word mat",
     "publisher": "Uncredited source",
@@ -46105,6 +46579,48 @@
     "source": "github",
     "thumbnail": "catalogue/previews/bc82e6e38de6203485d9.png",
     "previewUrl": "uploads/science/t3-sc-585-spaghetti-worms-natural-selection-investigation-instruction-sheet-printout_ver_1.pdf"
+  },
+  {
+    "title": "Speciation and Evolution - Guided Notes",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "10",
+    "years": [
+      "10"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "Evolution and Natural Selection",
+    "supportingTopic": "Evolution and Natural Selection",
+    "collection": "curriculum",
+    "description": "Guided definitions, speciation steps and an evidence table. Requires instruction or research; allopatric and sympatric mechanisms provide extension.",
+    "keywords": [
+      "speciation",
+      "allopatric",
+      "sympatric",
+      "reproductive isolation",
+      "evolutionary evidence"
+    ],
+    "searchText": "What is a SPECIES? What is SPECIATION? There are 2 processes of speciation ALLOPATRIC SPECIATION: SYMPATRIC SPECIATION The three steps to Speciation 1 –  2 –  3 –  How can you prevent breeding?! EVIDENCE DESCRIPTION EXAMPLE\nSPECIATION & EVOLUTION YEAR 10 BIOLOGY\n[Type the document title] [Pick the date]",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Worksheet",
+    "id": "github:uploads/science/year-10/biological-sciences/evolution-and-natural-selection/Year 10 - Biological Sciences - Speciation and Evolution - Guided Notes - Worksheet.docx",
+    "pathway": "",
+    "originalFilename": "1a ws_speciation and evidence.docx",
+    "worksheet": {
+      "name": "Year 10 - Biological Sciences - Speciation and Evolution - Guided Notes - Worksheet.docx",
+      "url": "uploads/science/year-10/biological-sciences/evolution-and-natural-selection/Year%2010%20-%20Biological%20Sciences%20-%20Speciation%20and%20Evolution%20-%20Guided%20Notes%20-%20Worksheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/458f5ce86a2f18452603.png",
+    "previewUrl": "catalogue/previews/458f5ce86a2f18452603.pdf"
   },
   {
     "id": "github:uploads/science/year-10/biological-sciences/dna-cell-division-and-inheritance/Year 10 - Biological Sciences - Structure of DNA - Worksheet.pdf",
@@ -51865,6 +52381,54 @@
     "previewUrl": "uploads/science/years-7-10/science-inquiry/laboratory-safety-and-equipment/Years%207-10%20-%20Science%20Inquiry%20-%20Drawing%20Equipment%20-%20Worksheet.pdf"
   },
   {
+    "title": "Drawing Line and Bar Graphs",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Information Sheet",
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "7–10",
+    "years": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Science Inquiry",
+    "topic": "Data, Graphs and Evidence",
+    "supportingTopic": "Data, Graphs and Evidence",
+    "collection": "curriculum",
+    "description": "Graph construction guidance and two datasets for choosing and drawing line or bar graphs. Supports inquiry across Years 7–10.",
+    "keywords": [
+      "line graphs",
+      "bar graphs",
+      "independent variable",
+      "dependent variable",
+      "axes",
+      "scales",
+      "data"
+    ],
+    "searchText": "DRAWING GRAPHS Name:  ____________ __ ______   Rules for making a line graph 1. Use a ruler and sharp lead pencil. 2. Draw a horizontal line at the bottom of the graph paper and a vertical line at the edge of the graph paper leaving room to write headings and numbers. 3. Where the two axis meet is the origin, mark it with a zero (O). 4. Work out which axis the dependent and independent variables go on. 5. Work out which scale to use, what numbers will you go up in?  5’s?   10’s?  Etc.  6. Write a heading for each axis with the unit of measurement in brackets. 7. Write a title at the top of the graph.  Dependent variable versus independent variable.   1 .  Every year a mother weighed her daughter from the day she was born. The data is shown in the  table below.   Age (years) Weight (Kg) 0 2.5 1 4 2 5 3 7 4 11 5 14 6 15 7 19 8 25 9 25 10 30 a )  Look at the data. Is there a pattern occurring or is there just groups of things being compared  with each other ? _______________________________________________________ _______________________________________________________ b) Is the table going to be a line graph or a bar graph?  _______________________________________________________ 1.  This table shows the  number of human deaths caused by fires in Victoria, Australia.  Name of fire Number of h uman deaths Black Thursday bushfires 12 Black Sunday bushfires  2 Dandenongs  bushfire 3 Western Districts bushfires 4      a ) Look at the data. Is there a pattern occurring or is there just groups of things being compared  with each other ? _______________________________________________________ _______________________________ b) Is the table going to be a line graph or a bar graph? __________________________________________",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Year placement follows content rather than the year in the original filename.",
+    "resourceType": "Information Sheet",
+    "id": "github:uploads/science/years-7-10/science-inquiry/data-graphs-and-evidence/Years 7-10 - Science Inquiry - Drawing Line and Bar Graphs - Information Sheet.docx",
+    "pathway": "",
+    "originalFilename": "2014 10 SCIENCE GRAPH PRACTICE.docx",
+    "worksheet": {
+      "name": "Years 7-10 - Science Inquiry - Drawing Line and Bar Graphs - Information Sheet.docx",
+      "url": "uploads/science/years-7-10/science-inquiry/data-graphs-and-evidence/Years%207-10%20-%20Science%20Inquiry%20-%20Drawing%20Line%20and%20Bar%20Graphs%20-%20Information%20Sheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/1e9b9968ab70352979f3.png",
+    "previewUrl": "catalogue/previews/1e9b9968ab70352979f3.pdf"
+  },
+  {
     "id": "github:uploads/science/t3-sc-574-effects-of-alcohol-on-the-liver-investigation-instruction-sheet-printout_ver_2.pdf",
     "title": "Effects of alcohol on the liver investigation instruction sheet printout",
     "publisher": "Uncredited source",
@@ -56475,6 +57039,92 @@
     "source": "github",
     "thumbnail": "catalogue/previews/797033a2d69046564c9f.png",
     "previewUrl": "uploads/science/t3-sc-369-ks3-pressure-homework-activity-sheet_ver_5.pdf"
+  },
+  {
+    "title": "Bipedalism - Comparative Anatomy Diagrams",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Information Sheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "10",
+    "years": [
+      "10"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "Extra Worksheets",
+    "supportingTopic": "Human Evolution and Bipedalism",
+    "collection": "extra",
+    "description": "Image-based enrichment reference comparing skulls, foramen magnum position and skeletal adaptations for bipedalism. Supports the Human Evolution guided notes.",
+    "keywords": [
+      "bipedalism",
+      "foramen magnum",
+      "human evolution",
+      "comparative anatomy",
+      "skull",
+      "pelvis"
+    ],
+    "searchText": "",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Human evolution detail is enrichment beyond the mandated Year 10 content.",
+    "resourceType": "Information Sheet",
+    "id": "github:uploads/science/extra-worksheets/biological-sciences/human-evolution-and-bipedalism/Year 10 - Biological Sciences - Bipedalism - Comparative Anatomy Diagrams - Information Sheet.docx",
+    "pathway": "",
+    "originalFilename": "2014 Adaptations for Bipedalism pictures.docx",
+    "worksheet": {
+      "name": "Year 10 - Biological Sciences - Bipedalism - Comparative Anatomy Diagrams - Information Sheet.docx",
+      "url": "uploads/science/extra-worksheets/biological-sciences/human-evolution-and-bipedalism/Year%2010%20-%20Biological%20Sciences%20-%20Bipedalism%20-%20Comparative%20Anatomy%20Diagrams%20-%20Information%20Sheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/0aca19a71ab1d696399c.png",
+    "previewUrl": "catalogue/previews/0aca19a71ab1d696399c.pdf"
+  },
+  {
+    "title": "Human Evolution - Guided Notes",
+    "publisher": "Uncredited source",
+    "publisherCategory": "Uncredited source",
+    "resourceTypes": [
+      "Worksheet"
+    ],
+    "reviewStatus": "Reviewed",
+    "year": "10",
+    "years": [
+      "10"
+    ],
+    "area": "Science",
+    "subject": "Science",
+    "strand": "Biological Sciences",
+    "topic": "Extra Worksheets",
+    "supportingTopic": "Human Evolution and Bipedalism",
+    "collection": "extra",
+    "description": "Extension note-taking scaffold on primates, hominins, bipedalism and human ancestry. Requires teacher instruction or research; specialist human-evolution detail extends beyond Year 10 core content.",
+    "keywords": [
+      "human evolution",
+      "primates",
+      "hominins",
+      "bipedalism",
+      "Australopithecus",
+      "Homo sapiens"
+    ],
+    "searchText": "Who are we? Kingdom Phylum Class Order Family Genus Species What makes us a primate? Characteristic Why do we have this characteristic? The family tree: Includes –  Adaptations to bipedalism Adaptation to the skeleton How does this help? Foramen magnum / Skull Vertebral column Pelvis Femur Knee Foot The ancestors Australopithecine Homo  habilis Homo erectus Homo  ergaster Homo  heidelbergensis Homo  neanderthalensis Homo sapiens Out of Africa principle: Trends to look for in our ancestors\nHuman  Evolution  Unit  3.4\n[Type the document title]",
+    "curriculumSource": "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1228558/Science-Scope-and-sequence-of-the-mandated-curriculum-content-P-10__For-implementation-in-2026.PDF",
+    "classificationNote": "Document content checked against SCSA Science scope and sequence for implementation in 2026. Human evolution detail is enrichment beyond the mandated Year 10 content.",
+    "resourceType": "Worksheet",
+    "id": "github:uploads/science/extra-worksheets/biological-sciences/human-evolution-and-bipedalism/Year 10 - Biological Sciences - Human Evolution - Guided Notes - Worksheet.docx",
+    "pathway": "",
+    "originalFilename": "1a ws_Human Evolution  Unit 3.docx",
+    "worksheet": {
+      "name": "Year 10 - Biological Sciences - Human Evolution - Guided Notes - Worksheet.docx",
+      "url": "uploads/science/extra-worksheets/biological-sciences/human-evolution-and-bipedalism/Year%2010%20-%20Biological%20Sciences%20-%20Human%20Evolution%20-%20Guided%20Notes%20-%20Worksheet.docx"
+    },
+    "answer": null,
+    "source": "github",
+    "thumbnail": "catalogue/previews/762045b3e4d3cc7723fb.png",
+    "previewUrl": "catalogue/previews/762045b3e4d3cc7723fb.pdf"
   },
   {
     "id": "github:uploads/science/extra-worksheets/biological-sciences/beyond-monohybrid-inheritance/Year 10 - Biological Sciences - Incomplete Dominance and Co-dominance - Worksheet.pdf",

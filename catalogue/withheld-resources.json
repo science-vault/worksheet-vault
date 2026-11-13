@@ -41,31 +41,11 @@
       "reason": "Byte-identical duplicate of another included resource."
     },
     {
-      "path": "uploads/science/1a Worksheet Cycles in Nature.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/1a ws_Human Evolution  Unit 3.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/1a ws_natural selection.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/1a ws_speciation and evidence.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
       "path": "uploads/science/2 DNA.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Requires scientific correction: identifies the DNA base A as adenosine rather than adenine, says every human cell contains nuclear DNA, and gives an inaccurate account of chromosome packaging."
     },
     {
       "path": "uploads/science/2.1 Alpha, Beta, Gamma Visual Chart.pdf",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2.4 quick questions.docx",
       "reason": "New or changed upload awaiting content, usefulness and curriculum review."
     },
     {
@@ -78,22 +58,10 @@
     },
     {
       "path": "uploads/science/2011 10 PERIODIC TABLE QUEST.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Dated periodicity booklet with embedded key: identifies radon as the heaviest noble gas and uses oversimplified orbital/period rules; substantial orbital and ionisation content also extends beyond lower-school scope. Requires correction before inclusion."
     },
     {
       "path": "uploads/science/2012 10 PERIODIC TABLE.pdf",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2012 Continental Drift.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2012 Earthquake Proof Buildings sleuth.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2012 Earthquake sleuth.docx",
       "reason": "New or changed upload awaiting content, usefulness and curriculum review."
     },
     {
@@ -102,47 +70,39 @@
     },
     {
       "path": "uploads/science/2013 10 DNA & PROTEIN STRUCTURE IN EVOLUTION WORD CLOZE.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2013 10 DNA WORKSHEET - more difficult version.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Requires scientific correction: states that each gene codes for the same amino acid in all organisms, confusing genes with codons. Also depends on Pearson Science 10 page 88."
     },
     {
       "path": "uploads/science/2013 10 DNA WORKSHEET.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Incomplete activity: instructions require a fourth sheet containing a DNA strand, but the document has only three pages and no matching strand template."
     },
     {
       "path": "uploads/science/2013 10 DOG BREED CHARACTERISTICS.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Needs revision: presents broad dog-breed aggression and temperament generalisations as fixed biological facts without evidence; unsuitable as a reliable artificial-selection resource in its current form."
     },
     {
       "path": "uploads/science/2013 10 EVOLUTION ANSWER KEY.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Misleading answer-key filename and scientific errors: this is largely notes and uncompleted tasks; misidentifies a horse–zebra hybrid as a zeedonk and claims all ligers are infertile."
     },
     {
       "path": "uploads/science/2013 10 FACTORS AFFECTING REACTION RATES PRACTICAL.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Practical requires correction and teacher revision: describes molarity M as moles rather than moles per litre, gives no standard magnesium strip dimensions for fair comparison, and omits a risk assessment for heating sulfuric acid."
     },
     {
       "path": "uploads/science/2013 10 GROUPS OF THE PERIODIC TABLE.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2013 10 MEIOSIS WORKSHEET.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Requires scientific correction: states neutral hydrogen has a single positive charge, mixes historical and modern group numbering, and overgeneralises transition-metal properties."
     },
     {
       "path": "uploads/science/2013 10 MORE GROUPS OF THE PERIODIC TABLE.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Requires scientific correction: tells students to label every remaining element as a transition metal, misclassifying p-block elements; also states neutral hydrogen has a single positive charge."
     },
     {
       "path": "uploads/science/2013 10 NATURAL SELCTION 2.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Visual review found mouse diagrams split and cropped at page breaks, making the generation-counting task unreliable; repair layout before inclusion."
     },
     {
       "path": "uploads/science/2013 10 NATURAL SELECTION LESSON 1.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Requires scientific correction: labels domestic dogs Canis vulgaris, defines a scientific theory as merely a possible explanation, and contains dated or oversimplified human-evolution statements."
     },
     {
       "path": "uploads/science/2013 10 PERIODIC TABLE WORD FIND.doc",
@@ -150,26 +110,22 @@
     },
     {
       "path": "uploads/science/2013 10 PERIODIC TABLE.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Outdated image-only periodic table: omits later elements and uses superseded temporary element names. Replace with a current complete reference table."
     },
     {
       "path": "uploads/science/2013 10 SIMPLE PERIODIC TABLE.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Outdated image-only periodic table: incomplete later-element entries. Replace with a current complete reference table."
     },
     {
       "path": "uploads/science/2013 Classifying volcanoes.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Requires scientific correction: presents eruption styles as a fixed least-to-most explosive sequence ending in Pelean eruptions and combines Plinian with Vulcanian descriptions inaccurately."
     },
     {
       "path": "uploads/science/2013 Websites Earthquakes Liquefaction.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Bare list of external video URLs with no worksheet, instructions or substantive teaching content; unsuitable for the worksheet catalogue as supplied."
     },
     {
       "path": "uploads/science/2014 10 HORMONE WORKSHEET.pdf",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2014 10 SCIENCE GRAPH PRACTICE.docx",
       "reason": "New or changed upload awaiting content, usefulness and curriculum review."
     },
     {
@@ -189,23 +145,11 @@
       "reason": "New or changed upload awaiting content, usefulness and curriculum review."
     },
     {
-      "path": "uploads/science/2014 Adaptations for Bipedalism pictures.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
       "path": "uploads/science/2014 Analzying Sensory Somatic Responses - System Reinforcemnt Worksheet1.doc",
       "reason": "New or changed upload awaiting content, usefulness and curriculum review."
     },
     {
-      "path": "uploads/science/2014 CELLS WORDFIND.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
       "path": "uploads/science/2014 Cellular Structure and Processes Crossword.doc",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2014 Chromosomes, Genes & DNA.docx",
       "reason": "New or changed upload awaiting content, usefulness and curriculum review."
     },
     {
@@ -214,27 +158,23 @@
     },
     {
       "path": "uploads/science/2014 DNA Cut colour and paste activity.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Incomplete cut-and-paste activity: refers to separate A3 and A4 DNA component sheets that are not contained in this two-page document."
     },
     {
       "path": "uploads/science/2014 Earthquakes.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2014 Evidence for Evolution CH 3.1.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Requires scientific correction: describes a one-unit Richter increase as ten times the force and says earthquake energy is released at the epicentre; confuses magnitude, amplitude, energy and focus."
     },
     {
       "path": "uploads/science/2014 Evolution Worksheet Ch 3.1.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Requires scientific correction: misidentifies a horse–zebra hybrid as a zeedonk, claims all ligers are infertile, and defines evolution only as formation of new species."
     },
     {
       "path": "uploads/science/2014 FOOD CHAIN GAME.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Incomplete game: rules and recording table are supplied, but the required organism card set is missing; the remaining pages are blank."
     },
     {
       "path": "uploads/science/2014 Haiti Earthquake 2010.docx",
-      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+      "reason": "Requires scientific correction: describes the epicentre as 10 km deep, confusing epicentre and focus. The reproduced early news report is a historical source, not a current account of casualties."
     },
     {
       "path": "uploads/science/2014 How Organisms Affect Each Other - cut and paste.docx",

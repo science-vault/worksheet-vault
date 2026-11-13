@@ -1,7 +1,7 @@
 {
   "reviewDate": "2026-11-13",
-  "reviewedFiles": 1231,
-  "includedStudentResources": 1014,
+  "reviewedFiles": 1266,
+  "includedStudentResources": 1029,
   "excludedFiles": [
     {
       "path": "uploads/science/year-7/biological-sciences/characteristics-of-living-things/Year 7 - Biological Sciences - Mrs Gren - koala - Worksheet.png",
@@ -367,37 +367,144 @@
       "path": "uploads/science/1 Inherited Characteristics.docx",
       "title": "Inherited Characteristics",
       "reason": "Information sheet requires scientific correction: presents tongue rolling as a simple inherited yes/no characteristic and treats eye colour as a continuous measurement; also labels variation as discreet rather than discrete. Withheld to avoid teaching these misconceptions."
+    },
+    {
+      "path": "uploads/science/2 DNA.docx",
+      "title": "DNA",
+      "reason": "Requires scientific correction: identifies the DNA base A as adenosine rather than adenine, says every human cell contains nuclear DNA, and gives an inaccurate account of chromosome packaging."
+    },
+    {
+      "path": "uploads/science/2011 10 PERIODIC TABLE QUEST.docx",
+      "title": "10 PERIODIC TABLE QUEST",
+      "reason": "Dated periodicity booklet with embedded key: identifies radon as the heaviest noble gas and uses oversimplified orbital/period rules; substantial orbital and ionisation content also extends beyond lower-school scope. Requires correction before inclusion."
+    },
+    {
+      "path": "uploads/science/2013 10 DNA & PROTEIN STRUCTURE IN EVOLUTION WORD CLOZE.docx",
+      "title": "10 DNA & PROTEIN STRUCTURE IN EVOLUTION WORD CLOZE",
+      "reason": "Requires scientific correction: states that each gene codes for the same amino acid in all organisms, confusing genes with codons. Also depends on Pearson Science 10 page 88."
+    },
+    {
+      "path": "uploads/science/2013 10 DNA WORKSHEET.docx",
+      "title": "10 DNA WORKSHEET",
+      "reason": "Incomplete activity: instructions require a fourth sheet containing a DNA strand, but the document has only three pages and no matching strand template."
+    },
+    {
+      "path": "uploads/science/2013 10 DOG BREED CHARACTERISTICS.docx",
+      "title": "10 DOG BREED CHARACTERISTICS",
+      "reason": "Needs revision: presents broad dog-breed aggression and temperament generalisations as fixed biological facts without evidence; unsuitable as a reliable artificial-selection resource in its current form."
+    },
+    {
+      "path": "uploads/science/2013 10 EVOLUTION ANSWER KEY.docx",
+      "title": "10 EVOLUTION ANSWER KEY",
+      "reason": "Misleading answer-key filename and scientific errors: this is largely notes and uncompleted tasks; misidentifies a horse–zebra hybrid as a zeedonk and claims all ligers are infertile."
+    },
+    {
+      "path": "uploads/science/2013 10 FACTORS AFFECTING REACTION RATES PRACTICAL.docx",
+      "title": "10 FACTORS AFFECTING REACTION RATES PRACTICAL",
+      "reason": "Practical requires correction and teacher revision: describes molarity M as moles rather than moles per litre, gives no standard magnesium strip dimensions for fair comparison, and omits a risk assessment for heating sulfuric acid."
+    },
+    {
+      "path": "uploads/science/2013 10 GROUPS OF THE PERIODIC TABLE.docx",
+      "title": "10 GROUPS OF THE PERIODIC TABLE",
+      "reason": "Requires scientific correction: states neutral hydrogen has a single positive charge, mixes historical and modern group numbering, and overgeneralises transition-metal properties."
+    },
+    {
+      "path": "uploads/science/2013 10 MORE GROUPS OF THE PERIODIC TABLE.docx",
+      "title": "10 MORE GROUPS OF THE PERIODIC TABLE",
+      "reason": "Requires scientific correction: tells students to label every remaining element as a transition metal, misclassifying p-block elements; also states neutral hydrogen has a single positive charge."
+    },
+    {
+      "path": "uploads/science/2013 10 NATURAL SELCTION 2.docx",
+      "title": "10 NATURAL SELCTION 2",
+      "reason": "Visual review found mouse diagrams split and cropped at page breaks, making the generation-counting task unreliable; repair layout before inclusion."
+    },
+    {
+      "path": "uploads/science/2013 10 NATURAL SELECTION LESSON 1.docx",
+      "title": "10 NATURAL SELECTION LESSON 1",
+      "reason": "Requires scientific correction: labels domestic dogs Canis vulgaris, defines a scientific theory as merely a possible explanation, and contains dated or oversimplified human-evolution statements."
+    },
+    {
+      "path": "uploads/science/2013 10 PERIODIC TABLE.docx",
+      "title": "10 PERIODIC TABLE",
+      "reason": "Outdated image-only periodic table: omits later elements and uses superseded temporary element names. Replace with a current complete reference table."
+    },
+    {
+      "path": "uploads/science/2013 10 SIMPLE PERIODIC TABLE.docx",
+      "title": "10 SIMPLE PERIODIC TABLE",
+      "reason": "Outdated image-only periodic table: incomplete later-element entries. Replace with a current complete reference table."
+    },
+    {
+      "path": "uploads/science/2013 Classifying volcanoes.docx",
+      "title": "Classifying volcanoes",
+      "reason": "Requires scientific correction: presents eruption styles as a fixed least-to-most explosive sequence ending in Pelean eruptions and combines Plinian with Vulcanian descriptions inaccurately."
+    },
+    {
+      "path": "uploads/science/2013 Websites Earthquakes Liquefaction.docx",
+      "title": "Websites Earthquakes Liquefaction",
+      "reason": "Bare list of external video URLs with no worksheet, instructions or substantive teaching content; unsuitable for the worksheet catalogue as supplied."
+    },
+    {
+      "path": "uploads/science/2014 DNA Cut colour and paste activity.docx",
+      "title": "DNA Cut colour and paste activity",
+      "reason": "Incomplete cut-and-paste activity: refers to separate A3 and A4 DNA component sheets that are not contained in this two-page document."
+    },
+    {
+      "path": "uploads/science/2014 Earthquakes.docx",
+      "title": "Earthquakes",
+      "reason": "Requires scientific correction: describes a one-unit Richter increase as ten times the force and says earthquake energy is released at the epicentre; confuses magnitude, amplitude, energy and focus."
+    },
+    {
+      "path": "uploads/science/2014 Evolution Worksheet Ch 3.1.docx",
+      "title": "Evolution Worksheet Ch 3.1",
+      "reason": "Requires scientific correction: misidentifies a horse–zebra hybrid as a zeedonk, claims all ligers are infertile, and defines evolution only as formation of new species."
+    },
+    {
+      "path": "uploads/science/2014 FOOD CHAIN GAME.docx",
+      "title": "FOOD CHAIN GAME",
+      "reason": "Incomplete game: rules and recording table are supplied, but the required organism card set is missing; the remaining pages are blank."
+    },
+    {
+      "path": "uploads/science/2014 Haiti Earthquake 2010.docx",
+      "title": "Haiti Earthquake 2010",
+      "reason": "Requires scientific correction: describes the epicentre as 10 km deep, confusing epicentre and focus. The reproduced early news report is a historical source, not a current account of casualties."
     }
   ],
   "resourceTypes": {
-    "Information Sheet": 37,
-    "Worksheet": 745,
-    "Activity": 146,
+    "Worksheet": 839,
+    "Activity": 152,
+    "Information Sheet": 41,
     "Revision Booklet": 31,
     "Experiment": 48,
-    "Teaching Guide": 7
+    "Teaching Guide": 7,
+    "Experiment Planning": 5
   },
   "publishers": {
-    "Uncredited source": 420,
-    "Learning Essentials": 8,
+    "Uncredited source": 435,
+    "Wildscreen / ARKive": 2,
+    "Beaver Educational Resources": 5,
+    "Exploring Nature / Sheri Amsel": 3,
+    "Pearson": 35,
+    "Teachit": 219,
+    "Twinkl": 96,
+    "Keep It Simple Science": 18,
     "Wiley / Jacaranda": 195,
     "Education Services Australia": 2,
-    "Pearson": 35,
-    "Emerald City Books": 1,
-    "BIOZONE": 1,
-    "Creative Learning Exchange": 1,
-    "3P Learning / IntoScience": 2,
-    "Beaver Educational Resources": 5,
+    "Learning Essentials": 8,
     "Iman’s Homeschool": 1,
     "Outstanding Science / Minerva Education": 1,
-    "Twinkl": 96,
+    "Creative Learning Exchange": 1,
+    "3P Learning / IntoScience": 2,
+    "BIOZONE": 1,
     "Laboratory Safety Institute": 1,
-    "Keep It Simple Science": 18,
-    "Teachit": 219,
-    "Wildscreen / ARKive": 2,
-    "Exploring Nature / Sheri Amsel": 3,
-    "ESWA / WASP": 3
+    "ESWA / WASP": 3,
+    "Emerald City Books": 1
   },
-  "pendingNewUploads": 1934,
-  "note": "Unreviewed uploads are withheld from the public catalogue. Original files are retained."
+  "pendingNewUploads": 1899,
+  "note": "Unreviewed uploads are withheld from the public catalogue. Original files are retained.",
+  "latestBatch": {
+    "reviewedFiles": 35,
+    "includedResources": 15,
+    "withheldFiles": 20,
+    "note": "Document text and required diagrams reviewed; missing components, dated references and scientific errors recorded. Included resources renamed and filed by content."
+  }
 }
