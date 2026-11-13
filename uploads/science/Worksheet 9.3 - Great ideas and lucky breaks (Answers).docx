@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+                <meta name="format-detection" content="telephone=no">
+                    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" />
+
+                    <title>JacarandaPLUS</title>
+
+                    <meta name="description" content="JacarandaPLUS is the online home of Jacaranda’s digital resources for teachers and students." />
+                    <meta name="robots" content="NOODP"/>  
+
+                    <link rel="stylesheet" type="text/css" href="/CSS/2016/login.css?cb=1611817" />
+
+                    </head>
+                    <body>
+
+                        <div id="jacarandaplus">
+                            <div id="globalMenu">
+                                <button id="helpB" onclick="window.location = 'http://jacplus.desk.com';"><span>Help</span></button>
+                                <span>Don’t have a JacPLUS account yet?</span>
+                                <button class="createAccount"  onclick="window.location = '/servlet/NewUser';" >Create your account</button>
+                            </div>
+                        </div>
+
+
+                        <form id="login" name="login" method="post" action="/secure/Bookshelf?cb=">
+
+                            <span class="errorWarning"></span>        
+
+                            <section>
+                                
+                                    
+                                        <input type="hidden" name="redirectUri" value="http://content.jacplus.com.au/secure/resources/Docs/21001-22000/doc-21769.docx?pk=" />
+                                    
+                                    
+                                
+
+                                
+                                    
+                                        <input type="hidden" name="redirectUri" value="http://content.jacplus.com.au/secure/resources/Docs/21001-22000/doc-21769.docx?pk=" />
+                                    
+                                    
+                                
+                                <label><span>Email</span>
+                                    <input name="username" type="text" id="email" placeholder="Email" value="" autocapitalize="off" email="email"/>
+                                    <div id=hidden1><button type ="button" id= "clearEmailB" value="Clear" onclick="refreshPage();
+                                            return false;"></button></div>
+                                    <div id="suggestion" class = "long"></div>
+                                </label>
+                                
+                                    
+                                    
+                                        <div id="next">
+                                            <button class="idpLogin" value="NEXT" id="idpLogin" onclick="spInitiatedLogin();
+                                                    return false;" >NEXT</button>
+                                        </div> 
+                                    
+                                
+                                
+                                    
+                                    
+                                        <div id=hidden>
+                                            <label><span>Password</span>
+                                                <input name="password" type="password" id="password" placeholder="Password" value="" autocapitalize="off"/>
+                                            </label>
+
+                                            <input type="submit" value="Sign in" id="submit">
+
+
+                                                <a href="/servlet/ForgottenPassword" target="_blank" class="black">Forgotten password?</a>
+                                                <label>
+                                                    <input type="checkbox" name="remember" id="rememberBox" value="true"> Remember me.
+                                                </label>             
+
+                                        </div>
+                                    
+                                
+                                <div id="mask" class="mask">
+
+                                </div>
+                            </section>
+
+                        </form>
+
+                        <section id="slidePanel">	    	
+
+                            <ul id="slideshow">
+
+                                <li id="newuser" class="newuser">
+                                    <div></div>
+                                    <div>
+                                        <h2>Did you know?</h2>
+                                        <h1>One place, one login, everything Jacaranda</h1>
+                                        <p>JacarandaPLUS is your gateway to all things Jacaranda. With one login you get secure, 24/7 access to all Jacaranda digital resources including core curriculum titles, assessON, games, studyON and digital atlases.</p>
+                                        <a href="/servlet/NewUser" class="button">Create your JacPLUS account now</a>
+                                    </div>
+                                </li>
+
+                            </ul>
+
+                            <div class="controls">
+                                <a href="#" id="prev-slide">Prev</a>
+                                <a href="#" id="next-slide">Next</a>
+                            </div>	
+
+                        </section>
+
+
+
+
+
+                        <section id="main">	
+                            
+
+
+<footer>
+	<nav>
+		<a class="mobile" href="http://jacplus.desk.com">Help</a>
+		<a class="mobile" href="/servlet/NewUser">Create account</a>
+		<a href="http://www.jacaranda.com.au">About us</a>
+		<a href="http://www.jaconline.com.au">Shop Jacaranda</a>
+		<a href="http://www.jacaranda.com.au/blog/">Jacaranda Blog</a>
+		<a href="http://jacaranda.com.au/events">Events</a>
+		<a href="/jsp/general-nav/terms/terms.jsp">Terms</a>
+		<a href="/jsp/general-nav/copyright/privacy_policy.jsp">Privacy</a>
+	</nav>
+	
+	<p><a href="/jsp/general-nav/copyright/copyright.jsp">Copyright</a> &copy; 2000-2019 by John Wiley & Sons Inc., or related companies. <nobr>ABN 67 009 673 081 All rights reserved.</nobr></p>
+</footer>
+
+                        </section>
+                        <div id="dataError" style="display:none;">
+                            <div>
+                                <h1>Sorry, an error has occurred with jacPLUS.</h1>
+                                <div id="dataMessage"></div>
+                                <button onclick="window.location = 'http://jacplus.desk.com/customer/portal/articles/1107520-planned-and-unexpected-outage-notifications'">Customer support</button>
+                            </div>
+                        </div>
+
+                        <script src="/Scripts/2016/shared.js?cb=160816" type="text/javascript"></script>
+
+                        <script type="text/javascript">
+
+                                    // Right panel carousel	
+
+                                    function slideSwitch(direction) {
+                                        if ($('#slideshow li').length > 1) {
+                                            var $active = $('#slideshow li.active');
+                                            if ($active.length == 0)
+                                                $active = $('#slideshow li:last');
+                                            if (direction != 'back') {
+                                                var $next = $active.next().length ? $active.next()
+                                                        : $('#slideshow li:first');
+                                            } else {
+                                                var $next = $active.prev().length ? $active.prev()
+                                                        : $('#slideshow li:last');
+                                            }
+
+                                            $next.addClass('active')
+                                            $active.removeClass('active');
+                                        } else {
+                                            $('div.controls').hide();
+                                        }
+                                    }
+
+
+                                    function sliderNext(e) {
+                                        if (sliderInterval) {
+                                            clearInterval(sliderInterval);
+                                        }
+                                        slideSwitch();
+                                    }
+
+                                    function sliderPrev(e) {
+                                        if (sliderInterval) {
+                                            clearInterval(sliderInterval);
+                                        }
+                                        slideSwitch('back');
+                                    }
+
+
+                                    // Randomise slide function
+
+                                    (function ($) {
+
+                                        $.fn.randomize = function (tree, childElem) {
+                                            return this.each(function () {
+                                                var $this = $(this);
+                                                if (tree)
+                                                    $this = $(this).find(tree);
+                                                var unsortedElems = $this.children(childElem);
+                                                var elems = unsortedElems.clone();
+
+                                                elems.sort(function () {
+                                                    return (Math.round(Math.random()) - 0.5);
+                                                });
+
+                                                for (var i = 0; i < elems.length; i++)
+                                                    unsortedElems.eq(i).replaceWith(elems[i]);
+                                            });
+                                        };
+
+                                    })(jQuery);
+                                    $(window).load(function () {
+                                        document.getElementById('login').action += Math.floor(Math.random() * 100000000000);
+
+                                        $("#welcomeMessage").changeWords({
+                                            time: 1000,
+                                            animate: "fadeIn",
+                                            selector: "span"
+                                        });
+
+                                        startMailCheck();
+                                        intiateLoginSlideShow();
+                                        setCounter(1480940);
+                                        // Database error script
+                                        var countCheck = 1480940;
+                                        if (countCheck < 0) {
+                                            var m = "<p>JacPLUS is currently experiencing an unexpected outage. Technicians are currently working to bring jacPLUS online as soon as possible.</p>"
+                                            $('#dataMessage').html(m);
+                                            $('#slidePanel, #login, #jacarandaplus, #main').hide();
+                                            $('#dataError').show();
+
+                                        }
+                                    });
+
+                        </script>
+                        <script type="text/javascript">
+                            $(document).ready(function () {
+                                $('.mask').hide();
+                                $('div#hidden').css("display", "none");
+                                $('div#hidden1').css("display", "none");
+                                $('#login').submit(function () {
+                                    $("#email").removeAttr('disabled');
+                                });
+                            });
+                            function spInitiatedLogin() {
+                                if ($('#email').val() !== '') {
+                                    $('.mask').show();
+                                    jQuery.ajax({
+                                        type: 'post',
+                                        crossDomain: true,
+                                        cache: false,
+                                        url: '/servlet/SamlSSO',
+                                        async: true,
+                                        data: {
+                                            userName: $('#email').val(),
+                                            redirectUri: $('input:hidden[name=redirectUri]').val()
+                                        },
+                                        dataType: 'json',
+                                        success: function (data) {
+                                            if (data['data'] !== '_NA_') {
+                                                var redirectUrl = data['data'];
+                                                $('.mask').hide();
+                                                window.location.href = redirectUrl;
+                                            } else {
+                                                $('.mask').hide();
+                                                $('div#hidden').css("display", "block");
+                                                $('div#hidden1').css("display", "block");
+                                                $('div#next').css("display", "none");
+                                                $("#email").prop('disabled', true);
+                                                $('#idpLogin').remove();
+                                                $('#password').focus();
+                                            }
+                                        },
+                                        error: function (msg) {
+                                            $('.mask').hide();
+                                            $('div#hidden').css("display", "none");
+                                            alert("You may not have entered a valid jacPLUS account email. Please check your entry or, if you do not already have an "
+                                                    + "account, click on the Create Your Account button."
+                                                    + "Or "
+                                                    + "you may have bookmarked an old JacPLUS Bookshelf URL, please update your JacPLUS Bookshelf bookmark to "
+                                                    + "https://www.jacplus.com.au/secure/Bookshelf ");
+                                        }
+                                    });
+
+                                }
+                            }
+                            function validateEmail(mail) {return true;}
+                            function refreshPage() {
+                                window.location.reload();
+                            }
+                        </script>   
+
+
+                        <!-- siteCatalyst start tag -->      
+                        <!-- SiteCatalyst code version: H.20.3. --> <script language="JavaScript" type="text/javascript" src="/Scripts/s_code.js" xml:space="preserve"></script><script language="JavaScript" type="text/javascript" xml:space="preserve"><!--/* You may give each page an identifying name, server, and channel on the next lines. */
+function forDate(){    
+var now = new Date();  
+var curr_hour = now.getHours();
+var curr_min = now.getMinutes();
+var curr_day = now.getDay();  
+fDate = '\"'+curr_day + "|" + curr_hour + "|" + curr_min+'\"';
+return fDate;
+}
+s.pageName = 'Jacplus Index Page';
+s.channel = 'Login';
+s.prop7 = forDate();
+s.events = '';
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/var s_code=s.t();if(s_code)document.write(s_code)//--></script> <script language="JavaScript" type="text/javascript" xml:space="preserve"><!--if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')//--></script> <!--/DO NOT REMOVE/--> <!-- End SiteCatalyst code version: H.20.3. -->
+
+
+
+                        <script type="text/javascript">
+jQuery(document).ready(function(){
+jQuery('#forgotPasswordLink').bind('click',function(){
+var newEvent='event5'; var existingEvents = s.events; if(existingEvents.indexOf(newEvent) == -1){ existingEvents+=','+newEvent;  s.events = existingEvents;}console.log(s.events);s.trackExternalLinks=false;s.linkTrackVars='events';s.linkTrackEvents=s.events;s.tl(true, 'o','index Link');
+var t=setTimeout("redirectToPage('"+jQuery(this).attr('href')+"')",1000);return false;
+});
+
+jQuery('#newAccountButton').bind('click',function(){
+var newEvent='event4';
+var existingEvents = s.events;
+if(existingEvents.indexOf(newEvent) == -1){ 
+ existingEvents+=','+newEvent;  
+ s.events = existingEvents;
+}
+console.log(s.events);
+s.trackExternalLinks=false;
+s.linkTrackVars='events';
+s.linkTrackEvents=s.events;s.tl(this, 'o','Create Account');var t=setTimeout("redirectToPage('"+jQuery(this).attr('href')+"')",1000);return false;
+});
+
+});
+</script>
+
+
+
+                        <!-- siteCatalyst end tag -->  
+                    </body>
+                    </html>
