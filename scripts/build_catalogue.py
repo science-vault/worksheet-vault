@@ -11,6 +11,12 @@ META=json.loads(META_FILE.read_text()) if META_FILE.exists() else {}
 # Reviewed batches are additive so interrupted uploads retain their checkpoint.
 for batch_metadata in sorted((ROOT/'catalogue/metadata-batches').glob('*.json')):
  META.update(json.loads(batch_metadata.read_text()))
+# Descriptive display titles and downloaded filenames survive catalogue rebuilds.
+NAMES_FILE=ROOT/'catalogue/resource-names.json'
+if NAMES_FILE.exists():
+ for path,naming in json.loads(NAMES_FILE.read_text()).items():
+  if path in META and META[path].get('hash')==naming.get('hash'):
+   META[path].update({k:naming[k] for k in ('title','downloadName')})
 STOP=set('the and for are with this that from your you name date class worksheet what which how when where these they have will into using their each write answer answers students student page year science biological sciences question questions following below above activity sheet not can all has was were its use one two three www com https http org pdf doc school label labels john wiley sons australia workbook chapter copyright'.split())
 def url(p):return '/'.join(quote(s,safe='') for s in p.relative_to(ROOT).parts)
 def digest(p):return hashlib.sha256(p.read_bytes()).hexdigest()[:20]

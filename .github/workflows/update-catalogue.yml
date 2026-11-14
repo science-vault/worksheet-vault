@@ -6,6 +6,7 @@ on:
       - 'uploads/**'
       - 'scripts/build_catalogue.py'
       - 'catalogue/resource-metadata.json'
+      - 'catalogue/resource-names.json'
       - 'catalogue/metadata-batches/**'
       - '.github/workflows/update-catalogue.yml'
   workflow_dispatch:
