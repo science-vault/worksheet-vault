@@ -1,0 +1,1509 @@
+{
+  "batch": 3,
+  "processedFiles": 300,
+  "includedFiles": 244,
+  "excludedFiles": 56,
+  "status": "awaiting-preview-validation",
+  "files": [
+    {
+      "path": "uploads/science/Friction notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Friction on different surfaces.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Friction pictures for writing activity.doc",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Friction Rearrange these sentences so they make sense.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Friction revision test.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Friction Sentences writing act.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Friction.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/friction_and_mass_prac.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Galaxies to be Classified.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Games to practice chemistry naming and equations.docx",
+      "included": false,
+      "reason": "Link-only or link-dependent resource without sufficient standalone learning content; held for link validation."
+    },
+    {
+      "path": "uploads/science/gas detective experiements.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Gas Exchange OH Notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Gas Exchange Word Close.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/gen_spbobincdom.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Gene Simulations scaffold sheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/genes and chromosomes worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genes DNA etc cut and paste.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genes, chromosomes and DNA.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Genetic material worksheet Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genetic material worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/genetics minitest.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genetics of blood disorders.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genetics Problem Sets.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genetics Problems Assignment.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genetics Problems.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genetics Questions  revision.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/GENETICS REVISION ANSWERS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/genetics revision worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/GENETICS REVISION.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genetics terminology.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/genetics wkst.pdf",
+      "included": false,
+      "reason": "Duplicate extracted document content of uploads/science/genetics revision worksheet.pdf"
+    },
+    {
+      "path": "uploads/science/genetics-problems.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Genetics_Oompa_Loompa.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/global cycles research task.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Global Systems introduction.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/glossary-forces.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/glucose.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/GM articles.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Graphing Motion.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Gravitation force solutins.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Gravitational force questions.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Gravity   Year 7.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Gravity Experiment.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Gravity notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Gravity revision test.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Gravity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Greener farming resource - climate change.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Greenhouse Investigation Planning Sheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Growing Cells.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/GS-Keywords.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/GS-Light Definitions OVERHEAD.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/hand me down series programme 2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Heart Diagram.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Heart Dissection (2).doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Heart Dissection.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Heart Dissection.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/heart rate graphing - LOW LIT.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/heart rate graphing.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Heart Rates.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Heat Transfer Notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Herdsman Lake Food Chain.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Here, there - but not everywhere.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Heredity Simulation (hornimonsters).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/hexagons cells revision.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/History atomic structure timeline.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Homework CH 6.2 compounds and mixtures.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Homework sheets cells.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Homework- Magnetic Forces.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Hormonal SHeets.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Hormones 2016.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/How are genetic disorders passed on.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/how do earthquakes occur.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/How do Humans affect their Environment.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/how_big_is_a_cell.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/How_to_use_a_Microscope.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Hubble's Classification System.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/human evo basic.jpg",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/human evo detailed.jpg",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/human evolution article to read.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/HUMAN FEET ARE STRANGE.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Human Pedigree Questions.docx",
+      "included": false,
+      "reason": "Held because office conversion did not produce a preview during validation; repair required before publishing."
+    },
+    {
+      "path": "uploads/science/human skulls to put in order.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/human_circulatory_system_year_10__gz_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/human_digestive_system_year_10__gz_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/human_respiratory_system_year_10__gz_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/I am Joe's heart.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ICT - DNA timeline task.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Identifying Elements.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Identifying Rocks Comprehension.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Identifying Rocks.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IDG-Origin-of-Humans teacher film guide.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Igneous Rock Caucus Race.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Igneous rocks Comprehension.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Igneous Rocks.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Immunity worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Important Definitions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/In Mendeleevs Footsteps.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN MY TREE HOUSE activity.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN- IONIC BONDING 1.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-atom.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Characteristics of Solar Panels.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Chemical Effects of Electricity OHT.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Circuit Symbols.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Colours.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Common Elements.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-conduction convection radiation.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-conduction, convection, radiation.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Current and Voltage OHT.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Diagram of eye.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-Doppler effect.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Ear and eye  in section.doc",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-Ear article and questions.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-Electric Circuits.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Electricity and Safety.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Electricty Notes.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-ElementsList.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Gamma ray.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Groups of elements.doc",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-Health Effects of Noise.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Heat and temperature.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Heat Energy (GZ) 2017.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-History Of the Periodic Table.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Homework CH 6.2 compounds and mixtures.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-how we read words.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-illusion reverse.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-Infrared.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-light-unit-teacher-resource.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-light_and_sound__gz_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-light_shows_comp_150.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Magnetic and Heating Effect OHT.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Microwave.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-on all elements.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Particle model of matter notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-particles__gz__2019.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-particles_notes__gz__2019.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Periodic table mass numbers.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-Periodic Table Smaller (blank).doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Periodic Table Smaller.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Radio wave.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Revision check list Physics (1).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-revision_energy_and_light__gz__2018.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-revision_matter__gz__2018.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-see_it_chemical_and_physical_change.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Separating mixtures.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Series, Parallel Circuits.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Sources of Light OH.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Static Electricity.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-tableofelements.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-textbook physical and chemical change.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-The eye 2.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-The eye info cards.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IN-Ultraviolet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-Voltage + Current.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IN-X-ray.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/inc_dom_ws.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Inclined Planes Mini Assess ANSWERS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Inclined Planes Mini Assess.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/incomplete and co practice sheet.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/incomplete dominance sponge bob.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Incomplete Dominance.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Increasing Decreasing Friction Jigsaw act Page 1.doc",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Increasing Decreasing Friction Jigsaw act Page 2.doc",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Incredible Edible Cell.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/inheritance ws answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Inheritance.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Insect Adaptations.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/intro to genetics worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Introduction to force - Teachers guide.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Introduction to Ionic & Covalent Bonding.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/introduction-to-energy.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/investigating chemical patterns further.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Investigating Forces Ans.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Investigating Forces.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Investigation_ Making a can cooler and testing it..doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Investingating chemical patterns.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ion Table Practice.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Ionic and covalent bonds.docx",
+      "included": false,
+      "reason": "Link-only or link-dependent resource without sufficient standalone learning content; held for link validation."
+    },
+    {
+      "path": "uploads/science/ionic compound formula writing (1).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ionic compound formula writing.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ionic Compounds.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ionic formula quiz 1.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Ionic formula quiz 2.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Ionic_Jigsaw.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ions and Compound Formation.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ions colouring in.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Ions Get Together.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ions Review Exercise.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ions worksheet.png",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IONSVAL.DOC",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ISOTOPE.DOC",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Isotopes and Atomic Symbols.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT Lesson 1 -Types of Microscopes worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT Lesson 2 - Discovery of Cells.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/IT Lesson 4 - Table 1 Cell Organelles and Functions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/It's Just Like...a Prison Cell!.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-(phet) build a molecule  student guide.pdf",
+      "included": false,
+      "reason": "Duplicate content of uploads/science/build a molecule  student guide.pdf"
+    },
+    {
+      "path": "uploads/science/IT-(Phet)Density.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-Atomic structure webquest.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-Basic Stoichimetry PhET Lab.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-Electromagnetic Radiation.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-Forces and Motion Simulation Activity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-Heat.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-Music Investigation.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-Musical Instruments Library Assignment Mindmap.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-Musical Instruments Library Assignment.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-Online Heat Experiment.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-States Of Matter simulation inquiry v2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-STUDY NOTES - LIGHT.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-STUDY NOTES - THERMAL ENERGY and HEAT.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/IT-The Electromagnetic Spectrum.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Jigsaw_template_sedimentary rocks.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/joebody.pdf",
+      "included": false,
+      "reason": "Full book rather than a classroom worksheet; held for selection of an appropriate classroom extract."
+    },
+    {
+      "path": "uploads/science/Joes heart and quest.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Journey Planning Calculations.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Karyotypes v2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Karyotypes.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ke and pe worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/KINETIC & POTENTIAL WORKSHEET Pathway1.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/KINETIC & POTENTIAL WS Pathway1 ANS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Kinetic and Potential Energy Questions Name.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Kinetic and Potential Energy work booklet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Kinetic Energy and Potential Energy.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Kinetic Energy Calculations.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Kinetic Energy.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/kinetic%20and%20potential%20energy%20worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Kinship- indig society.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Kiwi Fruit extractionTeacher Guide.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/LabDigestiveSystem2008.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Label Parts of a lever.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Label the diagram.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Label the Volcano Diagram.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Labelled animal cell.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Law of conservation of mass.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/laws of motion coin demo.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Level_of_Biological_Organization_Graphic_Organizer.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/levels_of_structural_organization_in_the_human_body_reading.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Lever Examples in Real Life PC VERSION.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Lever Examples in Real Life WRITE ON.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Lever-worksheet (labelling).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Lever-worksheet-03.pdf",
+      "included": false,
+      "reason": "Duplicate extracted document content of uploads/science/Lever-worksheet (labelling).pdf"
+    },
+    {
+      "path": "uploads/science/Lever-worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Levers Investigation.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Levers Notes.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/levers.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Life cycle of a Star net chase.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Life cycle of stars match up.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Life cycle of stars.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Light and Sound Crossword.doc",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Literacy Task - building pyramids.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Literacy Task - Forces from ice and steam.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Literacy Task - Leonardo da Vinci.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Literacy Task - Levers in bathroom scales.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Literacy Task - Playground safety and forces.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Lolly cells.jpg",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Magnetic and Electric fields Mini.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Magnetic Fields and Electric Fields Sentences writing act.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Magnets review.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/magnetsandelectromagnets.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/magnetword.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Make a scale model of sun and Earth.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/make_a_model_of_the_earth_project-1.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Making a Metamorphic Rock.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Making Friction Less.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Making slides of plant cells.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mantle convection moving plates.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mantle convection moving plates.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Map tectonic plates WORLD.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/mass conservation investigation.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/mass_vs_weight.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/mass_vs_weight_wsheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Match types of reactions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/MATTER venn diagram.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Measure the size of the Sun.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Measuring Energy Info and Worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Measuring forces.docx",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Measuring GPE task.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Measuring KINETIC ENERGY task.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Measuring Power.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Measuring Speed.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/MEASURING YOUR KINETIC ENERGY WORKSHEET 2012.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Measuring your kinetic energy worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Meet The Elements lyrics.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Meiosis notes (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Meiosis notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Meiosis Video answers.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Meiosis Video.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/MEIOSIS vs MITOSIS.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Meiosis_Worksheet[1].doc",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Mendel and Heredity.pdf",
+      "included": false,
+      "reason": "Held for visual/content review: extracted text is insufficient to establish a useful complete resource; image-based files have not been treated as blank."
+    },
+    {
+      "path": "uploads/science/Mendel's work animation.docx",
+      "included": false,
+      "reason": "Link-only or link-dependent resource without sufficient standalone learning content; held for link validation."
+    },
+    {
+      "path": "uploads/science/Metal Maze.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Metals nonmetals metalloids.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/MetalsNonmetalsIonic.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Metamorphic Rock.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Metamorphic rocks Comprehension.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Micro Assess.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microbe Passports.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/micromanianet-webquest.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/microparts.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscope Calculations.pdf",
+      "included": true,
+      "reason": ""
+    }
+  ]
+}
