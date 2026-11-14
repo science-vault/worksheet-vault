@@ -1,0 +1,506 @@
+{
+  "batch": 7,
+  "processedFiles": 99,
+  "includedFiles": 93,
+  "excludedFiles": 6,
+  "status": "completed-preview-validated",
+  "files": [
+    {
+      "path": "uploads/science/word scramble.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/word search and colour in.docx",
+      "included": false,
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/Word Sleuth Chapter 7.2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Word Sleuth Chapter 8.1.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Word Sleuth Chapter 8.2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WordProblemprimer.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Work & Power worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Work and Power Problems.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Work done calculations.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Work worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheet .doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/worksheet 2.2 cells and microscopes.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/worksheet 2.3 plant systems.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/worksheet 2.4 cells, tissues and organs.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/worksheet 3.1 respiratory diseases.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/worksheet 3.2 blood vessels.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheet Changes in the Ecosystem.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheet energy, power Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheet Food Chains and Food Webs.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheet Relationships in Ecosystems.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/worksheet sex linked crosses 2009.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheet- Symbiotic_Interactions_1.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/worksheet_5_natural_selection.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/worksheet_6_mendels_peas.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheet_Formulas.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheets -energy, work,power.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheets for Solids liquids and gases.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Worksheets Soilds, Liquids and Gases.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/World Records.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WRITING CHEMICAL EQUATIONS.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/writing equations .pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing Equations 1.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing Equations 2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing Equations Practice Set 1&2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing Equations Practice.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing Equations.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing Equations.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing formula practise.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing Ionic Equations.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing ionic formula 2.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing ionic formula.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Writing Ionic Formulae.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/wroksheet 6 Answers.doc",
+      "included": false,
+      "reason": "Requires correction: defines dominant alleles as more powerful, confuses genes with allele pairs, and says continuous variation always follows the same normal distribution."
+    },
+    {
+      "path": "uploads/science/wroksheet 6 Q-inheritance.doc",
+      "included": false,
+      "reason": "Requires correction: definitions confuse genes with allele pairs and claim continuous variation always follows the same normal distribution."
+    },
+    {
+      "path": "uploads/science/WS Acid rain.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Acids and alkilis.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Acids and bases.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Acids and metals.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Animal and plant cells.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Changes in state (kinetic theory).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Changes in state.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Chemical reactions (conservation of mass).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Different cells for different jobs.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Elements.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Energy changes.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Energy from chemical reactions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Expansion (particle theory).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Forces and motion.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Friction.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Generating electricity.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Metals and non-metals.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Neutralisation.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Plant nutrition (specialised cells).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Pressure.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Rocks and weathering.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Simple Machines.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Solids, liquids and gases.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS The periodic table.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS The rock cycle.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WS Types of rocks.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ws_amassivetask.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ws_fossils for geological time powerpoint.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/wsheet 2.2 cells and microscopes answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/wsheet 2.4cells, tissues and organs answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/X linked genetics in the Calico cat.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/X linked questions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Y8 Light Energy 2009.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year 10 friction in sport.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year 10 Physics ticker timer 2016 2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year 10 Physics ticker timer 2016.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year 7 Physical Sciences Homework Book.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year 7 Physical Sciences workbook.docx",
+      "included": false,
+      "reason": "Workbook requires specific external Science Quest textbook activities not included in the file."
+    },
+    {
+      "path": "uploads/science/YEAR 9 CHEM 2016 DATA SHEET.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/YEAR 9 CHEM CHANGE DATA SHEET.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year 9 Chemical Formula List.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year 9 Elecrticity Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year 9 Valency and Chemical Formula List.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year 9 Valency List.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year Nine Electricity Challenge.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Year-8-Cells-Gamified.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/You tube video Energy transfer in Ecosystems.doc",
+      "included": false,
+      "reason": "Only an external video link; contains no worksheet questions or substantive learning activity."
+    },
+    {
+      "path": "uploads/science/Your speed.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/yr 10 pedigree analysis ans.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Yr 9 Chemical Formula Sheets-easy.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Yr 9 Ionic Formula Sheets-v2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Yr 9 Ionic Formula Sheets.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Yr8 Cell Pics.docx",
+      "included": false,
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/z-52-Sea-Floor-Spreading.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/zorkgent06.doc",
+      "included": true,
+      "reason": ""
+    }
+  ],
+  "addedCatalogueEntries": 89,
+  "catalogueCount": 2712
+}
