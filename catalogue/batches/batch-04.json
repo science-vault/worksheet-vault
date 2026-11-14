@@ -1,0 +1,1509 @@
+{
+  "batch": 4,
+  "processedFiles": 300,
+  "includedFiles": 277,
+  "excludedFiles": 23,
+  "status": "awaiting-published-build-validation",
+  "files": [
+    {
+      "path": "uploads/science/Microscope Coloring.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscope colouring.docx",
+      "included": false,
+      "reason": "Near-identical adapted copy of Microscope Coloring.pdf; original retained."
+    },
+    {
+      "path": "uploads/science/Microscope Crossword.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscope Image Challenge Cheat Sheet.docx",
+      "included": false,
+      "reason": "Answer list for an image quiz whose source images were not included; held with the incomplete quiz."
+    },
+    {
+      "path": "uploads/science/Microscope Image Challenge.docx",
+      "included": false,
+      "reason": "Response sheet for an image quiz with no source images included; held until the visual prompts are supplied."
+    },
+    {
+      "path": "uploads/science/Microscope Lab activity.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscope Labeling.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscope labels.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscope pdf.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/microscope pkt.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/MICROSCOPE WORKSHEET.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscope worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/microscope_worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscopes (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscopes and cells 3.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscopes Online.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microscopes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Microsoft_Word_-_Monohybrid_&_Dihybrid_Crosses.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/mineral crossword 2.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/mineral crossword.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/mineral scramble.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mineral types.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Minerals and Flame Test.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Minerals Table.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Minerals.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mining Choc Chip Biscuits.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mining.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis and Meiosis Statements.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis and Meiosis Videos.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis Blank.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis card sort.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis Flip Books.jpg",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis images.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis Meiosis Table.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis notes (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis Video (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis Video answers.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis Video.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Mitosis worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/MITOSIS.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/mitosismeiosisworksheet[1].pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/mitosisnotes.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Monohybrid Qu's.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/monohybrid_cross_worksheet answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/monohybrid_cross_worksheet1.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/monosomy trisomy jigsaw template.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Moora Floods.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/More Atoms and Ions Practice.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Most Destructive Known Earthquakes on Record in the World.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Motion and  Energy notes.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Motion and Forces Revison Booklet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Motion energy  2009 .doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Motion first key words.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Motion graphs worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Motion Graphs.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Motion questions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Motion solutions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/motion_graphs.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/MotionPracticeWS.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/mrsgren_setwork.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Muscular Dystrophy Pedigree Chart worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Muscular Dystrophy Pedigree Chart- Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Muscular Dystrophy Research Paper.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/mutations_updated_recap_by_amoeba_sisters.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/My Ugly Bug2.docx",
+      "included": false,
+      "reason": "Blank inheritance recording sheet without the trait key or activity instructions; held for completion."
+    },
+    {
+      "path": "uploads/science/Name-the-Simple-Machines.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Naming Chemical compounds 2.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Naming Chemical Compounds.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Naming Compounds and Writing Formula.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Naming_Compounds worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/NATURAL  DIASASTERS assignment.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Natural and Human Impacts on Ecosystems.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Natural Disasters Research Assignment.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Natural Ecosystems Notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Natural Selection V2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Natural selection video.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Natural Selection Worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/natural selection worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Natural Selection.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Natural_Selection_Wkst[1].doc",
+      "included": false,
+      "reason": "Duplicate worksheet content of natural selection worksheet.pdf in Word format; PDF retained."
+    },
+    {
+      "path": "uploads/science/NaturalSelectionWorksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Navigational Vectors.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/nerve cell diag.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Neurons.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Neutralisation Equations.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/New Information from an Old Comet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/new05Chem105LHalogensResults.pdf",
+      "included": false,
+      "reason": "University-level results sheet requires its original laboratory instructions; held for senior-course review."
+    },
+    {
+      "path": "uploads/science/Newton's First Law Investigation.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Newton's Laws of Motion.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Newton's laws Year 10 2017.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Newton's Second Law.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Newton's third law.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Newton.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Newtons Laws Activities.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Newtons Laws of Motion Questions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nitrogen and carbon Cycle Video questions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nitrogen carbon cycle revision video activity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nitrogen Cycle Answers.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nitrogen Cycle Word Cloze.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/nitrogen cycle worksheet.jpg",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nitrogen Cycle.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nominalising - Rock Cycle answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nominalising - Rock Cycle.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Notes summary for Plate Techtonics.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/NS-Hexagons - solids, liquids and gases.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/NS-Molecule Table.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/NS-Physical Properties of Solids, Liquids and Gases.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/NS-Solids Liquids and Gases Properties table.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/NS-Sound Production in Musical Instruments.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nuclear Power Reading.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nuclear Radiation.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Nutrition & Testing for Nutrients.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Observing Minerals.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Obseving the difference between inhaled and exhaled air.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/One Disaster After Another.doc",
+      "included": false,
+      "reason": "Activity depends on the Microsoft Bookshelf CD-ROM; held until adapted to an available source."
+    },
+    {
+      "path": "uploads/science/Optimum Conditions for Enzymes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/organelles_info_quiz.pdf",
+      "included": false,
+      "reason": "Held because preview validation failed: Conversion timeout"
+    },
+    {
+      "path": "uploads/science/Organization of the Human Body (1).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Origin of humans quiz to do while watching the video.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Our Changing Earth.doc",
+      "included": false,
+      "reason": "Old unit-program outline rather than a usable student resource."
+    },
+    {
+      "path": "uploads/science/our plant earth .pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Parachute Investigation Planning Sheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Paragraph structure Forces.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Paragraph structure Friction.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Paragraph structure Gravity.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Paragraph structure Mass.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Paragraph structure Simple Machine.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Paragraph structure Weight.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Parts of Blood.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Parts of Prokaryotic and Eukaryotic Cells.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Parts-of-a-Microscope-Printables.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/parts_of_the_microscope_quiz.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Pathogens and Antibodies.doc",
+      "included": false,
+      "reason": "Exact duplicate content of uploads/science/EW Pathogens and Antibodies.doc"
+    },
+    {
+      "path": "uploads/science/Pathogens.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/pdf_atomic_structure_and_reactions_notes__gz__2018.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Pedigree Analysis Answers.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Pedigree Analysis.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Pedigree practice worksheet.rtf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Pedigree Worksheet.rtf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Pedigree Worksheet1.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Pedigree ws ans.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/pedigree_chart.rtf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/pedigree_wksht.rtf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/pedigree_worksheet1.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/pedigree_worksheet2.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Penny genetics worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/penny genetics.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Peppered moths worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic Properties of the Halogens.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic Table Detailed.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic table exercise.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic Table Groups Jigsaw.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic Table Literacy Activity.docx",
+      "included": false,
+      "reason": "Numbered boxes without readable questions or task instructions; held for completion."
+    },
+    {
+      "path": "uploads/science/Periodic table organisation.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic Table Puzzles.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/periodic table worksheet.png",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic Table.DOC",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/periodic table.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic Table.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic-puzzle.pdf",
+      "included": false,
+      "reason": "Decorative periodic puzzle sheet without readable task instructions or questions; held for completion."
+    },
+    {
+      "path": "uploads/science/periodic-table-packet-1-worksheet.png",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic-Table-Worksheet-Template.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Periodic_table.pdf",
+      "included": false,
+      "reason": "Exact duplicate content of uploads/science/IN-tableofelements.pdf"
+    },
+    {
+      "path": "uploads/science/Peripheral nervous system v2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Peripheral nervous system.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Persuasive essay example.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Persuasive Essay Research Assignment Friction.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Persuasive Essay Template.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Phases of meiosis.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Phet conductivity.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Photosynthesis-Worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Physical Characteristics of Minerals Worksheet ANSWERS.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Physical Characteristics of Minerals Worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PHYSICS AND FORCES.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Physics animations.docx",
+      "included": false,
+      "reason": "Link-only resource without standalone learning tasks; held for link validation."
+    },
+    {
+      "path": "uploads/science/Physics review booklet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/physics triangle calcs.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Picture of animal cel.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Pictures of Plant Cell.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant and Animal Cell.docx",
+      "included": false,
+      "reason": "Same plant and animal cell labelling diagrams as Plant and Animal Cell.pdf; PDF retained."
+    },
+    {
+      "path": "uploads/science/Plant and Animal Cell.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant and Animal Cells Venn Diagram.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant Animal Cell Diagrams.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant Cell Assignment Marking Key.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant Cell Colouring KEY.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant cell colouring.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant Cell Diagram Assignment yr8.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant cell picture.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant Cells Word Search.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/plant vs animal cells.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plant_Cell Organelle Worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/plate boundaries.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plate tectonics (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plate tectonics - ANSWERS.docx",
+      "included": false,
+      "reason": "Held because preview validation failed: Conversion timeout"
+    },
+    {
+      "path": "uploads/science/Plate tectonics questions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plate tectonics solutions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plate Tectonics.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/plate_boundary_types_map_identification.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Plotting an acidbase reaction.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Polar bears and global warming.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Populations worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/POPULATIONS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Potential and Kinetic Energy NOTES_LAB.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Potential Energy george.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Potential vs  Kinetic Energy worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Power Calculations Worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Power calculations.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Power worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Power.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Prac Test indicators.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Prac Test Precipitation.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Practical_Transfer of energy from hot to cold_graphing exercise.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Precipitation Reactions Marking Rubric.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Precipitation Reactions Practical.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Precipitation Reactions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Precipitation Reactions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Precipitation reactions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Precipitation Worksheet (iMac's conflicted copy 2016-05-21).doc",
+      "included": false,
+      "reason": "Conflicted copy includes incomplete or inconsistent worked ionic equations; held for correction."
+    },
+    {
+      "path": "uploads/science/Precipitation Worksheet II.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Precipitation Worksheet.doc",
+      "included": false,
+      "reason": "Worked ionic equations appear truncated or corrupted; held for correction."
+    },
+    {
+      "path": "uploads/science/Preparing Wet Mount Microscope Slides-8.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Preparing Wet Mount Microscope Slides.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Programme 2 Family Patterns solutions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/prokaryote vs eukaryote worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ptblpuzzle.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Punnet 2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Punnett Square Practice Worksheet 2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Punnett Squares Basics.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Punnett Squares Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Punnett_Square_Worksheet_1.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Push and Pull Forces Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/push pull worksheet basic.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/push_or_pull.docx",
+      "included": false,
+      "reason": "Held for visual/content review: insufficient readable content to establish a complete useful resource."
+    },
+    {
+      "path": "uploads/science/pushes & pulls booklet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/puzzlelegend.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/puzzlepieces.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Pyramid questions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Bingo Cards      First 20 elements.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-CH 6.1 & 6.1 REVISION PEARSON SCIENCE 9.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Chemical Bingo Full set.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Chemical symbols word chase version 2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Compond Naming Bingo review.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-compounds ending in ate sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Electricity unscramble words.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Electricity Vocab Wordsleuth.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Element Bingo Y8.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Element Clueless Crossword.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Element Word Sleuth.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Elements 2 sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Elements 4 sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Elements 5 sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Elements bingo.pdf",
+      "included": false,
+      "reason": "Exact duplicate content of uploads/science/Elements bingo.pdf"
+    },
+    {
+      "path": "uploads/science/PZ-Elements sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-FormulaeofCompounds sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Heat Word Slueth.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-inventionpuzzle.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Its ELEMENTAL.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Light and Sound Crossword.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Light Wordsearch.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Metal Maze.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Microscope answers.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-microscope crossword.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Microscopes crossword.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Periodic Table Crossword.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-States  of Matter 2 sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-states of matter 1 sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Symbol maze.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/PZ-Tests For Gases sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Questions about populations.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Questions extension.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Quick_demo_of_Increased_surface_area_by_villi.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rates of Chemical Reactions cloze.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rates of Chemical Reactions intro.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rates of Chemical Reactions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rates of Reaction crossword_files/11_31ratesXword.jpg",
+      "included": false,
+      "reason": "Held for visual/content review: insufficient readable content to establish a complete useful resource."
+    },
+    {
+      "path": "uploads/science/Rates of reaction questions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rates of Reaction Worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rates of reactions jigsaw.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ratesofplatemotion_quiz.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Reaction of zinc with iodine.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Reaction Rate and Concentration.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Reaction rate investigation scaffold.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Reaction rate worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Reactions of acids prac.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Reactions questions1.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Reactions with Acids.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ReactionTypes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/ReactionTypes.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Recycling in Nature cover.docx",
+      "included": false,
+      "reason": "Cover sheet and textbook exercise references without standalone learning content."
+    },
+    {
+      "path": "uploads/science/Redshift Answers.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Redshift.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/reducing_friction_rza.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Relationships Between Organisms Jigsaw.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Respiratory Diseases.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Respiratory System (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Respiratory System quiz.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Respiratory system word sleuth.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Respiratory System.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/respiratory-activities.pdf",
+      "included": false,
+      "reason": "Explicitly designed for Grades 3–5; held outside the secondary science catalogue."
+    }
+  ]
+}
