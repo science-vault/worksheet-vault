@@ -85,6 +85,10 @@
       "reason": "Bare list of external video URLs with no worksheet, instructions or substantive teaching content; unsuitable for the worksheet catalogue as supplied."
     },
     {
+      "path": "uploads/science/2014 Activity - What are Habits.doc",
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
       "path": "uploads/science/2014 DNA Cut colour and paste activity.docx",
       "reason": "Incomplete cut-and-paste activity: refers to separate A3 and A4 DNA component sheets that are not contained in this two-page document."
     },
@@ -143,6 +147,74 @@
     {
       "path": "uploads/science/33945-photosynthesis-word-challenge.docx",
       "reason": "Byte-identical duplicate of another included resource."
+    },
+    {
+      "path": "uploads/science/Animation of digestive system.docx",
+      "reason": "Contains only a link to an obsolete Flash (.swf) animation; no usable standalone worksheet."
+    },
+    {
+      "path": "uploads/science/Atomic structure.docx",
+      "reason": "Exact duplicate of uploads/science/Atomic structure(1).docx"
+    },
+    {
+      "path": "uploads/science/Biotiversity strategy.docx",
+      "reason": "Historical policy targets for 2015 are presented without date/context; excluded from the current classroom catalogue."
+    },
+    {
+      "path": "uploads/science/blank periodic table.jpg",
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/Bodys Defence Systems.docx",
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/Cell division websites.docx",
+      "reason": "Only a short list of external links, including an obsolete Flash animation; no standalone teaching content."
+    },
+    {
+      "path": "uploads/science/Ch 15 Genetics .pdf",
+      "reason": "Exact duplicate of uploads/science/Ch 15 [DNA].pdf"
+    },
+    {
+      "path": "uploads/science/Ch 16 Genetics .pdf",
+      "reason": "Exact duplicate of uploads/science/Ch 16 [DNA)pdf.pdf"
+    },
+    {
+      "path": "uploads/science/Chalk and Talk Digestion.jpg",
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/Chemistry Types of Reactions.pdf",
+      "reason": "Requires correction: the decomposition general formula labels the sides as product to reactant. Excluded to avoid teaching the reversed relationship."
+    },
+    {
+      "path": "uploads/science/Controlling Water Levels.docx",
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/DNA model.docx",
+      "reason": "Contains only a few unlabelled geometric cutout shapes; no DNA labels, task or assembly instructions."
+    },
+    {
+      "path": "uploads/science/DNA structure.docx",
+      "reason": "Contains only an unlabelled geometric net without a DNA diagram, labels or instructions; not useful as a standalone science resource."
+    },
+    {
+      "path": "uploads/science/DRAFT Year 10 ARC Transition Program 2015.docx",
+      "reason": "Outdated 2015 curriculum transition/program document, rather than a classroom worksheet or usable teaching resource."
+    },
+    {
+      "path": "uploads/science/Energy and Heat Review.docx",
+      "reason": "Exact duplicate of uploads/science/Energy and Heat Review - homework.docx"
+    },
+    {
+      "path": "uploads/science/energy calculations worksheet.doc",
+      "reason": "Exact duplicate of uploads/science/energy calculations worksheet - Copy.doc"
+    },
+    {
+      "path": "uploads/science/EXP-Salt water.doc",
+      "reason": "Requires scientific correction: states that water is an excellent conductor without explaining that dissolved ions provide most conductivity; excluded pending correction."
     },
     {
       "path": "uploads/science/extra-worksheets/science-inquiry/psychology-and-personal-reflection/Years 7-10 - Science Inquiry - Emotions - Answer Key.docx",
@@ -5567,78 +5639,6 @@
     {
       "path": "uploads/science/zorkgent06.doc",
       "reason": "New or changed upload awaiting content, usefulness and curriculum review."
-    },
-    {
-      "path": "uploads/science/2014 Activity - What are Habits.doc",
-      "reason": "Topic could not be identified confidently from document content; held for manual classification."
-    },
-    {
-      "path": "uploads/science/Animation of digestive system.docx",
-      "reason": "Contains only a link to an obsolete Flash (.swf) animation; no usable standalone worksheet."
-    },
-    {
-      "path": "uploads/science/Atomic structure.docx",
-      "reason": "Exact duplicate of uploads/science/Atomic structure(1).docx"
-    },
-    {
-      "path": "uploads/science/Biotiversity strategy.docx",
-      "reason": "Historical policy targets for 2015 are presented without date/context; excluded from the current classroom catalogue."
-    },
-    {
-      "path": "uploads/science/blank periodic table.jpg",
-      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
-    },
-    {
-      "path": "uploads/science/Bodys Defence Systems.docx",
-      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
-    },
-    {
-      "path": "uploads/science/Cell division websites.docx",
-      "reason": "Only a short list of external links, including an obsolete Flash animation; no standalone teaching content."
-    },
-    {
-      "path": "uploads/science/Ch 15 Genetics .pdf",
-      "reason": "Exact duplicate of uploads/science/Ch 15 [DNA].pdf"
-    },
-    {
-      "path": "uploads/science/Ch 16 Genetics .pdf",
-      "reason": "Exact duplicate of uploads/science/Ch 16 [DNA)pdf.pdf"
-    },
-    {
-      "path": "uploads/science/Chalk and Talk Digestion.jpg",
-      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
-    },
-    {
-      "path": "uploads/science/Chemistry Types of Reactions.pdf",
-      "reason": "Requires correction: the decomposition general formula labels the sides as product to reactant. Excluded to avoid teaching the reversed relationship."
-    },
-    {
-      "path": "uploads/science/Controlling Water Levels.docx",
-      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
-    },
-    {
-      "path": "uploads/science/DNA model.docx",
-      "reason": "Contains only a few unlabelled geometric cutout shapes; no DNA labels, task or assembly instructions."
-    },
-    {
-      "path": "uploads/science/DNA structure.docx",
-      "reason": "Contains only an unlabelled geometric net without a DNA diagram, labels or instructions; not useful as a standalone science resource."
-    },
-    {
-      "path": "uploads/science/DRAFT Year 10 ARC Transition Program 2015.docx",
-      "reason": "Outdated 2015 curriculum transition/program document, rather than a classroom worksheet or usable teaching resource."
-    },
-    {
-      "path": "uploads/science/Energy and Heat Review.docx",
-      "reason": "Exact duplicate of uploads/science/Energy and Heat Review - homework.docx"
-    },
-    {
-      "path": "uploads/science/energy calculations worksheet.doc",
-      "reason": "Exact duplicate of uploads/science/energy calculations worksheet - Copy.doc"
-    },
-    {
-      "path": "uploads/science/EXP-Salt water.doc",
-      "reason": "Requires scientific correction: states that water is an excellent conductor without explaining that dissolved ions provide most conductivity; excluded pending correction."
     }
   ]
 }
