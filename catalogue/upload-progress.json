@@ -1,0 +1,19 @@
+{
+  "batchSize": 300,
+  "sourceCommit": "dbfd30e0dd8b1023714355dd18f034955d29f33d",
+  "initialCatalogueCount": 1029,
+  "pendingAtStart": 1899,
+  "completedBatches": [
+    {
+      "batch": 1,
+      "processedFiles": 300,
+      "includedFiles": 288,
+      "excludedFiles": 12,
+      "addedCatalogueEntries": 278,
+      "catalogueCount": 1307
+    }
+  ],
+  "processedFiles": 300,
+  "remainingFiles": 1599,
+  "catalogueCount": 1307
+}
