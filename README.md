@@ -39,3 +39,7 @@ The upload form now has separate Strand and Topic fields. Suggested paths do not
 Science resources are reviewed by content for SCSA year, strand and topic, resource type, usefulness and publisher. Types include worksheets, information sheets, experiments, activities, revision booklets and teaching guides. Mixed resources can have multiple type tags. Publisher labels require document branding or attribution; image-agency credits do not identify the publisher.
 
 Keep useful enrichment in Extra Worksheets. Exclude unusable files, unrelated material and proven duplicates from the public catalogue while retaining original files. A matching reviewed content hash is required before new or changed files can appear publicly. Unknown sources remain uncredited. The content review and exclusions are recorded in catalogue/resource-review.json and catalogue/withheld-resources.json.
+
+## Recently added sorting
+
+Use Sort by → Recently added to show the newest catalogue additions first. `addedAt` is recorded when a resource first enters the catalogue and retained in `catalogue/resource-added-dates.json`, keyed by path and reviewed content hash. Existing dates are backfilled from catalogue Git history; changing a title, moving a resource or rebuilding the catalogue does not reset its date. Locally added resources record their creation time in the browser. Undated legacy resources sort after dated additions.

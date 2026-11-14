@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Index committed worksheets, retaining reviewed SCSA placements and cached previews."""
 import collections,concurrent.futures,hashlib,json,re,subprocess,tempfile
+from datetime import datetime,timezone
 from pathlib import Path
 from urllib.parse import quote
 ROOT=Path(__file__).resolve().parents[1]
@@ -35,7 +36,17 @@ def document_assets(p,h):
    pdf.write_bytes(converted.read_bytes())
  if not image.exists():subprocess.run(['pdftoppm','-f','1','-singlefile','-scale-to','700','-png',str(pdf),str(image.with_suffix(''))],check=True,capture_output=True,timeout=90)
  return dict(thumbnail=url(image),previewUrl=url(pdf))
+def resource_added_date(path,h,dates,now):
+ # A stable path retains its date after edits; the content hash carries it through renames.
+ by_path=dates.setdefault('byPath',{});by_hash=dates.setdefault('byHash',{})
+ added=by_path.get(path) or by_hash.get(h) or now
+ by_path.setdefault(path,added);by_hash.setdefault(h,added)
+ return added
+
 def main():
+ dates_file=ROOT/'catalogue/resource-added-dates.json'
+ added_dates=json.loads(dates_file.read_text()) if dates_file.exists() else {}
+ indexed_at=datetime.now(timezone.utc).isoformat(timespec='seconds').replace('+00:00','Z')
  entries=[];failures=[];withheld=[]
  for p in sorted(UPLOADS.rglob('*'),key=lambda p:str(p).lower()):
   if not p.is_file()or p.suffix.lower()not in EXTENSIONS:continue
@@ -64,7 +75,7 @@ def main():
   text=m.get('searchText','')
   words=[w for w,c in collections.Counter(re.findall(r'[a-z]{4,}',text.lower())).most_common(120)if w not in STOP][:14]
   kws=list(dict.fromkeys(m.get('keywords',[])+words))[:32]
-  rows.append(dict(id='github:'+e['path'],title=m['title']+(' - Answer Key'if m.get('isAnswer')else ''),publisher=m.get('publisher','Uncredited source'),publisherCategory=m.get('publisherCategory','Uncredited source'),resourceTypes=m.get('resourceTypes',['Worksheet']),reviewStatus=m.get('reviewStatus','Reviewed'),year=m.get('year','7–10'),years=m.get('years',[m.get('year','')]),area=m.get('area','Science'),subject=m.get('subject','Science'),pathway=m.get('pathway',''),unit=m.get('unit',''),strand=m.get('strand','Extra Worksheets'),topic=m.get('topic','Extra Worksheets'),supportingTopic=m.get('supportingTopic',''),collection=m.get('collection','extra'),description=m.get('description',''),keywords=kws,searchText=text[:60000],curriculumSource=m.get('curriculumSource',''),classificationNote=m.get('classificationNote',''),originalFilename=Path(m.get('originalPath',e['path'])).name,resourceType=m.get('resourceType','Worksheet'),worksheet=dict(name=m.get('downloadName',e['p'].name),url=url(e['p'])),answer=dict(name=answer['meta'].get('downloadName',answer['p'].name),url=url(answer['p']))if answer else None,source='github',_entry=e))
+  rows.append(dict(addedAt=resource_added_date(e['path'],e['h'],added_dates,indexed_at),id='github:'+e['path'],title=m['title']+(' - Answer Key'if m.get('isAnswer')else ''),publisher=m.get('publisher','Uncredited source'),publisherCategory=m.get('publisherCategory','Uncredited source'),resourceTypes=m.get('resourceTypes',['Worksheet']),reviewStatus=m.get('reviewStatus','Reviewed'),year=m.get('year','7–10'),years=m.get('years',[m.get('year','')]),area=m.get('area','Science'),subject=m.get('subject','Science'),pathway=m.get('pathway',''),unit=m.get('unit',''),strand=m.get('strand','Extra Worksheets'),topic=m.get('topic','Extra Worksheets'),supportingTopic=m.get('supportingTopic',''),collection=m.get('collection','extra'),description=m.get('description',''),keywords=kws,searchText=text[:60000],curriculumSource=m.get('curriculumSource',''),classificationNote=m.get('classificationNote',''),originalFilename=Path(m.get('originalPath',e['path'])).name,resourceType=m.get('resourceType','Worksheet'),worksheet=dict(name=m.get('downloadName',e['p'].name),url=url(e['p'])),answer=dict(name=answer['meta'].get('downloadName',answer['p'].name),url=url(answer['p']))if answer else None,source='github',_entry=e))
  def render(row):
   e=row.pop('_entry')
   try:row.update(document_assets(e['p'],e['h']))
@@ -75,7 +86,9 @@ def main():
  # Separate office profiles permit parallel conversion without locking a shared process.
  with concurrent.futures.ThreadPoolExecutor(max_workers=4)as pool:rows=list(pool.map(render,rows))
  rows.sort(key=lambda r:(r['collection']=='extra',int(r['year'])if r['year'].isdigit()else 99,r['strand'],r['title'].lower()))
- OUTPUT.parent.mkdir(exist_ok=True,parents=True);OUTPUT.write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n')
+ OUTPUT.parent.mkdir(exist_ok=True,parents=True)
+ if not failures:dates_file.write_text(json.dumps(added_dates,indent=2,sort_keys=True)+'\n')
+ OUTPUT.write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n')
  (ROOT/'catalogue/preview-status.json').write_text(json.dumps(dict(worksheets=len(rows),linkedAnswerKeys=len(matched),failures=failures,withheldFiles=len(withheld)),indent=2)+'\n')
  (ROOT/'catalogue/withheld-resources.json').write_text(json.dumps(dict(files=withheld),ensure_ascii=False,indent=2)+'\n')
  # Mark a batch complete only after every catalogue preview has validated.
