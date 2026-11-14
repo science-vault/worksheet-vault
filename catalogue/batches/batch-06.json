@@ -1,0 +1,1511 @@
+{
+  "batch": 6,
+  "processedFiles": 300,
+  "includedFiles": 277,
+  "excludedFiles": 23,
+  "status": "completed-preview-validated",
+  "files": [
+    {
+      "path": "uploads/science/Wk-(cut and sort) Particle Diagrams.pdf",
+      "included": false,
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/WK-(cut and sort) science equipment.pdf",
+      "included": false,
+      "reason": "Exact duplicate of uploads/science/WK-(cut and sort) science equipment.pdf"
+    },
+    {
+      "path": "uploads/science/WK-(Cut and sort) whichpieceofequipment.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Cut and Sort)Physical and Chemical Changes Properties act.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Wk-(label)Science Laboratory Equipment.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Literacy) Atoms.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(literacy) Physical Chemical Change.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Literacy)Earth's Magnetic Field.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(literacy)Matter sentences 1.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Literacy)Matter sentences Answers 1.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(literacy)Physical and Chemical Changes punctuation answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(literacy)Physical and Chemical Changes punctuation.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Match) SCIENTIFIC METHOD.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Nelson)graphing_worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Oxford) Reporting Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Oxford)Safety in the Lab.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Pearson) Analysing an experiment.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Pearson) Chapter 7 - Forces.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Pearson)Heat.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Pearson)When Substances Change.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-01Chem105LMolesResults.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Accuracy.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-aimworksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-answers atomic symbols and electron configuration.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-ATOMIC NUMBER AND MASS NUMBER.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Atomic Structure.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Atomic structure.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-atomic symbols and electron config.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Atoms in a compound.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Atoms in Elements.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Atoms, elements and compounds.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Balanced and Unbalanced Forces- v2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-balanced equation worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Balanced Equations 1.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Balanced Equations 2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Balanced-and-Unbalanced-Forces-Worksheet Basic.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-balanced_and_unbalanced_forces.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-BALANCING SIMPLE CHEMICAL EQUATIONS.doc",
+      "included": false,
+      "reason": "Incorrect reactant naming in equation prompts, including hydrogen plus oxide and sodium plus hydroxide; requires correction."
+    },
+    {
+      "path": "uploads/science/WK-bond covalent.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-bond ionic.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Bonding worksheet 2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Bonding Worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-book_3_-_the_scientific_method___graphing_key.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Brownian Motion.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-bunsen_burners2.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Buoyancy - twig video fill-in-the-blank ANSWERS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Buoyancy - twig video fill-in-the-blank.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Cells.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Change of State (cut and paste) (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-change of state.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Changes of State.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Charged Particles Homework Sheet (1).doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chem workbooklet Elements Compounds and Mixtures.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chem105_Workshop01 moles.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chemical and physical change revision.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chemical changes worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chemical formula 1 and 2.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chemical Formula Practice.docx",
+      "included": false,
+      "reason": "Exact duplicate of uploads/science/Chemical Formula Practice y9.docx"
+    },
+    {
+      "path": "uploads/science/WK-Chemical Formula Sheet 1.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chemical Formula Sheet 2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chemical Formula Sheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-chemical formulas.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chemistry Element Assignment.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Chemistry naming revision.docx",
+      "included": false,
+      "reason": "Exact duplicate of uploads/science/Chemistry naming revision.docx"
+    },
+    {
+      "path": "uploads/science/WK-chemistry quiz.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Circuit and Symbols Test 2013.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Circuit Diagrams.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-circuit_diagrams.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Common ions and compounds(1).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Common molecules worksheet.docx",
+      "included": false,
+      "reason": "Exact duplicate of uploads/science/Common molecules worksheet.docx"
+    },
+    {
+      "path": "uploads/science/WK-Compare the brightness of the each lamp with lamp A ANSWERS.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Compare the brightness of the each lamp with lamp A.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-completing_the_circuit.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-conclusionworksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Current and Circuits.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Current in Series and Parallel Circuits HO.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Describing Differences Chemical and Physical change.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Drawing Tables for Data.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-E C M identifying symbols.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Ear Diagram.docx",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-ear.docx",
+      "included": false,
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/WK-Elect In The Home Questions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electicity Questions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electric Shock Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electrical Energy at Work Video Worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electrical Energy Resistance 2002 vers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electrical Safety Teachers Guide.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity definition worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity In The Home Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity in the home OH Word Cloze.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity Problem Sheet 1 Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity questions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity Quick Quiz.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity Quiz.doc",
+      "included": false,
+      "reason": "Duplicated parallel-circuit descriptions for questions 9 and 10; requires correction."
+    },
+    {
+      "path": "uploads/science/WK-Electricity Revision Sheet 3.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity Revision Sheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-electricity revision.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity-Test.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Electricity.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-electronicstructure_periodic_table.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Element quiz sheet.docx",
+      "included": false,
+      "reason": "Exact duplicate of uploads/science/Element quiz sheet.docx"
+    },
+    {
+      "path": "uploads/science/WK-Element Symbols revision.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-ELEMENT SYMBOLS.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Element-compound-mixture- Revision sheet 2.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Element-compound-mixture-handout.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Elements and Compounds comparing.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Elements and Compounds questions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-elements and compounds.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Elements and compounds.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Elements compounds or mixtures worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Elements to Remember Y8.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Elements, compounds and mixtures homework sheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-elements, compounds and their symbols.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Elements, compounds mixtures revision quiz answers.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Elements, compounds mixtures revision quiz.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Energy - introduction to thermal energy.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Equip Quiz 1.pdf",
+      "included": false,
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/WK-experimental_design_wsheet__variables_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Extended answer question phase changes.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Extension questions pdf.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-extra stuff sound.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Forces Answers.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Forces Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Forming ions(1).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Fuses OHT.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Harder Variables worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-hazard-symbols.docx",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-Heat  worksheets.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Heat and investigating scientifically Test.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Heat and Temperature.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Heat Energy 2009.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Heat loss.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Heat Revision.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Heat Test.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Heat transfer and electric circuits revision.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Heat transfer booklet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Heating and Cooling Homework sheeets.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Homework Compounds and Mixtures pdf.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Homework Soiund.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Hot Cars.doc",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-Hot handle.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-HOT MOVES.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-How fast does sound travel.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-In solids paritcles vibrate in fixed positions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Inference Prediction Observation.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Introduction Science.pdf",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-Investigatingwriting frame.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-investigationplanningsheets.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Ionic Compounds One.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Ionic Compounds Table.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Ionic Compounds Two.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Ionic Formula and Equations.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Ionic Formula practice.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-IONIC FORMULA SHEET.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-IONIC FORMULA.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-IONS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Joes Eye and questions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Lab Equipment Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-lab_safety_11.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-lab_safety_worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-lab_safety_worksheet2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Lenses and the Eye booklet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Lenses and what they do.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-LEVERS PRAC WORKSHEET 2012.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light 6.1-6.3 worksheetss.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light and Sound Revision answers.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light and sound Revision.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light as a wave student worksheet.docx",
+      "included": false,
+      "reason": "Requires an accompanying PowerPoint presentation not supplied with this worksheet."
+    },
+    {
+      "path": "uploads/science/WK-LIGHT BOOKLET 2012.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-LIGHT CIRCUIT.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light Energy booklet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light Energy worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-light pdf.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light Questions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light questions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light Revision.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Light solutions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Making Formula ANSWERS(1).pdf",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-Making formulas(1).pdf",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-MAKING SOME IONIC COMPOUNDS CHEMICAL REACTIONS VERSION.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-MAKING SOME IONIC COMPOUNDS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-making_observations_worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Matter Worksheets.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Measurement and Units.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Measurement Worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-measurement_in_the_lab.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-measurement_in_the_lab_key.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-measuring cylinder.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Measuring Light.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-MEASURING.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Meet the Elements by They Might Be Giants.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-METALS AND NON on the periodic table.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Metals and Non-Metals (Cut & Paste).doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Metals and Nonmetals.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-mirrors_science_year_9__gz_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-mixtures answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-more_circuits.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-obs_inf_worksheet_2013.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Observation, Inference and Prediction.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Observing & Inferring.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Observing.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Ohm's Law 1 and 2 combined.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-OhmsLaw.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Parallel and Series Circuits.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Particle theory.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-pencil shadow fill in.docx",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-Periodic table.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-phase changes.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Phys and Chem Properties and Changes and KEY.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Physical and Chemical Change Answers forRevision Quiz answer key.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Physical and Chemical Change Revision Quiz.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Physical and Chemical Change.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Physical and chemical changes.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Physical and chemical changes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Physical and chemical Properties and Changes.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-properties of water answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-properties of water.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Questions on elements answers.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Questions on elements.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Quiz 1 equipment.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Quiz Three (Electricity).doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Reflectin Quiz.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Reflecting Rays in a Plane Mirror.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Relative formula mass worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Reliability.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Resistance and Power Homework Sheet (3).doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Resistance OHT.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Resistance testing worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Review Questions Compounds and Mixtures.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Rules and Signs.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Safety With Electricity Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-safety___equipment_in_teh_laboratory_key.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-safety___equipment_in_the_laboratory__book_2_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-SAFETYW0.DOC",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Sc Method Experiments Worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Scatter plot and trend line Worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Science inquiry skills modified worksheets.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Science Laboratory Rules.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Science questions for light day.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Scientific Equipment.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Scientific Expts sheet blank students.doc",
+      "included": false,
+      "reason": "Blank report scaffold without substantive questions or learning content."
+    },
+    {
+      "path": "uploads/science/WK-Scientific Method steps Worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-scientific_method_practice_test.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-scientific_method_practice_test_key.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-scimethod.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-sight__science_year_9__gz_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Solid liquid and gas descriptions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Solid liquid and gas properties explanation.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Solids, liquids and Gases review questions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Solids, liquids and gases table.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Sound and Music.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Sound Booklet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Sound energy2009.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Sound Investigation.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Sound Revision questions.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Sound Revision.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-sound student fill in booklet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Sound worksheet - Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Sound worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Space Heating.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Speed of Sound Problems.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-states change intro.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-States of Matter poster.doc",
+      "included": false,
+      "reason": "No usable text after extraction and first-two-page OCR; held for visual review."
+    },
+    {
+      "path": "uploads/science/WK-Symbol and formula test 2.docx",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-Symbol test.docx",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-TABLE OF COMMON IONS.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-ted ed plastic recycling video.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-The Bunsen Burner.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-The Chemical Kid.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-The Ear.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-The Eye.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-The Particle Model.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-The Particle Theory and States of Matter.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-The Particle theory of Matter 2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-The Particle Theory of Matter.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-The Speed of Sound.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-the_scientific_method___graphing__book_3_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Transparent, Translucent and Opaque Objects.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Types of Forces.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Unit 2 Physical and Chemical Change Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Units of Measure.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-using_data_in_science_to_draw_conclusions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Valency sheet 1.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Valency sheet 2.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-VARIABLES WORKSHEET #2_ MORE PRACTICE.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Variables worksheet word version.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Variables Worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-variables_wsheets__extra_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Voltage in Series and Parallel Circuits HO.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-volume worksheet 2.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Washing Machine Heater.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Wave Worksheet modified.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-What happens when water boils.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-whats unsafe in the lab.pdf",
+      "included": false,
+      "reason": "Topic could not be identified confidently from document content; held for manual classification."
+    },
+    {
+      "path": "uploads/science/WK-Working With Electricity Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Working with Electricity Comprehension.DOC",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Writing up a Practical Report.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Year 10 Chemistry Problems.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-Year 9 Elecricity.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Word equations practice.docx",
+      "included": true,
+      "reason": ""
+    }
+  ],
+  "addedCatalogueEntries": 262,
+  "catalogueCount": 2623
+}
