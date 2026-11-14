@@ -1,0 +1,1810 @@
+{
+  "batch": 2,
+  "processedFiles": 300,
+  "includedFiles": 294,
+  "excludedFiles": 6,
+  "addedCatalogueEntries": 288,
+  "catalogueCount": 1595,
+  "files": [
+    {
+      "path": "uploads/science/conversion of measurements.pdf",
+      "blobSha": "6e9574036d7feb35d353a37ae8855ada1c4a66a9",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Converting chemical expressions into word and chemical equations.docx",
+      "blobSha": "94a4e9dab870b9a86f8da4e66bdbcc47bcdf190b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Converting chemical expressions into word and chemical equations.pdf",
+      "blobSha": "2436237af55d0c34cafbf2705eeadc3699630af9",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Crater Formation.doc",
+      "blobSha": "85c155902a990608e87cd7fa0fa26233f1ca8134",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Create a Creature.pdf",
+      "blobSha": "b2dae56a5f6106a8ed6c7cb15f3d9d3708d4effb",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/ct_pro_vs_eu.pdf",
+      "blobSha": "ff4cffbdcb7a52c2f27d73323a1320b66d25fa1f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/CV An Introduction to Microscopes.pdf",
+      "blobSha": "e7db7b7233e381b74b154fe1c962003060a06f72",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/CV Levers WS and LP.pdf",
+      "blobSha": "4682a7fe4b5460de8766ec93d26bb695f4a06ad1",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/De -Nominalising - Igneous rocks 1.doc",
+      "blobSha": "56375705c4f26b4b0d992cb81356170fa1383b1b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/deadliest volcanos.doc",
+      "blobSha": "546f683796b6502785f9ded1dcb703cc8dcc49b0",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Deficiency Diseases.docx",
+      "blobSha": "f329542600bbd9a8a3227c13d1979d801f778bbb",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Describing chemical Reactions Using Words.docx",
+      "blobSha": "27805bc79fb7d1224baffda5636bdf687f126706",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Describing Differences Rock cycle.docx",
+      "blobSha": "01e0788ca35196a595d1ec82ec7f3a3e4f25d423",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Describing Motion.docx",
+      "blobSha": "32b97277870a2f251478a6eab45170560a68b664",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/desert ecology.docx",
+      "blobSha": "91abaccea5722ba8ac3efa532a99bd5545aacdf3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/diagram-of-the-earths-atmosphere.jpg",
+      "blobSha": "5f70097ecf3456d782e11c440dce9af44b3005c8",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Different Types of Muscular Dystrophy Handout.doc",
+      "blobSha": "76bc1c4a05f7f387d808546622cf06736aff699d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Digestion (2).pdf",
+      "blobSha": "0bd5d0834f266aa57c6a7d2e523b46f142fa6c23",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Digestion.pdf",
+      "blobSha": "704ca2db24a929c5ca734690e11ed31af4d83ad2",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Digestion_Poster_Instructions.docx",
+      "blobSha": "a588f16a25e4c007f0ffd9d7725bc686ebf19ce9",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Digestive System (2).docx",
+      "blobSha": "e3db6d0116eecfdd4ca1239456140aa3d80d990e",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Digestive system - answers.docx",
+      "blobSha": "6257da2332814c6229cfd4e016fe5515b8b94047",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Digestive system cartoon.docx",
+      "blobSha": "8dc8c2eef6e769eaaf6d95cfc75d156caa6dc2db",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Digestive System Diagrams (2).docx",
+      "blobSha": "7a7dbd66c3f030bf2379ccf7357552388037aea5",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/digestive system diagrams.docx",
+      "blobSha": "e7445c6187d5a2b04927e580493e7efa301b5c96",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Digestive system.docx",
+      "blobSha": "e195f43c1a608226b6fbda1643659c65b004b010",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Digestive.pdf",
+      "blobSha": "5b4dd97ce8af6171c4bd4839f0439296e9c52b56",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/digestive_system_lab_2007.pdf",
+      "blobSha": "31785c466d85e5e11503ba13e1425f4e00a7d9ee",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/dihybrid_guinea_pigs.pdf",
+      "blobSha": "6994129fe6658deebf263a356f2dcc2e277e7e15",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/dinos_plate_tectonics.pdf",
+      "blobSha": "a56d21923ba2fc293b022d653679da28954b0b2b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Discovering Acids and Bases Simulation Lesson.docx",
+      "blobSha": "9067bd63e2d027aa2f8ca279ada5a858d462a07c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/disease & defence of body.pdf",
+      "blobSha": "84556ef7fceb14da9efead1a3a7b2cddb168c5d9",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Disease Assignment Notes.docx",
+      "blobSha": "4d44c76a5a96dcab0e84b6797ad6b465fd55190b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Disease Transmission Questions.doc",
+      "blobSha": "0ddf5b243a0ce82bf04f79d2e36f6aaac28b05d6",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Disease worksheet.pdf",
+      "blobSha": "2c370c06515884120625edf6adca9e5236f8ec01",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Diseases Assignment.docx",
+      "blobSha": "af827a988d356f8e555365580a320d1f9db1743c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Diseases caused by bacteria.docx",
+      "blobSha": "3da4269cd596e5fc126d2a5e5a0dda759da65e34",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Diseases caused by Viruses.docx",
+      "blobSha": "2525b01ca3ecaafc4cd238c468ba7fa22e4873f3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Diseases Pamphlet Marking Rubric.docx",
+      "blobSha": "7cc6491498c88392d0de1f40f6b2cd2bf3d2e8d8",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Displacement, speed and acceleration multi choice questions.docx",
+      "blobSha": "06e2db5de81954498bb5d580f47c5363aed09ef6",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Distance and Displacement Worksheet.doc",
+      "blobSha": "378f355607d977c5d3512645926a82bd28dacfba",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Distance and Displacement.docx",
+      "blobSha": "2f5edab77873a0d93406b52e8873e9a9a1e9299b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Distance and Time Graphs.docx",
+      "blobSha": "cd7d6969073989379902eec4cb0a1f2c4d222efb",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Distance time graphs worksheet.doc",
+      "blobSha": "fdd13cd11d79422de1ff18d62d5b2069ccd173d1",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Distance time speed worksheet.pdf",
+      "blobSha": "e21bb9751a9b97538c4be0e52bef521799b38f27",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Distance, time, velocity, acceleration worksheet.doc",
+      "blobSha": "08b0f3e1fcd8c34d020fac3c8d41673f9a675bef",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/divergentboundaries_quiz.pdf",
+      "blobSha": "6c5cdfd456ccc6684b7fda1d1dd155ea0d716334",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA and RNA colouring.docx",
+      "blobSha": "6a607ae4a6638f967d6f4ae7f008a5855595ee84",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA Code.docx",
+      "blobSha": "fb94772896e226bdcddb9909a75651b78165ef3d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA Cracking the code.docx",
+      "blobSha": "4a1d54a646a76f7eb2b3422e125fe60c4824a15a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA extraction from kiwi EXTENDED.docx",
+      "blobSha": "3e81046e9a1d1f1be0cd27e2f85a8e8ce9b1a227",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA extraction from kiwi SHEET.docx",
+      "blobSha": "0ccff1cce42e6fe5fbd6b169fb1ebe5cc69e6ab3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA extraction validation marking key.docx",
+      "blobSha": "4694c08cd15233efe516cb95b821291a2a703c22",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA extraction validation student version.docx",
+      "blobSha": "7ba58e85c7f36b9821bb722f28ce7b3a9ab30f02",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA intro.docx",
+      "blobSha": "7694f388efa8dd6ac11e9d0ae69eb71c698b97cf",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA Model Template (1).pdf",
+      "blobSha": "be0a5e54612520b17008baccdf592de1ea3d4a05",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA model.docx",
+      "blobSha": "f431bb7735fed3866edca8c18c9a4d218ad098ce",
+      "status": "excluded",
+      "reason": "Contains only a few unlabelled geometric cutout shapes; no DNA labels, task or assembly instructions."
+    },
+    {
+      "path": "uploads/science/DNA Models.pdf",
+      "blobSha": "e20961cab96f0c6d37511c97fad5b6376986c685",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA origami_color.pdf",
+      "blobSha": "dc074ac89c9b94df6eedd05715741876b87b8134",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA structure.docx",
+      "blobSha": "ab8bf55e8ffcc5c08e725ea502643e9d30868f65",
+      "status": "excluded",
+      "reason": "Contains only an unlabelled geometric net without a DNA diagram, labels or instructions; not useful as a standalone science resource."
+    },
+    {
+      "path": "uploads/science/DNA task extra scaffold.docx",
+      "blobSha": "b179bfd50623718e861b1b79d90057d5ba5daaff",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA ws.doc",
+      "blobSha": "c1968895b213d51b716f8328d02c289d897900c9",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA-extraction-from-strawberries.pdf",
+      "blobSha": "c49897ee478e39347fdcf6e0b64e40919b257f3f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA-Model-Template.docx",
+      "blobSha": "55b5edd4bc8f5aa77f3d00e29e13bd889d5f59f2",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA.docx",
+      "blobSha": "8bb1ae88e1cc03fd93c3c75bb028f113ebe06fc4",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DNA_Extraction.pdf",
+      "blobSha": "8c5e26be2759cd39c47f3c8ce0fb5f5cbe1e6672",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Doc2.docx",
+      "blobSha": "ee044b26f65ef89a4e2fedbecbad1e790d4217c6",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/dominant-recessive worksheet.doc",
+      "blobSha": "8502bb35d5d50a539ff2db05b635605094cfd197",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DoubleHelixGame.pdf",
+      "blobSha": "f807396f4125e0572a6eeda36823e836a88d4a69",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/DRAFT Year 10 ARC Transition Program 2015.docx",
+      "blobSha": "29d13c9b13cc42b3865a89c5d6822becebdc559c",
+      "status": "excluded",
+      "reason": "Outdated 2015 curriculum transition/program document, rather than a classroom worksheet or usable teaching resource."
+    },
+    {
+      "path": "uploads/science/Earth layers.docx",
+      "blobSha": "01b23f8eca9e85a55e0bd1e365d5c925211f9397",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Earth spheres wordsearches.docx",
+      "blobSha": "bfab9e773597d7b7352989280d2833d180329b6b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Earth systems review booklet answers.pdf",
+      "blobSha": "2aaa09788f4fb34c924de6019fe3d40fe69095e3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Earth systems review booklet.pdf",
+      "blobSha": "d22c16de8d849973c5a7f3be6663080cd6177f9e",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Earthquakes.docx",
+      "blobSha": "b27ace10ddb2957474bb611875d143438022b8d6",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Ecology abiotic and biotic.docx",
+      "blobSha": "7acb9883b5b953304b0d71d6f65f3a4ea11a21e0",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/ecology crossword.docx",
+      "blobSha": "c461553d5f2cee7e7f316e84a9fd40c92cdb4555",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/ECOLOGY CW.docx",
+      "blobSha": "f776e2d9b896583b6343103f0f5efc5d8ea9ac42",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/ecology.pdf",
+      "blobSha": "a0e6d3ecc529bdcb4c25712bc1ad5f0a0dab7453",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Efficiency-Calculation-Worksheet.pdf",
+      "blobSha": "d7b59200a36bb754a1fee4961f7d468232c7fa68",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Efficiency_Worksheet.doc",
+      "blobSha": "9b720604888b463c552539ed355f53332ee09cff",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/electron config.png",
+      "blobSha": "d629e563adb21ca67732c0fc04fbac15acef1fd8",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/electron-dot-diagram-for-oxygen-chemistry-bonding-packet-worksheet-2-reviewing-lewis-dot-diagrams.jpg",
+      "blobSha": "35d64341a5fcbce1f1407efa7e15ff3a01ab70ac",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Element Bingo Y9.docx",
+      "blobSha": "599e6377a7b112723788ca78921f5b79b840f31d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Element Bingo.doc",
+      "blobSha": "28c85415d405e81caf37b52da2988b6f5d877911",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Element quiz sheet.docx",
+      "blobSha": "2ff9df73e9a87bd7bd199596c59a0f699f6fa4ab",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Element Quiz.doc",
+      "blobSha": "9e47f124070928eb68f461295be160cc0211b2ef",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Elements and Common Ions.docx",
+      "blobSha": "64f0a33941dc4c35e06bdf2bc468ab4eddc09219",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Elements bingo.pdf",
+      "blobSha": "92673930d892c894ad4397c0d00735c5890cf0f6",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/elements compounds and mixtures.jpg",
+      "blobSha": "bc562a282d0364dd879f66b7b43e020338f852b4",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/elements compounds mixtures.png",
+      "blobSha": "91da714f83b74ebc357b6f6eb14076e14fe93bba",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/elements compunds worksheet answers.jpg",
+      "blobSha": "450deacaf7f92e66e9a4cc2114a18c5a23d15bb1",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Elements to Remember.doc",
+      "blobSha": "42f0a03600c3823f7755425330c51ff91a268032",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/elephant toothpaste.pdf",
+      "blobSha": "b89b1ab88f1baca73780c8ff3801de12ab379137",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/eles-0065 WS.doc",
+      "blobSha": "da5e3239aa13d5e6a1dc34e5b6f0b28d98daf3ae",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/eles-0070-WS skin cancer.docx",
+      "blobSha": "fd220b983830287dd0b837e8c011ef29d570392c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Endo or exothermic Exp reactions Student notes.docx",
+      "blobSha": "0aaacecb903dad3d52cf42b7c8d51dfbfd198f6c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy  Notes and worksheets.doc",
+      "blobSha": "090a8409a52f3f99b6de0ec206079e5f8642b8fc",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy and Efficiency Worksheet (2).docx",
+      "blobSha": "ba3c27b3daf11d718c6d8e92be1ef2136e05810c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy and Efficiency Worksheet 2.docx",
+      "blobSha": "81c33ccfcfaf7c440dc9d7e2325a2f711b372e82",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy and Efficiency Worksheet.docx",
+      "blobSha": "fcb7c6b93175fd9b6fccd2756b34ee604de7882f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy and Heat Review - homework.docx",
+      "blobSha": "1170b13df118ad246ec426483e0c1d74ef025a35",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy and Heat Review.docx",
+      "blobSha": "1170b13df118ad246ec426483e0c1d74ef025a35",
+      "status": "excluded",
+      "reason": "Exact duplicate of uploads/science/Energy and Heat Review - homework.docx"
+    },
+    {
+      "path": "uploads/science/Energy around You p 171 - organizer.docx",
+      "blobSha": "938945ef79b955d47b72d24735747c3645fd6652",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/energy calculations worksheet (2).doc",
+      "blobSha": "6f988c9dad38c3459c2ce7d8e37f38cc1558a9fa",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/energy calculations worksheet - Copy.doc",
+      "blobSha": "7a8f43624e9058fab095b92420d3c21a00964dc0",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/energy calculations worksheet.doc",
+      "blobSha": "7a8f43624e9058fab095b92420d3c21a00964dc0",
+      "status": "excluded",
+      "reason": "Exact duplicate of uploads/science/energy calculations worksheet - Copy.doc"
+    },
+    {
+      "path": "uploads/science/Energy calculations.doc",
+      "blobSha": "48b13f3d02823efbf45674215e73bf81d136e1e3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Changes Notes.docx",
+      "blobSha": "0ceea650043741a167adf7713d0cfacff75f2414",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Converters.doc",
+      "blobSha": "bdebf702a8a84f91dc3627258ae50c13d9da252c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Efficiency Calculations.doc",
+      "blobSha": "9eca2be90f7da70d99101ea2ac7876c6f863b0f0",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Efficiency Web Exploratio.docx",
+      "blobSha": "51a82d6c91619dfe1737491dc87ec8f5eef9ad25",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Efficient Design.docx",
+      "blobSha": "6617b3df397be6ac344dc7ac159c4a3af3312f89",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy in Chemical reactions.docx",
+      "blobSha": "c9b3d07bfe758507b07d2bd2cc047585e076a739",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy in Food Experiment.docx",
+      "blobSha": "6291dc7eacf83db121ab5615c66f41ee26586989",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy in the Home poster..docx",
+      "blobSha": "9ae9461786bb6609b6c74e5fee07c2026fc9b233",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Intro sheets.doc",
+      "blobSha": "7d84346626a41e3bcf0413fb1a3f75ce77cf71c5",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Photos.doc",
+      "blobSha": "6f8b68b15ea1c890b975070dba55e6fcf79a0fe3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Photos1.doc",
+      "blobSha": "bb61a6ea41cd2b20df2a535d50bad9f2e3b651f2",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Problems.docx",
+      "blobSha": "c025887f155aa7e2eebf126623175f0465cdb791",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy questions.docx",
+      "blobSha": "846c16ffe583f50ed570900ef1e26c6a3d3c45a4",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy SHORT ANSWER.docx",
+      "blobSha": "fe15cf92e79bbec713e649f892ecfa884178977d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Test REVIEW.docx",
+      "blobSha": "ec48075898a22cb2ff97ed4d5bc4e7a23ecd9d1e",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Transformation Worksheet (2).docx",
+      "blobSha": "bc16bc3b1e3fbc06e00249a024ade7bd483a3775",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy transformation worksheet.docx",
+      "blobSha": "242c86dda8fd1a62dd0a85b0fdcba452ad72acf3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Transformation Worksheet.pdf",
+      "blobSha": "7fb03395c4906313106a7fdcb8c526d54fd36195",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Transformation.docx",
+      "blobSha": "719d54f7f9d17fe1c33024f4957cb7324accf044",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Transformations (2).docx",
+      "blobSha": "eb43aba75d4a8dddf6760fb7d26d1b7c14f935b8",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Transformations ANSWERS.docx",
+      "blobSha": "538c20b03b334fab5d3b51bb82d39189729da305",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Transformations.docx",
+      "blobSha": "c82fc545f0e44fe3c363100c4a781eff223c85ec",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/energy unit of measure.docx",
+      "blobSha": "56717acc4cdc41543b10dd0ce0028e9fbe124509",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Unscramble the following sentences Answers.doc",
+      "blobSha": "705375c5d932f389193412aab4f446739dff63f2",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy Unscramble the following sentences.doc",
+      "blobSha": "437ca81846cfa28a284e30c52f339734f9b90081",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/ENERGY.docx",
+      "blobSha": "efbfc234742acdf37bb16c461cc269cc6cf6f60f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/energy__gz__2019.pdf",
+      "blobSha": "a399a2979d4cfaf563c5208d1c677b653f6fc189",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/ENERGY_CROSSWORD.doc",
+      "blobSha": "4ae1864b9d0a9cb4e3e5a04f1f3b3cda8fc2a355",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Energy_Efficiency_Calculations.doc",
+      "blobSha": "9a6de3621ff2b6f79203779e2fbb5f111823b3ce",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/energy_science_year_9__gz_.pdf",
+      "blobSha": "dadfd1f4b17b7ae8e6760f6715e88745b5607271",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/energy_transfers_yr_7_iw[1].docx",
+      "blobSha": "68342bc52affe9eeb46b31d4c0ba1337501f9445",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Eqk-Investigating Earthquakes-Activity Sheet.docx",
+      "blobSha": "939e529262e26b8570c89a5be975198173a66e1a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/equations pt 2.docx",
+      "blobSha": "7bd5c41e0824b01e2894e37b00991cabcaa07754",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Equations to Try.docx",
+      "blobSha": "ff332b4fac20df788033c959565863e03a0c8a1f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Events for time scale v2.docx",
+      "blobSha": "5b140eedd5ae4746b97d2444949cc1778cc85aeb",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Events for time scale.docx",
+      "blobSha": "3fe85745a1b0fb21727de493b135b834b3a5dcd8",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evidence for evolution diagrams.docx",
+      "blobSha": "377556a21d340f675f5d19f29312ad87b3b9c1d5",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evidence for evolution.docx",
+      "blobSha": "750aba5cabb89edc6591b91d78c1d424cb2f5641",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evidence of Evolution.docx",
+      "blobSha": "e2855676097c546652a6903bd08f7fbafacd3239",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evolution cards to put in order.docx",
+      "blobSha": "707bc1da8927f6aea82923227422b1fb8c9d6427",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evolution notes.docx",
+      "blobSha": "dc0900eabefe63e3a4d49a579341683b312465e7",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evolution of Stars.pdf",
+      "blobSha": "fa385ba5890baa674ca0aaa832649261c2600490",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evolution questions.pdf",
+      "blobSha": "7178fc9f0a1f2dd802300125473e838f9d9c1ecd",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evolution revision booklet.docx",
+      "blobSha": "0c442e46c13ee192681bd2cb0e9e50dc989fa619",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evolution solutions.pdf",
+      "blobSha": "a402a05fcb86e9424590f48847b33d056689d26d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evolution Timeline Organism Pictures.docx",
+      "blobSha": "0fae0ae7ded870ce6efd9f504530f193bdff6ab7",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Evolution Worksheet.pdf",
+      "blobSha": "ce913c762ecf3d745416521a455c5aabae38b9da",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW 1 Weathering and SA.doc",
+      "blobSha": "31d3bfa72cf9f827a5d9704f8cc956939651e92f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW 2 Blood Vessels.doc",
+      "blobSha": "e9a83fa78515bcfbc4e8669b74487bf2aae3faa1",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW 2 Ionic Compounds and Precipitation Reactions.doc",
+      "blobSha": "d7bb647cb07b1a020f8b7390bcac40e75157318a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW 2 Types of sedimentary rock.doc",
+      "blobSha": "e8c4c88515dacb2e89a31df24fdd5231032c0063",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW 3 Reaction Rate and Concentration.doc",
+      "blobSha": "6b0de80ad0a2b3c0038705e27e9c8b43f1c717ff",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW 3 The rock cycle.doc",
+      "blobSha": "d2ac84d0454481bedb5f1883482a2bf2e46696d1",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW Endocrine system.doc",
+      "blobSha": "d6545d15de887ef450d850d21cbb55725ff46246",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW Half life and carbon dating.doc",
+      "blobSha": "82a54ed7ddea51413cd89791fd4a1250d04be0ed",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW More Balancing Equations.doc",
+      "blobSha": "84f88d1f8ea007b3d3572c3edadfe65d310af585",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW Nitrogen Cycle.doc",
+      "blobSha": "744d13c68b6fc4086db05ef702d17d9b0b48565a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW Pathogens and Antibodies.doc",
+      "blobSha": "c5e017a771cdc9cbe51f9131d0aa3f8d11064f6c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW Phosphorus Cycle.doc",
+      "blobSha": "709c8d62d1e6e1b5a46163af2ef9ebac08f80d45",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW1 Ionic Compounds.doc",
+      "blobSha": "d97c63ef5f42ae8e57b4d11c01be136e333ddf2d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW1 Leonardo da Vinci.doc",
+      "blobSha": "ee9a97c990112e267f26038c6cae367a553a9ea9",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW1 The Endocrine System Answer Key.doc",
+      "blobSha": "b5c204e663dd3b516ed44fd5f606cf3ba8cbf04e",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EW2 Plate tectonics.doc",
+      "blobSha": "8a2e96c992a91365390f1dd4c8ddd192a0bce42f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Example NonExample Template Energy.docx",
+      "blobSha": "4dc17d0e7557610a0fdd26ccebed7cda89b06231",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Exercises for Balancing Equations.doc",
+      "blobSha": "c05fedb5d7a4eaf87199266d7f23186f54486771",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Exothermic and Endothermic Reactions.docx",
+      "blobSha": "9a49093ae23b61560e136f25889e0b24a7c876a9",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Better Magnets Using Electricity.doc",
+      "blobSha": "25e3991c30c2d7f206100537634ae8aa1d665053",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Blind spot.doc",
+      "blobSha": "8879d62aaa0f6b08ac5ecb6c1443f0f491b12ff3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Build a Better House.doc",
+      "blobSha": "3a09ecfbaa8f9ccdce989f676c00c5eea575dfdb",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Bulb brightness in series and parallel HO.doc",
+      "blobSha": "c2ce5340200947452c58af950a7dff5bc4872834",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Changing a solid to a liquid.doc",
+      "blobSha": "988723c4ac1f470f32173dfb6844bfde8c2372d3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Chemical Change.docx",
+      "blobSha": "9d036fff478e5b7a48a15b30c103489f0981e538",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Circuits.doc",
+      "blobSha": "5b64586518b5663a1fa3f46bff535457c69ce78f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Conductors and Insulators.docx",
+      "blobSha": "f2b777e9d71b321b6397b5f0e281884ef52cf7e6",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Conductors.doc",
+      "blobSha": "a8550a0c3daf37fd50ff490262a9bd1cac62edd3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Cooling Down (2).doc",
+      "blobSha": "110ab28a9d3e876896e85177669367e38a1205c8",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Cooling down.doc",
+      "blobSha": "c026c1b5d3ff6b1b8b74841f65c0f8b93d5fd25d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Cows eye dissection.docx",
+      "blobSha": "fc3087f2870315ee54fe8608cbb14c3563d39957",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Designing a Cold Pack.doc",
+      "blobSha": "a7c1e96337d05a208ff072e017711affd7f8c3db",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Does your money go through the roof.doc",
+      "blobSha": "44d225f69b6985814345ce02c6cbc24f1359d57a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Dry Ice Discovery Lesson.doc",
+      "blobSha": "e9bc46b0bd354adcaf838aef00731f273374cc05",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Electric circuits practical sheet.doc",
+      "blobSha": "bfcc7bf1eb242ef6023b70f622ec31538a8f5a0d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Electric Jug Worksheet.doc",
+      "blobSha": "15d61327b2ea5698ef1b0422c8dd61252635079a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Electrical Measurements.doc",
+      "blobSha": "f5a57456679937f12d058df46b5391329b4800f3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Electricity and switches.doc",
+      "blobSha": "253569f506c80f6bb0d9c317435f31304896e01e",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Electricity to heat using nichrome wire 2002.doc",
+      "blobSha": "3adb576acffb509556c754966dd8c3aefab1235c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Flashlights.doc",
+      "blobSha": "61ae5f8f4e5019a9e55953866fa9018b993df980",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Forces & Electricity.pdf",
+      "blobSha": "3d47fa66f02585adaee536ba05844989053abe85",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Heat Activities.doc",
+      "blobSha": "788d84e3042ecdcfe722babd1dd76e66b4767025",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Heat conduction.docx",
+      "blobSha": "6216161cdbf672bb5115c6a153e673a660814fa5",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Heating and Cooling Experiments.pdf",
+      "blobSha": "bb16daa4702bb640281271f80db742d65a72f5b6",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Heating and Cooling sheets.pdf",
+      "blobSha": "2fba90c0ee386875d4f75b5096db4e75f8a43c7b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-How Sound Travels.doc",
+      "blobSha": "e4a7da71673c12b3ccd86c514ccecb4fe3f3aa5c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Ice Cream Activities.doc",
+      "blobSha": "dbc6f106dfaba01852a052f666caeb85c8b52230",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Icebergs and eggbergs prac.pdf",
+      "blobSha": "9d7f3456390a4fb764a5af9794066c08e337b090",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Investigating insulators.doc",
+      "blobSha": "ce5322f190f38b57ab87aed8d7f465d27f70e036",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Investigating melting times.docx",
+      "blobSha": "e157d4123594ac408bffbd6494decaff71f13ba3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Investigating sounds Pracs.doc",
+      "blobSha": "d96844033350355f788ca60e91e1a0d9406568ee",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-IONIC BONDING LESSON.doc",
+      "blobSha": "0188a69a285c3bb960d60ad54307f63899ab3e49",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-light stations.docx",
+      "blobSha": "dc4e4a0feabbe7065bb9fc7bb82ca12aacd4e2e1",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Loud Music Causes Hearing Loss.doc",
+      "blobSha": "8a3a8526196de91ce3ae99bf53ece33ad0aef945",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Magnets.doc",
+      "blobSha": "c5e5b0c45e70f732a2a5499cc5b78a18a3cc4b78",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Make a human ear how do we hear.doc",
+      "blobSha": "c4b21b6b01fac1e605196cec2bba376545cfe2cf",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Making Waves.doc",
+      "blobSha": "ba1c840813f09957e9761a6ac9082a9132f22881",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-mixtures and compounds.doc",
+      "blobSha": "593c521c96e3d51c2a25757d9693f70447028737",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Moles Galore.docx",
+      "blobSha": "7812493ee8d4b471123fdfce6f9bb17c370d0b65",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Observing Physical and Chemical Changes.docx",
+      "blobSha": "eed9ddf2701af65c1e848cb9411981b7c9815b7a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Producing Sound.doc",
+      "blobSha": "7c2c7a0015ad335d7e77b45376033da5a79c6ebc",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Reflection in a Plane Mirror.doc",
+      "blobSha": "97ae75eb39d42566b73e43eedfc03815c66393a6",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Revise change of phase.doc",
+      "blobSha": "f061f9db54bc282c57a0284aaa59735e6a784e4a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Salt water.doc",
+      "blobSha": "a2c53b76b02938f10d1032b74c3fb27a417be809",
+      "status": "excluded",
+      "reason": "Requires scientific correction: states that water is an excellent conductor without explaining that dissolved ions provide most conductivity; excluded pending correction."
+    },
+    {
+      "path": "uploads/science/EXP-Selling The Molecular Kinetic Theory.doc",
+      "blobSha": "ced0bf60b8e6b5ab992189c80921174e755f6f86",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Shadow Investigation Planning Sheet.docx",
+      "blobSha": "bb8ddc3e6d1d28fbe2fb0166f17cf82b2898be04",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Shadow investigation set up.docx",
+      "blobSha": "bdfa90dacac3a9e8c7ee4c5fd2ee9a61101f074a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-sheepeyedissection.pdf",
+      "blobSha": "128e2e4c27c9b681dadeaf930d3dd7b55df0e07d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-sheepeyedissection.rtf",
+      "blobSha": "fb0da2bf823ad61614ffaf6046ff3c788eb9f2af",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Simple Circuits - Build a Lighthouse.doc",
+      "blobSha": "98078f08f3f78f458a8d0f2e350ea26b8a07ed03",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Simple Circuits.doc",
+      "blobSha": "cbe184e77ccbef776e0082bc56a1f7cbef9b38e3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Sound activities (draft).docx",
+      "blobSha": "ec2f8a5c35e973b170425ce24284e2399de2fa1a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Sound is Vibration.doc",
+      "blobSha": "bc08ead545266f960d81305aa2b3195edea9145a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Sound pracs.pdf",
+      "blobSha": "24b01d3e2a145cc48d8b61aedc1c54837b02d9f6",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Sounds activities.pdf",
+      "blobSha": "3e6106a2c76a3bf09986e6e2a635447003a23c75",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Sounds through solids prac.doc",
+      "blobSha": "78c165da18c92845fba594d880b8198021498397",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Speed of sound and speed of light.docx",
+      "blobSha": "59d325ecd4d22a13f47162d28e52a153217ae66d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Supercooling - the energetics of freezing.pdf",
+      "blobSha": "e6a0c40c043ba5db4b2099ce65d662bcf43484aa",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Thermal Expansion Stations.doc",
+      "blobSha": "87e653884abbe2d6bb6d46d9682e49c6722e108a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/EXP-Thermos Flask.doc",
+      "blobSha": "fd7ecdb9ff491100cf90a756a50c2401f5f66b4b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/External Defence to Disease.docx",
+      "blobSha": "6a0afd2d2c78f371a84ce456fccc7085aa21343f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Extra Energy Worksheets and Tasks.doc",
+      "blobSha": "369800f731ece8cf4fe6b240252b2246ad0e8684",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Extra Worksheet Mutations.doc",
+      "blobSha": "c73484eec2e2067b587263ab94fa5903b8667d5e",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/F=ma problems.docx",
+      "blobSha": "e79db890f5136bcf7c684a0b1a40b265a513775c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Falling and Forces.docx",
+      "blobSha": "27f882a08fe042de5f008a584b67fcb665396a32",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Families of Elements Web Quest.docx",
+      "blobSha": "c8de3e0e862b219dde3638722781f518273bc603",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Feral Animals Article.pdf",
+      "blobSha": "47aed523f9c6048cc30ad96aeae102e0cf310710",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Field of View and Measuring things Under the Microscope.docx",
+      "blobSha": "24b01ae0d0ccb2f984fed886f74e3dd4bfdac3de",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Find the forces 2.docx",
+      "blobSha": "b991fd42171b1ee16a0ccca7061f44e3f3a7a954",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Find the forces.docx",
+      "blobSha": "ca2863364bcfd576af125997f026f36a11e4d47f",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Finding the Average Speed using the Ticker Timer.docx",
+      "blobSha": "9f03eb5ee2d4c7c3ccce71001006e9d6876e115a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/FIRES 8.doc",
+      "blobSha": "6eb15e69e50537f1fabfc7483f73615f0659468a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/first law-questions.doc",
+      "blobSha": "0143aa7a787edd3196d9eba56ffd6909d0b929f3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Flame Tests, Atomic Spectra & Applications Activity C12-2-02 & 03.doc",
+      "blobSha": "44a8caff80564279a95bc8b0877bebb0f9870543",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Flame Tests.doc",
+      "blobSha": "aed3c1c08922ed8089d3365246233495576df24d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/flickerbook_digestion.pdf",
+      "blobSha": "5078a9d14f6d493a89dea06bae946ea55eaaa333",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Folable Levels of Organization Instructions.pdf",
+      "blobSha": "d14a2220fe443ceacbe6a0962c79560004ba155d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Food chains and webs.docx",
+      "blobSha": "bd9d3eed592df14b17edcdf16f45ec7e17aefd1d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Food Groups.docx",
+      "blobSha": "2e8b7494f7888377d61f6e2ff0c6e4b2cb5cd549",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Food Web - Pictures.docx",
+      "blobSha": "249fd495e289ab558d8b1564028825f736fa53d5",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Food web on River Torrens.docx",
+      "blobSha": "083fb645814e9763fdf107c27e8f334141236f36",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/For Dissection NonParticipants.docx",
+      "blobSha": "5e2f2955c6f71f6646364355fa9ac5a40a3a3d78",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Force & motion notes  MTR.doc",
+      "blobSha": "626416fb1c1f864c0a22c5a78a54e07c78eb2710",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Force & motion notes 2001 MTR.doc",
+      "blobSha": "bd2a79dfd910f5bb0c14a0501f65baaf3dd933d9",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/force and its effect basic.jpg",
+      "blobSha": "5525d51afcbdb9b1b8fd3838d6e9b446f167d350",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Force and Motion Notes.doc",
+      "blobSha": "742f22541d068d864243699f41bbf1ab6dbc5ec8",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces (2).docx",
+      "blobSha": "2a31360701692059dd186a9c18aaef7d288cc9cd",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces - Must, Should, Could Rubric.docx",
+      "blobSha": "44dd5f1d7f11e8d62bd84df8b8b7675cda448c2c",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces and Motion Phet Basic.docx",
+      "blobSha": "4534626e5d2af3e72ca34ececc7739de0382f6f2",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces and Motion Phet Friction.docx",
+      "blobSha": "24f39cccd9c3511fbd579c4fb0c4e079eedd61d5",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces and Newtons Laws worksheet.doc",
+      "blobSha": "afe37f676a1ed5ca7224afd4215b6a96ffea3c86",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces and simple machines wordsearch.docx",
+      "blobSha": "295d7ec626d4a9b205d52e5eae7da42298585522",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces are everywhere.docx",
+      "blobSha": "26ae6deb373a379974fd2dcac97193556282a415",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces Circus Booklet.docx",
+      "blobSha": "d1793bded9eb44f9aad94e5703a415a2979699e8",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces Circus Signs.docx",
+      "blobSha": "6b385c35d97d3021d7cdf296c389b0e3f6b0f57e",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces Keywords Wordsearch Cloze.pdf",
+      "blobSha": "b1b3e35ab382571e463a4c36a96ffb5dd99375fc",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces Mini.docx",
+      "blobSha": "6d5f71162a130b1f1bee95c4519599191eb955d5",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/forces online activity 2012.docx",
+      "blobSha": "57469afc689c27ad16ff891d4356ce3187924a90",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces revision test.docx",
+      "blobSha": "806ea70b07bc09a49a0f9e446732c3eff0d1a26a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces video.docx",
+      "blobSha": "3e1b49edbd6489086bac10e1f08e2ccb90221fba",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces wordsearch.docx",
+      "blobSha": "7efbe15081ed4000cddfb48624d94936b142c6d4",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces Worksheet.doc",
+      "blobSha": "86b77fc10fd2d9aed251b2ad43db556c2fb3c0b3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/forces-flashcards-2018.pdf",
+      "blobSha": "ec031cf74ef032a230195137b8b1277904abf44a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/forces-motion-worksheet basic.pdf",
+      "blobSha": "1011307e5cd70b1455473a6184467e324957c7a7",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces.doc",
+      "blobSha": "33cf1866491205d0def5570ee9dab226ae3b8716",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forces.docx",
+      "blobSha": "9483897016c63358cd5a7a9faf2d34e6cda35f36",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/forces_summary_checklist2017.pdf",
+      "blobSha": "89d4daec0fa35507bf74a19e693e0ec50fef6542",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/forces_year_10__gz_.pdf",
+      "blobSha": "a6ce217a5bdabfe7370a170b24c91576bd384e2d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Formation of ions.pdf",
+      "blobSha": "e7235f9bc8b6cfa46e4043c5bec6baacf9b2e260",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/FORMATION OF MINERALS worksheet.docx",
+      "blobSha": "fc0d875025220c44021ed8e66ea4bb43eaffa3ec",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forms of Energy HW.docx",
+      "blobSha": "4b74c7f385d570176c7fe1b0d4e8c2877b936705",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forms of Energy mix and match.docx",
+      "blobSha": "0cef3cbbca3af105f457b92326f1fb2a0b7850e2",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forms of Energy Reading Questions.docx",
+      "blobSha": "003eabe0178fd4378abc8b9861dbb9c852740e08",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forms of Energy Stations.docx",
+      "blobSha": "8e7f1af66faf3fa72e7e65232459f2355523d79a",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Forms of Energy WS.docx",
+      "blobSha": "2ec21e29d570c1a6d4bf3e2458b0508c6d6769b0",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Formulae worksheet answers.doc",
+      "blobSha": "1770a6381081ec8a00643f0b0c17c6682d675207",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Formulae worksheet.doc",
+      "blobSha": "35543308e333a250e3bd944c211e8ecc4724a9b9",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Formulas of Ionic Compounds.docx",
+      "blobSha": "8d93f852acba9d4ce5cce362b264b6d726f0b254",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Fossil evidence for evolution wkst.doc",
+      "blobSha": "141b3bee63a660d3e75a32e953d4860dadc14be3",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Fossils notes.docx",
+      "blobSha": "9bfc30aee6f12dc29a3936cc6264ba9830c6144d",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Frayer Model (cells).docx",
+      "blobSha": "3197969b458617caa3ba692e7c39795a95925edf",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/FreeNitrogenCycleBiologyHomeworkWorksheet (1).pdf",
+      "blobSha": "aadfca2199d42320354a3f87ada22de5dd7a962b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Friction as a Friend.doc",
+      "blobSha": "4c557f59091c24e20f87d789d6172dcbc432d77b",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Friction Investigation Planning Sheet.docx",
+      "blobSha": "b9efb2210b592cf5abfcab6829244592dcc149d7",
+      "status": "included",
+      "reason": null
+    },
+    {
+      "path": "uploads/science/Friction Mini.docx",
+      "blobSha": "23211cc1a9a8979d5e7330488eb8987acaafe50b",
+      "status": "included",
+      "reason": null
+    }
+  ]
+}
