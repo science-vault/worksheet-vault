@@ -3,7 +3,7 @@
   "processedFiles": 300,
   "includedFiles": 277,
   "excludedFiles": 23,
-  "status": "awaiting-published-build-validation",
+  "status": "completed-preview-validated",
   "files": [
     {
       "path": "uploads/science/Microscope Coloring.pdf",
@@ -1505,5 +1505,7 @@
       "included": false,
       "reason": "Explicitly designed for Grades 3–5; held outside the secondary science catalogue."
     }
-  ]
+  ],
+  "addedCatalogueEntries": 263,
+  "catalogueCount": 2095
 }
