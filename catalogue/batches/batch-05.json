@@ -3,7 +3,7 @@
   "processedFiles": 300,
   "includedFiles": 284,
   "excludedFiles": 16,
-  "status": "awaiting-published-build-validation",
+  "status": "completed-preview-validated",
   "files": [
     {
       "path": "uploads/science/respiratory_handout1.pdf",
@@ -1505,5 +1505,7 @@
       "included": true,
       "reason": ""
     }
-  ]
+  ],
+  "addedCatalogueEntries": 266,
+  "catalogueCount": 2361
 }

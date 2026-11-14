@@ -35,9 +35,17 @@
       "excludedFiles": 23,
       "addedCatalogueEntries": 263,
       "catalogueCount": 2095
+    },
+    {
+      "batch": 5,
+      "processedFiles": 300,
+      "includedFiles": 284,
+      "excludedFiles": 16,
+      "addedCatalogueEntries": 266,
+      "catalogueCount": 2361
     }
   ],
-  "processedFiles": 1200,
-  "remainingFiles": 699,
-  "catalogueCount": 2095
+  "processedFiles": 1500,
+  "remainingFiles": 399,
+  "catalogueCount": 2361
 }
