@@ -1,0 +1,1509 @@
+{
+  "batch": 5,
+  "processedFiles": 300,
+  "includedFiles": 284,
+  "excludedFiles": 16,
+  "status": "awaiting-published-build-validation",
+  "files": [
+    {
+      "path": "uploads/science/respiratory_handout1.pdf",
+      "included": false,
+      "reason": "Primary game handout requires its accompanying teacher guide; held outside the secondary catalogue."
+    },
+    {
+      "path": "uploads/science/respiratorysystem_crossword.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Resporatory Diseases.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Revise forces Yr 7.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Revising chemical patterns.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Revising Forces Ans.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Revising Forces.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/revision document for yr 9 nervous system - answers.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/revision document for yr 9 nervous system.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Revision for DNA test.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Revision for Topic Test Year 7 Physical Science.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/revision_atoms_and_ions__gz__2018.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Revison - Atoms (Chapter 1).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle - Revision Guide ANSWERS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle - Revision Guide.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle . doc.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle Activity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle answers. doc.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/rock cycle cut out worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/rock cycle flow chart.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle homework.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle Inferences.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle Kinaesthetic Activity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle Punctuation answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Cycle Punctuation.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/rock cycle worksheet answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/rock cycle worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/rock cycle.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Identification Key.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Matching.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Types Written assessment Marking Key.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Types Written assessment.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rock Worksheet.doc",
+      "included": false,
+      "reason": "Same rock reading worksheet as Rock Worksheet.pdf with minor formatting changes; PDF retained."
+    },
+    {
+      "path": "uploads/science/Rock Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rocks and the Rock Cycle ws.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rocks Computer Activity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/rocks crossword 3.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rocks cycle and rock types.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rocks Igneous Metamorphic.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rocks Igneous sedimentary.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rocks Metamorphic sedimentary.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rocks Revision 2019.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rocks table.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Rocks worksheets .pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/rockswordsleuth.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/S-8-3-1_Peppered Moth Worksheet and KEY.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SBD 1.3 and 1.4 scaffolded interactives natural selection.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SBD balancing equations worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.4 #3 Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.4 #3 Questions-acids & alkalis.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.4 #5 acid & bases .doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.4 #5 Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.6 #1 Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.6 #2 Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.6 #2 Q-analysing ticker.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.6 #3 Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.6 #4 Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.6 #5 Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sc 1.6 #6 Answers.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/scaffolded video revision.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Scale Diagram of Earth (Scanned Science Quest 1).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sci_Y09_U4_ACT_RevSheetPlateTectonics.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sea Floor Spreading Activity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/sea floor spreading worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/sea_floor_model (2).doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Seafloor_Spreading.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/seafloor_spreading_activity.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sedimentary rock rocky road.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sedimentary Rocks - Weathering ANSWERS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sedimentary Rocks - Weathering.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sedimentary rocks Comprehension.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sedimentary Rocky Road Activity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/see_it_electron_configuration.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SEED GERMINATION RESEARCH.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Selections fom Science of Space 1 and 2.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/sexlinked inheritance worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sherbet Recipe.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sickle cell anaemia info page.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Simple genetics problems.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Simple Heart Diagram and Solutions.docx",
+      "included": false,
+      "reason": "Same heart diagram and solutions as the PDF version; PDF retained."
+    },
+    {
+      "path": "uploads/science/Simple Heart Diagram and Solutions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Simple Heart Dissection.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Simple Machines (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Simple Machines Cut and Paste.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SIMPLE MACHINES levers.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Simple machines video.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Simple Machines Webquest.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Simple Machines.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/simple_machines_year_10__gz_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Skatepark Lab.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/skin cancer worksheet for e lesson.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SKM_554e18030815430.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SKM_554e18030815440.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SKM_554e18030815441.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SKM_554e18030815442.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SKM_554e18030815443.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Slime mould investigation .doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Solubility Rules 2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Solubility rules.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Specialised Animal Cells.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Specialised Cells Summary Sheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Specialised Plant Cells.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Specialised-Cells-Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/specialised_cells_card_sort[1].doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/specialised_cells_worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Specialized Cells Student Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Specific heat capacity calculations.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Speed and Acceleration using a Ticker Timer.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Speed and Velocity Practice Problems.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Speed and Velocity Problems.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Speed and velocity WS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/speed calculations.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/speed calculations.docx",
+      "included": false,
+      "reason": "Same average-speed questions as speed calculations.doc; Word 97 version retained."
+    },
+    {
+      "path": "uploads/science/Speed Challenge.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Speed iec.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/speed problems ipc.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Speed Problems V2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Speed Problems.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Spelling Lists Year 7 Physical Science.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Spelling.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Spice Worksheet answers.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/SQ10AC_CH08.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Stages of Mitosis in Onion Cells.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Stars What Are Stars Made Of.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/STARTER- pedigree charts(1).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Static Electricity Over Head Version.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Stem cell games.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Strawberry DNA extration Lab and Lab Analysis.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Structure of the Earth pdf.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Structure of the Earth.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/structure-of-earth qldscienceteachers.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/studying pedigrees.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/subduction zone.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Sunspot Activity.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Symbiosis_Worksheet.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Symbol maze.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Symbols of Ions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Table of Biotic relationship.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Table of ions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/table-speed-time-distance.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/tables for gene cross activity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Teacher sheet lesson eight.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Teacher sheet lesson one.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Teacher sheet lesson seven.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Teacher sheet lesson two.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Forces-and-Motion-Cork-Board-Borders_2444.pdf",
+      "included": false,
+      "reason": "Decorative cork-board border rather than a learning resource."
+    },
+    {
+      "path": "uploads/science/TeachStarter-Forces-and-Motion-Page-Border_2447.pdf",
+      "included": false,
+      "reason": "Decorative page border rather than a learning resource."
+    },
+    {
+      "path": "uploads/science/TeachStarter-Forces-and-Motion-Word-Wall-Poster_2446.pdf",
+      "included": false,
+      "reason": "Title-only word-wall poster without learning content."
+    },
+    {
+      "path": "uploads/science/TeachStarter-Forces-and-Motion-Word-Wall-Vocabulary_2445.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Forces-Posters_853.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Forces-Title-Poster_26488.pdf",
+      "included": false,
+      "reason": "Title-only push-and-pull poster without learning content."
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Forces-Worksheet_851.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Fun-with-Forces-Worksheet_858.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Inquiry-Task_857.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Parachute-Investigation_26470.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Picture-and-Sentence-Sort-Worksheet_855.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Playground-Forces-Worksheet_854.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Vocabulary-Worksheet_852.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TeachStarter-Push-and-Pull-Water-Investigation_26492.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/tectonic_plates_quiz.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Test questions numbers changed.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Test Revision 1.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Testing for Nutrients Table.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Testing for Nutrients.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/text forces.pdf",
+      "included": false,
+      "reason": "Shorter overlapping extract of textbook forces.pdf; the fuller extract is retained."
+    },
+    {
+      "path": "uploads/science/Textbook evidence for evolution.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/textbook forces.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/textbook questions.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/the big bang theory student note.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Big Bang.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Birth of Galaxies 2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Blueprint of Life.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Carbon Cycle Notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Cell how it works clickview questions.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Circulatory System.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Cloud In The Bottle.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Comparative Anatomy of Eating.docx",
+      "included": false,
+      "reason": "Opinion/advocacy article requires accuracy review and teaching context before classroom inclusion."
+    },
+    {
+      "path": "uploads/science/The diagram shows the human respiratory.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The digestive System quick revue.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Endocrine System (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Endocrine System.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Geological Time Scale.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Immune System.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The lever and mechanical advantage.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Nervous System Worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Nervous System.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Nitrogen Cycle.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Nucleus of a Cell.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Parts of a Typical Microscope.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Peppered Moth.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The plate tectonic story a scientific jigsaw.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Reactivity of Some Metals.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Respiratory System.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Ring of Fire - Techtonic Plates.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Rock Cycle (2).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Rock Cycle follow up to video.doc",
+      "included": false,
+      "reason": "Same after-programme rock-cycle activities as Rock Cycle homework.pdf; PDF retained."
+    },
+    {
+      "path": "uploads/science/The Rock Cycle.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/THE SCIENCE OF AIRBAGS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Speed of toy Cars.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The structure of Atoms.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The Structure of the Cell.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The_Carbon_Cycle_(extracting_info_from_text)_AS.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The_Carbon_Cycle_(extracting_info_from_text)_GS.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/The_Function_of_Villi_in_the_Small_Intestine.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/the_size_of_forces.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TheMicroscope-howtouse.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Thermal Energy and Heat Notes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/They make us sick.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Thinking about forces - SPICE.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Thinking about forces.pdf",
+      "included": false,
+      "reason": "Exact duplicate content of uploads/science/Thinking about forces - SPICE.pdf"
+    },
+    {
+      "path": "uploads/science/This Dynamic Planet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ticker tape worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ticker Timers.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Time line of the development of the theory of plate tectonics.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/To Rocks Introduction.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Toadbusters.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Tolliver.pdf",
+      "included": false,
+      "reason": "Primary-school teacher unit held outside the secondary science catalogue."
+    },
+    {
+      "path": "uploads/science/Tooth.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/topic 1.2 worksheet (answers).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/transformboundaries_quiz.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Tree of life.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Trisomy monosomy jigsaw.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/True_False questions about DNA.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types and transfer of energy worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TYPES OF ADAPTATIONS.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types of advantage.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types Of Bonding Sudoku.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types of Energy Reading.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types of Energy Transferred Lab Simulation.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types of Forces cloze.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types of Forces Experiments.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types of Forces.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/TYPES OF GALAXIES.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types of Nebulae.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/types of sedimentary rock answers worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Types of sedimentary rock.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/types_of_energy_poster_2015.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/U7.3W3task sheet 2 per sheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/U7.3W4picture of island.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ugly Bugs - Simple.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ugly Bugs - Simple2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Ugly Bugs.docx",
+      "included": false,
+      "reason": "Near-identical copy of Ugly Bugs - Simple.docx; the named simplified version is retained."
+    },
+    {
+      "path": "uploads/science/Under the Microscope.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Understanding basic genetics.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Unit Revision.doc",
+      "included": false,
+      "reason": "Outdated nine-planet revision questions require correction before classroom use."
+    },
+    {
+      "path": "uploads/science/Unknown Galaxies to Be Classified.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Using a Microscope.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Using Indicators to find pH.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Using Microscopes-2.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Using Microscopes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Valence electrons worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/VALENCY PRACTICE.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Valency Table.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Veins.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/velocity and accleration.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Velocity time graph worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Velocity.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Virtual Membrane Diffusion Lab.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Volcano - Handout.docx",
+      "included": false,
+      "reason": "Held because preview validation failed: Conversion timeout"
+    },
+    {
+      "path": "uploads/science/Volcano fill in the blank and colour in (not for test).png",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Volcano What happened.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Volcano.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/VOLCANOES.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Volcanoes.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/water cycle.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/waves_science_year_9__gz_.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Weather and Climate.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/weathering and surface area worksheet.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Weathering.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/What am I - Animal Cells.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/What Are Minerals - Teacher Notes.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/What forces can do worksheet.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/What is a Force.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/What is a force.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/What_Are_CellsHS.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/When converting a word equation to a formula equation.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Where Did the Universe Come From.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Where Does a Star get its Energy From.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Wild Australasia.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Wild Australasia.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- (cut and paste)Contact and non contact forces.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- (literacy)Elements match-up.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- Accuracy and fair testing.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- Atomic structure worksheet using ptable.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- Atoms.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- Compounds (chemical reactions).pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- IONIC BONDING CARD GAME (Cut and sort).docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- Lab Equipment Quiz.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- mixtures.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- solids, liquids and gases.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- SOUND WS 1.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK- Symbols sheet 1.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(BM).Electricity.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Cut and Label) Equipment.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(cut and paste)Model Compounds.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Cut and sort) Bunsen Burner.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Cut and sort) EQUIPMENT MATCHup.docx",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(Cut and sort) Laboratory Equipment.doc",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/Wk-(cut and sort) Particle Diagrams.pdf",
+      "included": true,
+      "reason": ""
+    },
+    {
+      "path": "uploads/science/WK-(cut and sort) science equipment.pdf",
+      "included": true,
+      "reason": ""
+    }
+  ]
+}
