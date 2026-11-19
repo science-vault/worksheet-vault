@@ -1,0 +1,25 @@
+{
+  "reviewDate": "2026-11-19",
+  "sourceFiles": 1482,
+  "catalogueEntries": 1449,
+  "linkedAnswerButtons": 642,
+  "subjects": {
+    "Accounting and Finance": 58,
+    "History": 718,
+    "Geography": 293,
+    "Civics and Citizenship": 63,
+    "Economics and Business": 238,
+    "Mathematics": 112
+  },
+  "collections": {
+    "curriculum": 1283,
+    "extra": 199
+  },
+  "method": "Document content and image-page OCR reviewed against SCSA 2026 scope and sequence. Source originals preserved. Mixed-year resources explicitly list supported years; enrichment distinguished from curriculum placements. Senior legacy geography retained as background/skills without asserting current unit alignment.",
+  "curriculumSources": [
+    "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0004/1229467/Mathematics_Scope-and-sequence7-10_For-implementation-in-2026.PDF",
+    "https://k10outline.scsa.wa.edu.au/__data/assets/pdf_file/0011/1228547/Humanities-and-Social-Sciences-Scope-and-sequence-of-the-mandated-curriculum-content-P-10-For-implementation-in-2026.PDF",
+    "https://senior-secondary.scsa.wa.edu.au/syllabus-and-support-materials/humanities-and-social-sciences/accounting-and-finance",
+    "https://senior-secondary.scsa.wa.edu.au/syllabus-and-support-materials/humanities-and-social-sciences/geography"
+  ]
+}
