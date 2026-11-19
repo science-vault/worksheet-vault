@@ -38,3 +38,5 @@ jobs:
             git commit -m "Update worksheet catalogue from uploads"
             git push
           fi
+
+# Resource catalogue refresh requested: 2026-11-19
