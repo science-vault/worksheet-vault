@@ -1,6 +1,910 @@
 {
   "files": [
     {
+      "path": "uploads/mathematics/Geometry Book 2/01 - Geometric Constructions - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/02 - Constructing Triangles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/03 - Constructing Quadrilaterals - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/04 - Constructions and Circles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/05 - Similar Figures - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/06 - The Enlargement Transformation - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/07 - Similar Triangles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/08 - Using Similar Triangles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/09 - Similar Triangles and Reasoning - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/10 - Areas of Similar Figures - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/11 - Review - Similar Figures - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/12 - Circles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/13 - Chord Properties of Circles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/14 - Angle Properties of Circles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/15 - Cyclic Quadrilaterals - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/16 - Tangents to Circles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/17 - The Angle in the Alternate Segment - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/18 - Intersecting Chords and Secants - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/19 - Review - Properties of Circles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/20 - Circles and Deductive Reasoning - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/21 - Hexagon Designs - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Geometry Book 2/22 - Octagon Designs - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/01 - Area - Home Decorating.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/02 - Area - More on Home Decorating.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/03 - Area - Painting Your Interior.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/04 - Perimeter.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/05 - Temperature.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/06 - Short Cut to Converting Temperatures.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/07 - Wind Chill Index.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/08 - Average Temperature.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/09 - Weight and Height.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/10 - Time.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/11 - 24 Hour Clock.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/12 - Time Zones.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/13 - More on Time.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/14 - Measurement in Your Home Review.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/15 - Measurement in Your Home Math Projects.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/16 - Home Water Audit.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/17 - How Much Water Do You Use in One Day.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/18 - Water Use - Did you Know.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/19 - Saving Water.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/20 - Saving Water Saves Money.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/21 - Saving Electricity.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/22 - Should You Replace Your Refrigerator.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/23 - Heating Your Water for Laundry.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/24 - Garbage, Garbage, Garbage.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/25 - What's in a Bag.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/26 - More Environmental Math Problems.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/27 - Environmental Math Review.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/28 - Environmental Math Projects.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/29 - Telephone Bill.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/30 - Northland Utilities Bill.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/31 - City of Yellowknife Utilities Bill.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/32 - Visa Bill.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/33 - Understanding How Mortgages Work.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/34 - Analysing Interest on Your Mortgage.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/35 - Closing Costs.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/36 - Paying Bills Review.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Home Math/37 - Paying Bills Math Projects.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/01 - Review - Trigonometry of Right-Angled Triangles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/02 - Exact Ratios of 30 45 and 60 Degrees - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/03 - Ratios for Angles Greater than 90 Degrees - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/04 - Sine Rule - Finding the Length of a Side - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/05 - Sine Rule - Finding the Size of an Angle - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/06 - Sine Rule - Mixed Questions - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/07 - Cosine Rule - Finding the Length of a Side - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/08 - Cosine Rule - Finding the Size of an Angle - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/09 - Cosine Rule - Mixed Questions - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/10 - Mixed Questions - Sine and Cosine Rules - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/11 - Problems Involving Two Triangles - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/12 - Review - Sine and Cosine Rules - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/13 - Area of a Triangle - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/14 - Practical Application - Radial Surveys - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/15 - Mixed Trigonometry Problems - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/16 - Graph of the Sine Function - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/17 - Graph of the Cosine Function - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/18 - Graph of the Tangent Function - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/19 - Further Trigonometric Graphs - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/20 - Simple Trigonometric Equations - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/21 - Trigonometric Relationships - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Junior Measurement Book 4 - Trigonometry/22 - Trigonometry Review - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/01 - The Food Budget.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/02 - The Shopping List.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/03 - More on Shopping Lists.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/04 - Estimating Your Groceries.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/05 - Using Coupons.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/06 - Planning for Snacks for an Event.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/07 - Planning a Cookout.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/08 - How Much for One.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/09 - Buying Fresh Produce.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/10 - Which is the Better Deal.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/11 - Buying Large Quantities.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/12 - Sale Items.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/13 - Buying Large Appliances on Credit.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/14 - Calculating GST.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/15 - Shopping for the Kitchen Review.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/16 - Shopping for Food Projects.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/17 - Equal Measures.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/18 - Adjusting the Recipe.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/19 - Adjusting More Recipes.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/20 - Ratios in the Kitchen.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/21 - Cooking in Batches.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/22 - Combining Liquid Ingredients.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/23 - Combining Dry Ingredients.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/24 - Using Measurement in the Kitchen Review.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/25 - Using Measurement Projects.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/26 - Calories.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/27 - More on Calories.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/28 - Your Body Mass Index.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/29 - Nutrition Facts.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/30 - More on Nutrition.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/31 - Food Groups.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/32 - Yesterday I Ate.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/33 - Fast Food.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/34 - Fast Food Vs. Traditional Food.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/35 - Nutrition Review.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Kitchen Math/36 - Nutrition Projects.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/01 - Letter A - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/02 - Letter B - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/03 - Letter C - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/04 - Letter D - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/05 - Letter E - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/06 - Letter F - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/07 - Letter G - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/08 - Letter H - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/09 - Letter I - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/10 - Letters J K X Y and Z - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/11 - Letter L - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/12 - Letter M - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/13 - Letter N - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/14 - Letter O - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/15 - Letter P - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/16 - Letter R - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/17 - Letter S - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/18 - Letter T - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/19 - Letters U V and W - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/20 - Symbols - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - A to Z of Maths Terms and Ideas/21 - Maths Alphabets - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/01 - Agriculture - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/02 - Ceramics - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/03 - Commerce - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/04 - Dance - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/05 - Digital Media - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/06 - Drama - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/07 - Food Technology - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/08 - Geography - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/09 - More Geography - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/10 - History - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/11 - More History - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/12 - Metals - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/13 - Music - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/14 - Personal Development and Physical Health - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/15 - Photography - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/16 - Science - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/17 - More Science - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/18 - Textiles and Design - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/19 - Visual Arts - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/20 - Wood - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Literacy in Maths - Maths Across the Curriculum/21 - Curriculum Crossword - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Maths in Crime and Espionage/01 - Robin Hood - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Maths in Crime and Espionage/02 - Ned Kelly - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/01 - Distance Formula - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/02 - Midpoint Formula - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/03 - Gradient Formula - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/04 - Parallel and Perpendicular Lines and Angles of Inclination - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/05 - Distance Midpoint and Gradient Review - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/06 - Introduction to Straight Lines - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/07 - Graphing Lines Using Intercepts - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/08 - Gradient and Y-Intercept from General Equations - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/09 - Point-Gradient Equation of a Line - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/10 - Two-Point Equation of a Line - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/11 - Intercept Formula and Lines Parallel to the Axes - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/12 - Equations of Straight Lines Review - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/13 - Does a Point Lie on a Line - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/14 - Intersection of Straight Lines - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/15 - Parallel and Perpendicular Lines - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/16 - Collinear Points Using Gradient - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/17 - Perpendicular Distance from a Point to a Line - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/18 - Lines Through an Intersection - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/19 - Lines Through an Intersection Parallel or Perpendicular to Another Line - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/20 - Concurrent Lines - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/21 - Linear Functions Review 1 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/22 - Linear Functions Review 2 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/23 - Linear Inequalities - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/24 - Graphs with Absolute Values - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/25 - Function Notation - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/26 - Domain and Range - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/27 - Odd and Even Functions - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/28 - Split Functions - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/29 - Intersection of Linear and Nonlinear Graphs - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/30 - Exponential and Logarithmic Functions - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/31 - Semicircles and Hyperbolae - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/32 - Nonlinear Inequalities - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/33 - Functions Review 1 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/34 - Functions Review 2 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/35 - Examination-Style Questions 1 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/36 - Examination-Style Questions 2 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 4 - Coordinate Geometry and Functions/37 - Examination-Style Questions 3 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/01 - Factorisation Classification - Card Match - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/02 - Factorisation and Expansion - Squaresaw - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/03 - Expansions of Log Statements - Card Match - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/04 - Log Squaresaw - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/05 - Parallel and Perpendicular Lines Classification - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/06 - Features of the Parabola - Card Match - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/07 - Graph Classification - Card Match - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/08 - Matching Graphs - Card Match - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/09 - Derivatives - Card Match - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/10 - Discriminant - Card Match - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/11 - Investigating Motion - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/12 - Integration and Differentiation - Card Match - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/13 - A Series of Questions - Geometric Series - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/14 - Parabola Language - Card Match - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/15 - Study Sheet 1 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/16 - Study Sheet 2 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/17 - Study Sheet 3 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/18 - Study Sheet 4 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/19 - Study Sheet 5 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/20 - Study Sheet 6 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/21 - Study Sheet 7 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/22 - Study Sheet 8 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/23 - Study Sheet 9 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/24 - Study Sheet 10 - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/25 - Study Sheet 11 - Parabola Revision - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/26 - Study Sheet 12 - Holiday Assignment - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/27 - Study Sheet 13 - Mixed Revision - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
+      "path": "uploads/mathematics/Senior Maths Book 5 - Revision Activities/28 - Study Sheet 14 - More Mixed Revision - Worksheet.pdf",
+      "reason": "New or changed upload awaiting content, usefulness and curriculum review."
+    },
+    {
       "path": "uploads/science/1 Inherited Characteristics.docx",
       "reason": "Information sheet requires scientific correction: presents tongue rolling as a simple inherited yes/no characteristic and treats eye colour as a continuous measurement; also labels variation as discreet rather than discrete. Withheld to avoid teaching these misconceptions."
     },
