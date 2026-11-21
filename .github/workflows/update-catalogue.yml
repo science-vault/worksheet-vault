@@ -38,6 +38,7 @@ jobs:
           git add catalogue/
           if ! git diff --cached --quiet; then
             git commit -m "Update worksheet catalogue from uploads"
+            git pull --rebase origin main
             git push
           fi
 
