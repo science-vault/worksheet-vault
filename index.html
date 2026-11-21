@@ -49,7 +49,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'){$('previewModal').c
 ['previewModal','modal'].forEach(id=>$(id).addEventListener('click',e=>{if(e.target===$(id))$(id).classList.remove('open')}));
 
 function setFilterOptions(id,values,label){values=[...new Set(values.filter(Boolean).map(String))].sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));const chosen=$(id).value;$(id).innerHTML='<option value="">'+label+'</option>'+values.map(v=>`<option value="${safe(v)}">${safe(v)}</option>`).join('');$(id).value=values.includes(chosen)?chosen:''}
-function resourceYears(x){return (x.years||[x.year]).flatMap(value=>{const match=String(value||'').match(/^(\d{1,2})[–-](\d{1,2})$/);return match?Array.from({length:Math.max(0,Math.min(6,+match[2]- +match[1]+1))},(_,i)=>String(+match[1]+i)):[String(value||'')]}).filter(Boolean)}
+function resourceYears(x){const values=(x.years?.length?x.years:[x.year]).flatMap(value=>{const match=String(value||'').match(/^(\d{1,2})[–-](\d{1,2})$/);return match?Array.from({length:Math.max(0,Math.min(6,+match[2]- +match[1]+1))},(_,i)=>String(+match[1]+i)):[String(value||'')]}).filter(Boolean);return values.length?values:['Uncategorised']}
 function resourceTopic(x){return x.supportingTopic||x.topic||''}
 function refreshHierarchy(){
  setFilterOptions('subject',data.filter(x=>!$('areaFilter').value||(x.area||x.subject)===$('areaFilter').value).map(x=>x.subject),'All subjects');
