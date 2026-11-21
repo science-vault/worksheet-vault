@@ -50,4 +50,4 @@ jobs:
           script: |
             await github.rest.repos.requestPagesBuild({owner: context.repo.owner, repo: context.repo.repo});
 
-# Resource catalogue refresh requested: 2026-11-19
+# Resource catalogue refresh requested: 2026-11-21 after parallel catalogue rebuild
