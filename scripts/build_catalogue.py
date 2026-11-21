@@ -12,6 +12,13 @@ META=json.loads(META_FILE.read_text()) if META_FILE.exists() else {}
 # Reviewed batches are additive so interrupted uploads retain their checkpoint.
 for batch_metadata in sorted((ROOT/'catalogue/metadata-batches').glob('*.json')):
  META.update(json.loads(batch_metadata.read_text()))
+# Hand-reviewed year placements take precedence over older upload batches.
+YEAR_OVERRIDES=ROOT/'catalogue/year-placement-overrides.json'
+if YEAR_OVERRIDES.exists():
+ for path,placement in json.loads(YEAR_OVERRIDES.read_text()).items():
+  if path in META and META[path].get('hash')==placement.get('hash'):
+   META[path].update({k:placement[k] for k in ('year','years','classificationNote')})
+LEGACY_BROAD_SCIENCE=json.loads((ROOT/'catalogue/legacy-broad-science.json').read_text())
 # Descriptive display titles and downloaded filenames survive catalogue rebuilds.
 NAMES_FILE=ROOT/'catalogue/resource-names.json'
 if NAMES_FILE.exists():
@@ -57,6 +64,12 @@ def main():
    continue
   if not valid:
    withheld.append(dict(path=path,reason='New or changed upload awaiting content, usefulness and curriculum review.'))
+   continue
+  # Broad year labels on new Science uploads require a specific SCSA placement.
+  # Existing reviewed cross-year resources remain visible while they are audited.
+  if (m.get('area')=='Science' and m.get('year') in {'7–10','7-10','7–8','8–9','9–10','7–9','8–10'}
+      and LEGACY_BROAD_SCIENCE.get(path)!=h):
+   withheld.append(dict(path=path,reason='Awaiting review against the 2026 SCSA curriculum for a specific year group.'))
    continue
   entries.append(dict(path=path,p=p,h=h,meta=m))
  groups=collections.defaultdict(list)
