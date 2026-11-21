@@ -62,9 +62,21 @@ def main():
     if unmatched:
         raise ValueError(f'{len(unmatched)} groups do not have exactly one worksheet and answer: {list(unmatched.items())[:3]}')
     work = [(p,next(x for x in groups[pair_key(p)] if x!=p)) for p in paths]
+    reviewed = {}
+    rejected = set()
     with concurrent.futures.ThreadPoolExecutor(max_workers=12) as pool:
-        reviewed = dict(pool.map(lambda pair: inspect(*pair), work))
+        tasks = {pool.submit(inspect,*pair): pair[0] for pair in work}
+        for task in concurrent.futures.as_completed(tasks):
+            try:
+                key, value = task.result()
+                reviewed[key] = value
+            except (ValueError,subprocess.TimeoutExpired) as error:
+                rejected.add(pair_key(tasks[task]))
+                print(f'Withholding unreadable pair: {error}')
+    for key in rejected:
+        for path in groups[key]:
+            reviewed.pop(path.relative_to(ROOT).as_posix(), None)
     BATCH.write_text(json.dumps(reviewed,ensure_ascii=False,indent=2)+'\n')
-    print(f'Reviewed {len(reviewed)//2} pairs; saved {BATCH.name}')
+    print(f'Reviewed {len(reviewed)//2} pairs; withheld {len(rejected)} unreadable pairs; saved {BATCH.name}')
 
 if __name__=='__main__':main()
