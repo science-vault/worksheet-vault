@@ -12,6 +12,12 @@ META=json.loads(META_FILE.read_text()) if META_FILE.exists() else {}
 # Reviewed batches are additive so interrupted uploads retain their checkpoint.
 for batch_metadata in sorted((ROOT/'catalogue/metadata-batches').glob('*.json')):
  META.update(json.loads(batch_metadata.read_text()))
+# Hand-reviewed year placements take precedence over older upload batches.
+YEAR_OVERRIDES=ROOT/'catalogue/year-placement-overrides.json'
+if YEAR_OVERRIDES.exists():
+ for path,placement in json.loads(YEAR_OVERRIDES.read_text()).items():
+  if path in META and META[path].get('hash')==placement.get('hash'):
+   META[path].update({k:placement[k] for k in ('year','years','classificationNote','collection','topic','supportingTopic','strand') if k in placement})
 # Descriptive display titles and downloaded filenames survive catalogue rebuilds.
 NAMES_FILE=ROOT/'catalogue/resource-names.json'
 if NAMES_FILE.exists():
