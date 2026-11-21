@@ -9,6 +9,8 @@ on:
       - 'catalogue/resource-names.json'
       - 'catalogue/resource-added-dates.json'
       - 'catalogue/metadata-batches/**'
+      - 'catalogue/year-placement-overrides.json'
+      - 'catalogue/legacy-broad-science.json'
       - '.github/workflows/update-catalogue.yml'
   workflow_dispatch:
 permissions:
