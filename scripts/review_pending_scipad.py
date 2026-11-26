@@ -51,10 +51,14 @@ def inspect(path, partner):
         downloadName=f'{title} - '+('Answer Key' if is_answer else 'Worksheet')+'.pdf')
 
 def main():
+    reviewed = json.loads(BATCH.read_text()) if BATCH.exists() else {}
     existing = set(json.loads((ROOT/'catalogue/resource-metadata.json').read_text()))
     for batch in (ROOT/'catalogue/metadata-batches').glob('*.json'):
         existing.update(json.loads(batch.read_text()))
     paths = sorted(p for p in SOURCE.rglob('*.pdf') if p.relative_to(ROOT).as_posix() not in existing)
+    if not paths:
+        print(f'No new sciPAD PDFs; kept {len(reviewed)} existing reviews')
+        return
     groups = {}
     for path in paths:
         groups.setdefault(pair_key(path), []).append(path)
@@ -62,21 +66,22 @@ def main():
     if unmatched:
         raise ValueError(f'{len(unmatched)} groups do not have exactly one worksheet and answer: {list(unmatched.items())[:3]}')
     work = [(p,next(x for x in groups[pair_key(p)] if x!=p)) for p in paths]
-    reviewed = {}
+    new_reviews = {}
     rejected = set()
     with concurrent.futures.ThreadPoolExecutor(max_workers=12) as pool:
         tasks = {pool.submit(inspect,*pair): pair[0] for pair in work}
         for task in concurrent.futures.as_completed(tasks):
             try:
                 key, value = task.result()
-                reviewed[key] = value
+                new_reviews[key] = value
             except (ValueError,subprocess.TimeoutExpired) as error:
                 rejected.add(pair_key(tasks[task]))
                 print(f'Withholding unreadable pair: {error}')
     for key in rejected:
         for path in groups[key]:
-            reviewed.pop(path.relative_to(ROOT).as_posix(), None)
+            new_reviews.pop(path.relative_to(ROOT).as_posix(), None)
+    reviewed.update(new_reviews)
     BATCH.write_text(json.dumps(reviewed,ensure_ascii=False,indent=2)+'\n')
-    print(f'Reviewed {len(reviewed)//2} pairs; withheld {len(rejected)} unreadable pairs; saved {BATCH.name}')
+    print(f'Reviewed {len(new_reviews)//2} new pairs; withheld {len(rejected)} unreadable pairs; saved {BATCH.name}')
 
 if __name__=='__main__':main()
